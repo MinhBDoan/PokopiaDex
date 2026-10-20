@@ -9,92 +9,110 @@ const STORAGE_KEY = "pokopiadex-pokemon";
 function App() {
   const [activeTab, setActiveTab] = useState<Tab>("organize");
   const [pokemon, setPokemon] = useState<Pokemon[]>(() => {
-  const savedPokemon = localStorage.getItem(STORAGE_KEY);
+    const savedPokemon = localStorage.getItem(STORAGE_KEY);
 
-  if (savedPokemon) {
-    return JSON.parse(savedPokemon) as Pokemon[];
-  }
+    if (savedPokemon) {
+      return JSON.parse(savedPokemon) as Pokemon[];
+    }
 
-  return starterPokemon;
-});
+    return starterPokemon;
+  });
 
   useEffect(() => {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(pokemon));
   }, [pokemon]);
 
   function assignPokemonToRegion(pokemonId: number, region: string | null) {
-  setPokemon((currentPokemon) =>
-    currentPokemon.map((mon) =>
-      mon.id === pokemonId ? { ...mon, assignedRegion: region } : mon
-    )
+    setPokemon((currentPokemon) =>
+      currentPokemon.map((mon) =>
+        mon.id === pokemonId ? { ...mon, assignedRegion: region } : mon
+      )
+    );
+  }
+
+  function resetSavedData() {
+  const confirmed = window.confirm(
+    "Reset all Pokémon assignments to their defaults? This cannot be undone."
   );
+
+  if (!confirmed) {
+    return;
+  }
+
+  setPokemon(starterPokemon);
 }
 
   return (
-  <main className="app-shell">
-    <section className="pokedex-frame">
-      <header className="pokedex-header">
-        <div className="lens" />
-        <div>
-          <p className="eyebrow">Pokopia organizer</p>
-          <h1>PokopiaDex</h1>
-        </div>
-      </header>
+    <main className="app-shell">
+      <section className="pokedex-frame">
+        <header className="pokedex-header">
+          <div className="lens" />
+          <div>
+            <p className="eyebrow">Pokopia organizer</p>
+            <h1>PokopiaDex</h1>
+          </div>
+        </header>
 
-      <nav className="tabs">
-        <button
-          className={activeTab === "organize" ? "active" : ""}
-          onClick={() => setActiveTab("organize")}
-        >
-          Organize
-        </button>
+        <nav className="tabs">
+          <button
+            className={activeTab === "organize" ? "active" : ""}
+            onClick={() => setActiveTab("organize")}
+          >
+            Organize
+          </button>
 
-        <button
-          className={activeTab === "pokedex" ? "active" : ""}
-          onClick={() => setActiveTab("pokedex")}
-        >
-          Pokedex
-        </button>
+          <button
+            className={activeTab === "pokedex" ? "active" : ""}
+            onClick={() => setActiveTab("pokedex")}
+          >
+            Pokedex
+          </button>
 
-        <button
-          className={activeTab === "regions" ? "active" : ""}
-          onClick={() => setActiveTab("regions")}
-        >
-          Regions
-        </button>
+          <button
+            className={activeTab === "regions" ? "active" : ""}
+            onClick={() => setActiveTab("regions")}
+          >
+            Regions
+          </button>
 
-        <button
-          className={activeTab === "settings" ? "active" : ""}
-          onClick={() => setActiveTab("settings")}
-        >
-          Settings
-        </button>
-      </nav>
+          <button
+            className={activeTab === "settings" ? "active" : ""}
+            onClick={() => setActiveTab("settings")}
+          >
+            Settings
+          </button>
+        </nav>
 
-      <section className="pokedex-screen">
-        {activeTab === "organize" && (
-          <OrganizeView
-            pokemon={pokemon}
-            regions={regions}
-            onAssign={assignPokemonToRegion}
-          />
-        )}
+        <section className="pokedex-screen">
+          {activeTab === "organize" && (
+            <OrganizeView
+              pokemon={pokemon}
+              regions={regions}
+              onAssign={assignPokemonToRegion}
+            />
+          )}
 
-        {activeTab === "pokedex" && (
-          <Placeholder title="Pokedex data coming soon" />
-        )}
+          {activeTab === "pokedex" && (
+            <Placeholder title="Pokedex data coming soon" />
+          )}
 
-        {activeTab === "regions" && (
-          <Placeholder title="Pokopia regions coming soon" />
-        )}
+          {activeTab === "regions" && (
+            <Placeholder title="Pokopia regions coming soon" />
+          )}
 
-        {activeTab === "settings" && (
-          <Placeholder title="Settings coming soon" />
-        )}
+          {activeTab === "settings" && (
+            <div className="placeholder-panel">
+              <h2>Settings</h2>
+              <p>Reset saved data to restore the default Pokémon assignments.</p>
+              <button onClick={resetSavedData}>
+                Reset Saved Data
+              </button>
+            </div>
+          )}
+        </section>
       </section>
-    </section>
-  </main>
-);
+    </main>
+  );
 }
 
 type OrganizeViewProps = {
@@ -161,8 +179,8 @@ function PokemonCard({ pokemon, regions, onAssign }: PokemonCardProps) {
   return (
     <article className="pokemon-card">
       {pokemon.spriteUrl && (
-      <img src={pokemon.spriteUrl} alt={pokemon.name} className="pokemon-sprite" />
-    )}
+        <img src={pokemon.spriteUrl} alt={pokemon.name} className="pokemon-sprite" />
+      )}
 
       <div>
         <h3>{pokemon.name}</h3>
