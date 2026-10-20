@@ -31,16 +31,16 @@ function App() {
   }
 
   function resetSavedData() {
-  const confirmed = window.confirm(
-    "Reset all Pokémon assignments to their defaults? This cannot be undone."
-  );
+    const confirmed = window.confirm(
+      "Reset all Pokémon assignments to their defaults? This cannot be undone."
+    );
 
-  if (!confirmed) {
-    return;
+    if (!confirmed) {
+      return;
+    }
+
+    setPokemon(starterPokemon);
   }
-
-  setPokemon(starterPokemon);
-}
 
   return (
     <main className="app-shell">
@@ -149,7 +149,7 @@ function OrganizeView({ pokemon, regions, onAssign }: OrganizeViewProps) {
 
           return (
             <div className="region-column" key={region}>
-              <h2>{region}</h2>
+              <h2>{region} ({assignedPokemon.length} Pokémon)</h2>
 
               <div className="pokemon-stack">
                 {assignedPokemon.map((mon) => (
