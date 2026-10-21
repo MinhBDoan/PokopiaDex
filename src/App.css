@@ -199,3 +199,91 @@ h1 {
     grid-template-columns: repeat(6, 220px);
   }
 }
+
+.type-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.type-badge {
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: #e2e8f0;
+  color: #0f172a;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.type-normal {
+  background: #e2e8f0;
+}
+
+.type-fairy {
+  background: #fbcfe8;
+}
+
+.type-grass {
+  background: #bbf7d0;
+}
+
+.type-fire {
+  background: #fed7aa;
+}
+
+.type-water {
+  background: #bfdbfe;
+}
+
+.type-electric {
+  background: #fef08a;
+}
+
+.type-bug {
+  background: #d9f99d;
+}
+
+.type-flying {
+  background: #ddd6fe;
+}
+
+.type-poison {
+  background: #e9d5ff;
+}
+
+.type-ground {
+  background: #fde68a;
+}
+
+.type-fighting {
+  background: #fecaca;
+}
+
+.type-ghost {
+  background: #c7d2fe;
+}
+
+.type-ice {
+  background: #a5f3fc;
+}
+
+.type-psychic {
+  background: #ead4e4;
+}
+
+.type-rock {
+  background: #d6c6a5;
+}
+
+.type-dragon {
+  background: #c4b5fd;
+}
+
+.type-dark {
+  background: #cbd5e1;
+}
+
+.type-steel {
+  background: #b8c9d9;
+}

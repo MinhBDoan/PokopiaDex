@@ -31,16 +31,16 @@ function App() {
   }
 
   function resetSavedData() {
-  const confirmed = window.confirm(
-    "Reset all Pokémon assignments to their defaults? This cannot be undone."
-  );
+    const confirmed = window.confirm(
+      "Reset all Pokémon assignments to their defaults? This cannot be undone."
+    );
 
-  if (!confirmed) {
-    return;
+    if (!confirmed) {
+      return;
+    }
+
+    setPokemon(starterPokemon);
   }
-
-  setPokemon(starterPokemon);
-}
 
   return (
     <main className="app-shell">
@@ -184,7 +184,20 @@ function PokemonCard({ pokemon, regions, onAssign }: PokemonCardProps) {
 
       <div>
         <h3>{pokemon.name}</h3>
-        <p>{pokemon.type}</p>
+        <div className="type-badges">
+          {pokemon.type.split("/").map((type) => {
+            const typeName = type.trim();
+
+            return (
+              <span
+                key={typeName}
+                className={`type-badge type-${typeName.toLowerCase()}`}
+              >
+                {typeName}
+              </span>
+            );
+          })}
+        </div>
       </div>
 
       <select
