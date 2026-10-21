@@ -149,7 +149,7 @@ function OrganizeView({ pokemon, regions, onAssign }: OrganizeViewProps) {
 
           return (
             <div className="region-column" key={region}>
-              <h2>{region}</h2>
+              <h2>{region} ({assignedPokemon.length} Pokémon)</h2>
 
               <div className="pokemon-stack">
                 {assignedPokemon.map((mon) => (
