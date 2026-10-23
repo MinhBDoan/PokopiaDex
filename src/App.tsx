@@ -184,7 +184,20 @@ function PokemonCard({ pokemon, regions, onAssign }: PokemonCardProps) {
 
       <div>
         <h3>{pokemon.name}</h3>
-        <p>{pokemon.type}</p>
+        <div className="type-badges">
+          {pokemon.type.split("/").map((type) => {
+            const typeName = type.trim();
+
+            return (
+              <span
+                key={typeName}
+                className={`type-badge type-${typeName.toLowerCase()}`}
+              >
+                {typeName}
+              </span>
+            );
+          })}
+        </div>
       </div>
 
       <select

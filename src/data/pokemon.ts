@@ -155,5 +155,40 @@ export const starterPokemon: Pokemon[] = [
     type: "Ghost / Poison",
     assignedRegion: null,
     spriteUrl: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+  },
+  {
+    id: 124,
+    name: "Jynx",
+    type: "Ice / Psychic",
+    assignedRegion: null,
+    spriteUrl: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+  },
+  {
+    id: 74,
+    name: "Geodude",
+    type: "Rock / Ground",
+    assignedRegion: null,
+    spriteUrl: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+  },
+  {
+    id: 147,
+    name: "Dratini",
+    type: "Dragon",
+    assignedRegion: null,
+    spriteUrl: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+  },
+  {
+    id: 197,
+    name: "Umbreon",
+    type: "Dark",
+    assignedRegion: null,
+    spriteUrl: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
+  },
+  {
+    id: 208,
+    name: "Steelix",
+    type: "Steel / Ground",
+    assignedRegion: null,
+    spriteUrl: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
   }
 ];
