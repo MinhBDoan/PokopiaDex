@@ -122,15 +122,27 @@ type OrganizeViewProps = {
 };
 
 function OrganizeView({ pokemon, regions, onAssign }: OrganizeViewProps) {
+  const [searchTerm, setSearchTerm] = useState("");
   const unassignedPokemon = pokemon.filter((mon) => mon.assignedRegion === null);
+
+  const filteredUnassignedPokemon = unassignedPokemon.filter(
+    (mon) =>
+      mon.name.toLowerCase().includes(searchTerm.trim().toLowerCase())
+  );
 
   return (
     <div className="organize-view">
       <section className="pokemon-pool">
         <h2>Unassigned Pokémon</h2>
-
+        <input
+          type="search"
+          aria-label="Search unassigned Pokémon"
+          placeholder="Search Pokémon by name..."
+          value={searchTerm}
+          onChange={(event) => setSearchTerm(event.target.value)}
+        />
         <div className="pokemon-grid">
-          {unassignedPokemon.map((mon) => (
+          {filteredUnassignedPokemon.map((mon) => (
             <PokemonCard
               key={mon.id}
               pokemon={mon}
