@@ -1,3 +1,9 @@
+import importedPokemon from "./pokopia.generated.json";
+
+// Reference data is independent of the organizer's saved assignments.
+export const pokopiaCatalog = importedPokemon;
+export type PokopiaEntry = (typeof pokopiaCatalog)[number];
+
 export type Pokemon = {
   id: number;
   name: string;
