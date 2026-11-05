@@ -124,6 +124,7 @@ type OrganizeViewProps = {
 
 function OrganizeView({ pokemon, regions, onAssign }: OrganizeViewProps) {
   const [searchTerm, setSearchTerm] = useState("");
+  const [dropTarget, setDropTarget] = useState<string | null>(null);
   const unassignedPokemon = pokemon.filter((mon) => mon.assignedRegion === null);
 
   const filteredUnassignedPokemon = unassignedPokemon.filter(
@@ -132,8 +133,58 @@ function OrganizeView({ pokemon, regions, onAssign }: OrganizeViewProps) {
   );
 
   return (
-    <div className="organize-view">
-      <section className="pokemon-pool">
+    <div
+      className="organize-view"
+      onDragEnd={() => setDropTarget(null)}
+      onDropCapture={() => setDropTarget(null)}
+    >
+      <section
+        className={`pokemon-pool${dropTarget === "unassigned" ? " drop-target" : ""}`}
+        onDragLeave={(event) => {
+          if (
+            event.relatedTarget instanceof Node &&
+            event.currentTarget.contains(event.relatedTarget)
+          ) {
+            return;
+          }
+
+          setDropTarget(null);
+        }}
+        onDragOver={(event) => {
+          if (
+            event.dataTransfer.types.includes(
+              "application/x-pokopiadex-pokemon"
+            )
+          ) {
+            event.preventDefault();
+            event.dataTransfer.dropEffect = "move";
+            setDropTarget("unassigned");
+          }
+        }}
+        onDrop={(event) => {
+          event.preventDefault();
+
+          const draggedId = event.dataTransfer.getData(
+            "application/x-pokopiadex-pokemon"
+          );
+
+          if (!draggedId) {
+            return;
+          }
+
+          const pokemonId = Number(draggedId);
+          const draggedPokemon = pokemon.find(
+            (mon) => mon.id === pokemonId
+          );
+
+          if (!draggedPokemon || draggedPokemon.assignedRegion === null) {
+            return;
+          }
+
+          onAssign(pokemonId, null);
+          setSearchTerm("");
+        }}
+      >
         <h2>Unassigned Pokémon</h2>
         <input
           type="search"
@@ -161,7 +212,53 @@ function OrganizeView({ pokemon, regions, onAssign }: OrganizeViewProps) {
           );
 
           return (
-            <div className="region-column" key={region}>
+            <div
+              className={`region-column${dropTarget === region ? " drop-target" : ""}`}
+              key={region}
+              onDragLeave={(event) => {
+                if (
+                  event.relatedTarget instanceof Node &&
+                  event.currentTarget.contains(event.relatedTarget)
+                ) {
+                  return;
+                }
+
+                setDropTarget(null);
+              }}
+              onDragOver={(event) => {
+                if (
+                  event.dataTransfer.types.includes(
+                    "application/x-pokopiadex-pokemon"
+                  )
+                ) {
+                  event.preventDefault();
+                  event.dataTransfer.dropEffect = "move";
+                  setDropTarget(region);
+                }
+              }}
+              onDrop={(event) => {
+                event.preventDefault();
+
+                const draggedId = event.dataTransfer.getData(
+                  "application/x-pokopiadex-pokemon"
+                );
+
+                if (!draggedId) {
+                  return;
+                }
+
+                const pokemonId = Number(draggedId);
+                const draggedPokemon = pokemon.find(
+                  (mon) => mon.id === pokemonId
+                );
+
+                if (!draggedPokemon || draggedPokemon.assignedRegion === region) {
+                  return;
+                }
+
+                onAssign(pokemonId, region);
+              }}
+            >
               <h2>{region} ({assignedPokemon.length} Pokémon)</h2>
 
               <div className="pokemon-stack">
@@ -190,9 +287,33 @@ type PokemonCardProps = {
 
 function PokemonCard({ pokemon, regions, onAssign }: PokemonCardProps) {
   return (
-    <article className="pokemon-card">
+    <article
+      className="pokemon-card"
+      draggable
+      onDragStart={(event) => {
+        if (
+          event.target instanceof Element &&
+          event.target.closest("select")
+        ) {
+          event.preventDefault();
+          return;
+        }
+
+        event.dataTransfer.setData(
+          "application/x-pokopiadex-pokemon",
+          String(pokemon.id)
+        );
+        event.dataTransfer.effectAllowed = "move";
+      }}
+    >
+
       {pokemon.spriteUrl && (
-        <img src={pokemon.spriteUrl} alt={pokemon.name} className="pokemon-sprite" />
+        <img
+          src={pokemon.spriteUrl}
+          alt={pokemon.name}
+          className="pokemon-sprite"
+          draggable={false}
+        />
       )}
 
       <div>
@@ -214,6 +335,8 @@ function PokemonCard({ pokemon, regions, onAssign }: PokemonCardProps) {
       </div>
 
       <select
+        draggable={false}
+        onPointerDown={(event) => event.stopPropagation()}
         value={pokemon.assignedRegion ?? ""}
         onChange={(event) =>
           onAssign(pokemon.id, event.target.value || null)

@@ -288,6 +288,26 @@ h1 {
   background: #b8c9d9;
 }
 
+
+.pokemon-card {
+  cursor: grab;
+}
+
+.pokemon-card:active {
+  cursor: grabbing;
+}
+
+.pokemon-card select {
+  cursor: pointer;
+}
+
+.pokemon-pool.drop-target,
+.region-column.drop-target {
+  outline: 3px solid #facc15;
+  outline-offset: -3px;
+  background: #164e3d;
+}
+
 .pokedex-view {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
@@ -342,4 +362,5 @@ h1 {
   .pokedex-view {
     grid-template-columns: 1fr;
   }
+
 }
