@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import { regions, starterPokemon, type Pokemon } from "./data/pokemon";
+import PokedexView from "./components/PokedexView";
 
 type Tab = "organize" | "pokedex" | "regions" | "settings";
 
@@ -93,8 +94,8 @@ function App() {
           )}
 
           {activeTab === "pokedex" && (
-            <Placeholder title="Pokedex data coming soon" />
-          )}
+  <PokedexView />
+)}
 
           {activeTab === "regions" && (
             <Placeholder title="Pokopia regions coming soon" />
