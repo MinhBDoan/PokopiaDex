@@ -12,6 +12,47 @@ export type Pokemon = {
   spriteUrl?: string;
 };
 
+export type OrganizePokemon = Omit<Pokemon, "id"> & {
+  id: string;
+  entry?: PokopiaEntry;
+};
+
+export function loadOrganizePokemon(saved: string | null): OrganizePokemon[] {
+  const catalog = pokopiaCatalog.map((entry) => ({
+    id: entry.slug,
+    name: entry.name,
+    type: entry.types?.map(({ name }) => name).join(" / ") || "Unknown",
+    spriteUrl: entry.imageUrl ?? undefined,
+    entry,
+  }));
+  const ids = new Set(catalog.map(({ id }) => id));
+  const legacyIds = new Map(starterPokemon.map((mon) => {
+    const slug = mon.name.toLowerCase();
+    return [mon.id, ids.has(slug) ? slug : `legacy:${mon.id}`] as const;
+  }));
+  const assignments = new Map<string, string>();
+  try {
+    const data = saved ? JSON.parse(saved) : null;
+    if (Array.isArray(data)) {
+      for (const item of data) {
+        if (typeof item?.assignedRegion !== "string") continue;
+        const id = typeof item.id === "number" ? legacyIds.get(item.id) : item.id;
+        if (typeof id === "string") assignments.set(id, item.assignedRegion);
+      }
+    }
+  } catch {
+    // If saved data is unreadable, start with an unassigned catalog.
+  }
+  return [
+    ...catalog.map((mon) => ({ ...mon, assignedRegion: assignments.get(mon.id) ?? null })),
+    ...starterPokemon.flatMap((mon) => {
+      const id = `legacy:${mon.id}`;
+      const assignedRegion = assignments.get(id);
+      return assignedRegion === undefined ? [] : [{ ...mon, id, assignedRegion }];
+    }),
+  ];
+}
+
 export const regions = [
   "Withered Wastelands",
   "Rocky Ridges",

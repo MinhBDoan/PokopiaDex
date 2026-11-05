@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import { regions, starterPokemon, type Pokemon } from "./data/pokemon";
+import { loadOrganizePokemon, regions, type OrganizePokemon } from "./data/pokemon";
 import PokedexView from "./components/PokedexView";
 
 type Tab = "organize" | "pokedex" | "regions" | "settings";
@@ -9,21 +9,13 @@ const STORAGE_KEY = "pokopiadex-pokemon";
 
 function App() {
   const [activeTab, setActiveTab] = useState<Tab>("organize");
-  const [pokemon, setPokemon] = useState<Pokemon[]>(() => {
-    const savedPokemon = localStorage.getItem(STORAGE_KEY);
-
-    if (savedPokemon) {
-      return JSON.parse(savedPokemon) as Pokemon[];
-    }
-
-    return starterPokemon;
-  });
+  const [pokemon, setPokemon] = useState(() => loadOrganizePokemon(localStorage.getItem(STORAGE_KEY)));
 
   useEffect(() => {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(pokemon));
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(pokemon.filter((mon) => mon.assignedRegion !== null).map(({ id, assignedRegion }) => ({ id, assignedRegion }))));
   }, [pokemon]);
 
-  function assignPokemonToRegion(pokemonId: number, region: string | null) {
+  function assignPokemonToRegion(pokemonId: string, region: string | null) {
     setPokemon((currentPokemon) =>
       currentPokemon.map((mon) =>
         mon.id === pokemonId ? { ...mon, assignedRegion: region } : mon
@@ -40,7 +32,7 @@ function App() {
       return;
     }
 
-    setPokemon(starterPokemon);
+    setPokemon(loadOrganizePokemon(null));
   }
 
   return (
@@ -117,9 +109,9 @@ function App() {
 }
 
 type OrganizeViewProps = {
-  pokemon: Pokemon[];
+  pokemon: OrganizePokemon[];
   regions: string[];
-  onAssign: (pokemonId: number, region: string | null) => void;
+  onAssign: (pokemonId: string, region: string | null) => void;
 };
 
 function OrganizeView({ pokemon, regions, onAssign }: OrganizeViewProps) {
@@ -172,7 +164,7 @@ function OrganizeView({ pokemon, regions, onAssign }: OrganizeViewProps) {
             return;
           }
 
-          const pokemonId = Number(draggedId);
+          const pokemonId = draggedId;
           const draggedPokemon = pokemon.find(
             (mon) => mon.id === pokemonId
           );
@@ -247,7 +239,7 @@ function OrganizeView({ pokemon, regions, onAssign }: OrganizeViewProps) {
                   return;
                 }
 
-                const pokemonId = Number(draggedId);
+                const pokemonId = draggedId;
                 const draggedPokemon = pokemon.find(
                   (mon) => mon.id === pokemonId
                 );
@@ -280,12 +272,19 @@ function OrganizeView({ pokemon, regions, onAssign }: OrganizeViewProps) {
 }
 
 type PokemonCardProps = {
-  pokemon: Pokemon;
+  pokemon: OrganizePokemon;
   regions: string[];
-  onAssign: (pokemonId: number, region: string | null) => void;
+  onAssign: (pokemonId: string, region: string | null) => void;
 };
 
 function PokemonCard({ pokemon, regions, onAssign }: PokemonCardProps) {
+  const entry = pokemon.entry;
+  const spriteUrl = entry?.imageUrl ?? pokemon.spriteUrl;
+  const types = entry?.types?.length
+    ? entry.types
+    : pokemon.type.split("/").map((type) => ({ name: type.trim(), iconUrl: null }));
+  const specialtyIcons = entry?.specialties ?? [];
+
   return (
     <article
       className="pokemon-card"
@@ -307,9 +306,13 @@ function PokemonCard({ pokemon, regions, onAssign }: PokemonCardProps) {
       }}
     >
 
-      {pokemon.spriteUrl && (
+      {entry?.localNumber && (
+        <span className="pokemon-number-badge">#{entry.localNumber}</span>
+      )}
+
+      {spriteUrl && (
         <img
-          src={pokemon.spriteUrl}
+          src={spriteUrl} loading="lazy"
           alt={pokemon.name}
           className="pokemon-sprite"
           draggable={false}
@@ -317,21 +320,28 @@ function PokemonCard({ pokemon, regions, onAssign }: PokemonCardProps) {
       )}
 
       <div>
-        <h3>{pokemon.name}</h3>
+        <h3>{entry?.name ?? pokemon.name}</h3>
         <div className="type-badges">
-          {pokemon.type.split("/").map((type) => {
-            const typeName = type.trim();
+          {types.map(({ name: typeName, iconUrl }) => {
 
             return (
               <span
                 key={typeName}
                 className={`type-badge type-${typeName.toLowerCase()}`}
               >
+                {iconUrl && <img src={iconUrl} alt="" draggable={false} />}
                 {typeName}
               </span>
             );
           })}
         </div>
+        {specialtyIcons.length > 0 && (
+          <div className="specialty-icons" role="group" aria-label="Specialties">
+            {specialtyIcons.map(({ name, iconUrl }) => (
+              <span key={name} className="type-badge specialty-badge">{iconUrl && <img src={iconUrl} alt="" draggable={false} />}{name}</span>
+            ))}
+          </div>
+        )}
       </div>
 
       <select
