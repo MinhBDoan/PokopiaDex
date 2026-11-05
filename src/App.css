@@ -287,3 +287,22 @@ h1 {
 .type-steel {
   background: #b8c9d9;
 }
+
+.pokemon-card {
+  cursor: grab;
+}
+
+.pokemon-card:active {
+  cursor: grabbing;
+}
+
+.pokemon-card select {
+  cursor: pointer;
+}
+
+.pokemon-pool.drop-target,
+.region-column.drop-target {
+  outline: 3px solid #facc15;
+  outline-offset: -3px;
+  background: #164e3d;
+}
