@@ -1,9 +1,10 @@
-import { useEffect, useState } from "react";
+import { lazy, Suspense, useEffect, useState } from "react";
 import "./App.css";
 import { loadOrganizePokemon, regions, type OrganizePokemon } from "./data/pokemon";
 import PokedexView from "./components/PokedexView";
+const ItemsView = lazy(() => import("./components/ItemsView"));
 
-type Tab = "organize" | "pokedex" | "regions" | "settings";
+type Tab = "organize" | "pokedex" | "items" | "regions" | "settings";
 
 const STORAGE_KEY = "pokopiadex-pokemon";
 
@@ -61,6 +62,11 @@ function App() {
             Pokedex
           </button>
 
+          <button className={activeTab === "items" ? "active" : ""}
+            onClick={() => setActiveTab("items")}>
+            Items
+          </button>
+
           <button
             className={activeTab === "regions" ? "active" : ""}
             onClick={() => setActiveTab("regions")}
@@ -88,6 +94,10 @@ function App() {
           {activeTab === "pokedex" && (
   <PokedexView />
 )}
+
+          {activeTab === "items" && (
+            <Suspense fallback={<p>Loading items…</p>}><ItemsView /></Suspense>
+          )}
 
           {activeTab === "regions" && (
             <Placeholder title="Pokopia regions coming soon" />

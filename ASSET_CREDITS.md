@@ -332,3 +332,12 @@ Pokopia numbers and National numbers differ. HOME filenames use National numbers
 - [ ] #298 Ho-Oh (National #0250) — [HOME source page](https://archives.bulbagarden.net/wiki/File:Menu_HOME_0250.png)
 - [ ] #299 Mewtwo (National #0150) — [HOME source page](https://archives.bulbagarden.net/wiki/File:Menu_HOME_0150.png)
 - [ ] #300 Mew (National #0151) — [HOME source page](https://archives.bulbagarden.net/wiki/File:Menu_HOME_0151.png)
+
+## Item catalog and icons
+
+Source: [Pokopia World item database](https://pokopiaworld.org/items).
+Imported 2026-11-05 using scripts/import-items.mjs.
+Each record in src/data/items.generated.json retains sourceUrl and sourceImageUrl.
+Local icons are stored in public/images/items by source item ID.
+Descriptions and metadata are imported reference material; accuracy has not been independently verified.
+Third-party game artwork remains the property of its respective rights holders and is excluded from the project code license.
