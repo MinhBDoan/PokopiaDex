@@ -517,3 +517,9 @@ h1 {
   border: 1px solid rgb(92 107 56 / 80%);
   color: #fff;
 }
+.habitat-preview {
+  width: 100%;
+  max-height: 16rem;
+  border-radius: 8px;
+  object-fit: contain;
+}
