@@ -4,8 +4,9 @@ import { loadOrganizePokemon, regions } from "./data/pokemon";
 import PokedexView from "./components/PokedexView";
 import OrganizeView from "./components/OrganizeView";
 const ItemsView = lazy(() => import("./components/ItemsView"));
+const HabitatsView = lazy(() => import("./components/HabitatsView"));
 
-type Tab = "organize" | "pokedex" | "items" | "regions" | "settings";
+type Tab = "organize" | "pokedex" | "items" | "habitats" | "regions" | "settings";
 
 const STORAGE_KEY = "pokopiadex-pokemon";
 
@@ -63,6 +64,9 @@ function App() {
             Pokedex
           </button>
 
+          <button className={activeTab === "habitats" ? "active" : ""}
+            onClick={() => setActiveTab("habitats")}>Habitats</button>
+
           <button className={activeTab === "items" ? "active" : ""}
             onClick={() => setActiveTab("items")}>
             Items
@@ -98,6 +102,10 @@ function App() {
 
           {activeTab === "items" && (
             <Suspense fallback={<p>Loading items…</p>}><ItemsView /></Suspense>
+          )}
+
+          {activeTab === "habitats" && (
+            <Suspense fallback={<p>Loading habitats…</p>}><HabitatsView /></Suspense>
           )}
 
           {activeTab === "regions" && (

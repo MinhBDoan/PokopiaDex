@@ -341,3 +341,12 @@ Each record in src/data/items.generated.json retains sourceUrl and sourceImageUr
 Local icons are stored in public/images/items by source item ID.
 Descriptions and metadata are imported reference material; accuracy has not been independently verified.
 Third-party game artwork remains the property of its respective rights holders and is excluded from the project code license.
+
+## Habitat catalog and images
+
+Source: [Pokopia World habitats](https://pokopiaworld.org/habitats).
+Imported 2026-11-12 with scripts/import-habitats.mjs.
+The generated habitat records retain sourceUrl and sourceImageUrl.
+Habitat images are stored locally in public/images/habitats.
+Required materials link to the existing item catalog where a matching item is recorded.
+Game data and artwork remain third-party reference material, excluded from the code license.

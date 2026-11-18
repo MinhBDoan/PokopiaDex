@@ -1,0 +1,7393 @@
+[
+  {
+    "id": "mat_001",
+    "name": {
+      "en": "Afternoon tea set",
+      "ko": "애프터눈 티 세트",
+      "ja": "エレガントな昼下がり",
+      "zh-TW": "下午茶套組",
+      "zh-CN": "下午茶套组",
+      "fr": "Service à thé de l'après-midi",
+      "de": "Nachmittagstee-Set",
+      "es": "Juego de té de la tarde"
+    },
+    "imageUrl": "/images/imported/036410e86fc949f61fc82d99.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Elegant daytime treats"
+    ],
+    "usageCount": 1,
+    "itemId": "I0203",
+    "seq": 10
+  },
+  {
+    "id": "mat_002",
+    "name": {
+      "en": "Alarm clock",
+      "ko": "알람 시계",
+      "ja": "めざましどけい",
+      "zh-TW": "鬧鐘",
+      "zh-CN": "闹钟",
+      "fr": "Réveil",
+      "de": "Wecker",
+      "es": "Despertador"
+    },
+    "imageUrl": "/images/imported/2abfba93fe97e816e924e5dc.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Alarm clock sleep zone"
+    ],
+    "usageCount": 1,
+    "itemId": "I0251",
+    "seq": 20
+  },
+  {
+    "id": "mat_003",
+    "name": {
+      "en": "Antique bed",
+      "ko": "앤티크 침대",
+      "ja": "アンティークなベッド",
+      "zh-TW": "古董床",
+      "zh-CN": "古董床",
+      "fr": "Lit antique",
+      "de": "Antikes Bett",
+      "es": "Cama antigua"
+    },
+    "imageUrl": "/images/imported/8f6dc21aefa6385c8e17811b.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Good old-fashioned antiques"
+    ],
+    "usageCount": 1,
+    "itemId": "I0180",
+    "seq": 30
+  },
+  {
+    "id": "mat_004",
+    "name": {
+      "en": "Antique chair",
+      "ko": "앤티크 의자",
+      "ja": "アンティークなイス",
+      "zh-TW": "古董椅",
+      "zh-CN": "古董椅",
+      "fr": "Chaise antique",
+      "de": "Antiker Stuhl",
+      "es": "Silla antigua"
+    },
+    "imageUrl": "/images/imported/3d29a0a2833284c0bfda8c40.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Good old-fashioned antiques"
+    ],
+    "usageCount": 1,
+    "itemId": "I0148",
+    "seq": 40
+  },
+  {
+    "id": "mat_005",
+    "name": {
+      "en": "Antique closet",
+      "ko": "앤티크 옷장",
+      "ja": "アンティークなクローゼット",
+      "zh-TW": "古董衣櫃",
+      "zh-CN": "古董衣柜",
+      "fr": "Armoire antique",
+      "de": "Antiker Schrank",
+      "es": "Armario antiguo"
+    },
+    "imageUrl": "/images/imported/6c5a4b51fdb7226fb6991911.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Good old-fashioned antiques"
+    ],
+    "usageCount": 1,
+    "itemId": "I0098",
+    "seq": 50
+  },
+  {
+    "id": "mat_006",
+    "name": {
+      "en": "Antique dresser",
+      "ko": "앤티크 화장대",
+      "ja": "アンティークなドレッサー",
+      "zh-TW": "古董梳妝台",
+      "zh-CN": "古董梳妆台",
+      "fr": "Commode antique",
+      "de": "Antike Kommode",
+      "es": "Cómoda antigua"
+    },
+    "imageUrl": "/images/imported/e096848e3385fcce1c378bf2.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Good old-fashioned antiques"
+    ],
+    "usageCount": 1,
+    "itemId": "I0188",
+    "seq": 60
+  },
+  {
+    "id": "mat_007",
+    "name": {
+      "en": "Arcade machine",
+      "ko": "아케이드 게임기",
+      "ja": "アーケードマシン",
+      "zh-TW": "遊戲機台",
+      "zh-CN": "游戏机台",
+      "fr": "Borne d'arcade",
+      "de": "Spielautomat",
+      "es": "Máquina arcade"
+    },
+    "imageUrl": "/images/imported/16021144fa53a40c7821e467.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Mini Game Corner",
+      "Game Corner battle zone"
+    ],
+    "usageCount": 3,
+    "itemId": "I0250",
+    "seq": 70
+  },
+  {
+    "id": "mat_008",
+    "name": {
+      "en": "Arcanine doll",
+      "ko": "윈디 인형",
+      "ja": "ウインディにんぎょう",
+      "zh-TW": "風速狗人偶",
+      "zh-CN": "风速狗人偶",
+      "fr": "Poupée Arcanine",
+      "de": "Arcanine-Puppe",
+      "es": "Muñeco de Arcanine"
+    },
+    "imageUrl": "/images/imported/f0861c3fbf30ae7d201cd13d.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Interrogation desk",
+      "Plush central"
+    ],
+    "usageCount": 2,
+    "itemId": "I0305",
+    "seq": 80
+  },
+  {
+    "id": "mat_009",
+    "name": {
+      "en": "Armor Fossil",
+      "ko": "방패의화석",
+      "ja": "たてのカセキ",
+      "zh-TW": "盾之化石",
+      "zh-CN": "盾之化石",
+      "fr": "Fossile Armure",
+      "de": "Panzerfossil",
+      "es": "Fósil Armadura"
+    },
+    "imageUrl": "/images/imported/b2c94ba25415ab5f6b647798.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Armor Fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1056",
+    "seq": 90
+  },
+  {
+    "id": "mat_010",
+    "name": {
+      "en": "Arrow sign",
+      "ko": "화살표 표지판",
+      "ja": "やじるし",
+      "zh-TW": "箭頭指示牌",
+      "zh-CN": "箭头指示牌",
+      "fr": "Panneau fléché",
+      "de": "Pfeilschild",
+      "es": "Señal con flecha"
+    },
+    "imageUrl": "/images/imported/272341dcc643f4cdeee0d845.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Road Sign"
+    ],
+    "usageCount": 1,
+    "itemId": "I0352",
+    "seq": 100
+  },
+  {
+    "id": "mat_011",
+    "name": {
+      "en": "Auspicious Armor",
+      "ko": "충성의 갑옷",
+      "ja": "イワイノヨロイ",
+      "zh-TW": "祝賀之鎧",
+      "zh-CN": "祝贺之铠",
+      "fr": "Armure Prometteuse",
+      "de": "Segensrüstung",
+      "es": "Armadura Auspiciosa"
+    },
+    "imageUrl": "/images/imported/d11cfd419a3c1c5a193e4711.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Auspicious knight's shrine"
+    ],
+    "usageCount": 1,
+    "itemId": "I0279",
+    "seq": 110
+  },
+  {
+    "id": "mat_012",
+    "name": {
+      "en": "Balloons",
+      "ko": "풍선",
+      "ja": "バルーン",
+      "zh-TW": "氣球",
+      "zh-CN": "气球",
+      "fr": "Ballons",
+      "de": "Luftballons",
+      "es": "Globos"
+    },
+    "imageUrl": "/images/imported/ece3fdebdda1032ef40b6cfe.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Surprise in store",
+      "Night festival venue"
+    ],
+    "usageCount": 4,
+    "itemId": "I0271",
+    "seq": 120
+  },
+  {
+    "id": "mat_013",
+    "name": {
+      "en": "Barrel",
+      "ko": "나무통",
+      "ja": "たる",
+      "zh-TW": "木桶",
+      "zh-CN": "木桶",
+      "fr": "Tonneau",
+      "de": "Fass",
+      "es": "Barril"
+    },
+    "imageUrl": "/images/imported/3060709d9224adb8b4ffcd7f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Playing pirate",
+      "Container snacking"
+    ],
+    "usageCount": 3,
+    "itemId": "I0361",
+    "seq": 130
+  },
+  {
+    "id": "mat_014",
+    "name": {
+      "en": "Bathtub",
+      "ko": "욕조",
+      "ja": "バスタブ",
+      "zh-TW": "浴缸",
+      "zh-CN": "浴缸",
+      "fr": "Baignoire",
+      "de": "Badewanne",
+      "es": "Bañera"
+    },
+    "imageUrl": "/images/imported/685a4e18595f290288bbf29e.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Simple bathroom",
+      "Squeaky clean"
+    ],
+    "usageCount": 2,
+    "itemId": "I0242",
+    "seq": 140
+  },
+  {
+    "id": "mat_015",
+    "name": {
+      "en": "Beach Parasol",
+      "ko": "비치 파라솔",
+      "ja": "ビーチパラソル",
+      "zh-TW": "海灘傘",
+      "zh-CN": "海滩伞",
+      "fr": "Parasol de plage",
+      "de": "Sonnenschirm",
+      "es": "Sombrilla de playa"
+    },
+    "imageUrl": "/images/imported/e4e31352f1e67965b4e3eb05.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Floating in the shade",
+      "Beach Set"
+    ],
+    "usageCount": 2,
+    "itemId": "I0349",
+    "seq": 150
+  },
+  {
+    "id": "mat_016",
+    "name": {
+      "en": "Beach chair",
+      "ko": "비치 의자",
+      "ja": "ビーチチェア",
+      "zh-TW": "海灘椅",
+      "zh-CN": "海滩椅",
+      "fr": "Chaise de plage",
+      "de": "Strandstuhl",
+      "es": "Silla de playa"
+    },
+    "imageUrl": "/images/imported/ecbd307534ffac063e28746f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Shaded beach",
+      "Beach Set"
+    ],
+    "usageCount": 2,
+    "itemId": "I0171",
+    "seq": 160
+  },
+  {
+    "id": "mat_017",
+    "name": {
+      "en": "Bed",
+      "ko": "침대",
+      "ja": "ベッド",
+      "zh-TW": "床",
+      "zh-CN": "床",
+      "fr": "Lit",
+      "de": "Bett",
+      "es": "Cama"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Bed with a plush",
+      "Gently lit bed",
+      "Professor's treasure trove",
+      "Full recovery",
+      "Alarm clock sleep zone"
+    ],
+    "usageCount": 5,
+    "itemId": null,
+    "seq": 170
+  },
+  {
+    "id": "mat_018",
+    "name": {
+      "en": "Berry Tree",
+      "ko": "나무열매 나무",
+      "ja": "きのみの木",
+      "zh-TW": "樹果樹",
+      "zh-CN": "树果树",
+      "fr": "Arbre à Baies",
+      "de": "Beerenbaum",
+      "es": "Árbol de Bayas"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tree-shaded flower bed"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 180
+  },
+  {
+    "id": "mat_019",
+    "name": {
+      "en": "Berry basket",
+      "ko": "나무열매 바구니",
+      "ja": "きのみバスケット",
+      "zh-TW": "樹果籃",
+      "zh-CN": "树果篮",
+      "fr": "Panier de Baies",
+      "de": "Beerenkorb",
+      "es": "Cesta de Bayas"
+    },
+    "imageUrl": "/images/imported/ecd42bfe6b086e020544ed8a.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Luxury chirp-chirp meal",
+      "Berry-feast Campsite"
+    ],
+    "usageCount": 2,
+    "itemId": "I0208",
+    "seq": 190
+  },
+  {
+    "id": "mat_020",
+    "name": {
+      "en": "Berry bed",
+      "ko": "나무열매 침대",
+      "ja": "きのみのベッド",
+      "zh-TW": "樹果床",
+      "zh-CN": "树果床",
+      "fr": "Lit Baie",
+      "de": "Beerenbett",
+      "es": "Cama Baya"
+    },
+    "imageUrl": "/images/imported/33fab354842943caeee6d1f1.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Very-berry space"
+    ],
+    "usageCount": 1,
+    "itemId": "I0175",
+    "seq": 200
+  },
+  {
+    "id": "mat_021",
+    "name": {
+      "en": "Berry chair",
+      "ko": "나무열매 의자",
+      "ja": "きのみのイス",
+      "zh-TW": "樹果椅",
+      "zh-CN": "树果椅",
+      "fr": "Chaise Baie",
+      "de": "Beerenstuhl",
+      "es": "Silla Baya"
+    },
+    "imageUrl": "/images/imported/e044c68909fa1ff87c8708d8.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Very-berry space"
+    ],
+    "usageCount": 1,
+    "itemId": "I0133",
+    "seq": 210
+  },
+  {
+    "id": "mat_022",
+    "name": {
+      "en": "Berry table",
+      "ko": "나무열매 테이블",
+      "ja": "きのみのテーブル",
+      "zh-TW": "樹果桌",
+      "zh-CN": "树果桌",
+      "fr": "Table Baie",
+      "de": "Beerentisch",
+      "es": "Mesa Baya"
+    },
+    "imageUrl": "/images/imported/a9928e352b5766ee465e09dd.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Very-berry space"
+    ],
+    "usageCount": 1,
+    "itemId": "I0128",
+    "seq": 220
+  },
+  {
+    "id": "mat_023",
+    "name": {
+      "en": "Berry table lamp",
+      "ko": "나무열매 탁상 램프",
+      "ja": "きのみのテーブルランプ",
+      "zh-TW": "樹果桌燈",
+      "zh-CN": "树果桌灯",
+      "fr": "Lampe de table Baie",
+      "de": "Beerentischlampe",
+      "es": "Lámpara de mesa Baya"
+    },
+    "imageUrl": "/images/imported/dc5182fbda3a7721f36946c0.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Very-berry space"
+    ],
+    "usageCount": 1,
+    "itemId": "I0418",
+    "seq": 230
+  },
+  {
+    "id": "mat_024",
+    "name": {
+      "en": "Bicycle",
+      "ko": "자전거",
+      "ja": "じてんしゃ",
+      "zh-TW": "自行車",
+      "zh-CN": "自行车",
+      "fr": "Vélo",
+      "de": "Fahrrad",
+      "es": "Bicicleta"
+    },
+    "imageUrl": "/images/imported/63ca94cfc95dd5fa22497194.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Cycling rest stop"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 240
+  },
+  {
+    "id": "mat_025",
+    "name": {
+      "en": "Big drum",
+      "ko": "큰 북",
+      "ja": "おおだいこ",
+      "zh-TW": "大鼓",
+      "zh-CN": "大鼓",
+      "fr": "Grand tambour",
+      "de": "Große Trommel",
+      "es": "Tambor grande"
+    },
+    "imageUrl": "/images/imported/034b6213dd62d54b523a3fe5.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Heart-pounding surprise box"
+    ],
+    "usageCount": 1,
+    "itemId": "I0265",
+    "seq": 250
+  },
+  {
+    "id": "mat_026",
+    "name": {
+      "en": "Bonfire",
+      "ko": "화톳불",
+      "ja": "たきび",
+      "zh-TW": "營火堆",
+      "zh-CN": "营火堆",
+      "fr": "Feu de joie",
+      "de": "Lagerfeuer",
+      "es": "Hoguera"
+    },
+    "imageUrl": "/images/imported/f0617c4fc1f276df1f5d6fd1.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Berry-feast Campsite"
+    ],
+    "usageCount": 1,
+    "itemId": "I0324",
+    "seq": 260
+  },
+  {
+    "id": "mat_027",
+    "name": {
+      "en": "Boo-in-the-box",
+      "ko": "깜짝 상자",
+      "ja": "びっくりばこ",
+      "zh-TW": "驚嚇箱",
+      "zh-CN": "惊吓箱",
+      "fr": "Boîte à surprise",
+      "de": "Springteufel",
+      "es": "Caja sorpresa"
+    },
+    "imageUrl": "/images/imported/5e8f357df4c2dd4e8d3bd215.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Surprise in store",
+      "Heart-pounding surprise box",
+      "Prank button"
+    ],
+    "usageCount": 3,
+    "itemId": "I0273",
+    "seq": 270
+  },
+  {
+    "id": "mat_028",
+    "name": {
+      "en": "Bookcase",
+      "ko": "책장",
+      "ja": "ほんだな",
+      "zh-TW": "書架",
+      "zh-CN": "书架",
+      "fr": "Bibliothèque",
+      "de": "Bücherregal",
+      "es": "Estantería"
+    },
+    "imageUrl": "/images/imported/463a70aa7c6aa5bc17934b92.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Spooky study",
+      "Study Area",
+      "Mini library"
+    ],
+    "usageCount": 4,
+    "itemId": "I0228",
+    "seq": 280
+  },
+  {
+    "id": "mat_029",
+    "name": {
+      "en": "Bread oven",
+      "ko": "빵 화덕",
+      "ja": "パンがま",
+      "zh-TW": "麵包窯",
+      "zh-CN": "面包窑",
+      "fr": "Four à pain",
+      "de": "Brotofen",
+      "es": "Horno de pan"
+    },
+    "imageUrl": "/images/imported/f24b10fb00d233ba72f36f5c.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Best bread bakery"
+    ],
+    "usageCount": 1,
+    "itemId": "I0388",
+    "seq": 290
+  },
+  {
+    "id": "mat_030",
+    "name": {
+      "en": "CD player",
+      "ko": "CD 플레이어",
+      "ja": "CDプレイヤー",
+      "zh-TW": "CD播放器",
+      "zh-CN": "CD播放器",
+      "fr": "Lecteur CD",
+      "de": "CD-Player",
+      "es": "Reproductor de CD"
+    },
+    "imageUrl": "/images/imported/e96fe7df3bf83cc6a3ee1cbe.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Box to the rhythm",
+      "Music and magazines"
+    ],
+    "usageCount": 2,
+    "itemId": "I0263",
+    "seq": 300
+  },
+  {
+    "id": "mat_031",
+    "name": {
+      "en": "CD rack",
+      "ko": "CD 랙",
+      "ja": "CDラック",
+      "zh-TW": "CD架",
+      "zh-CN": "CD架",
+      "fr": "Étagère à CD",
+      "de": "CD-Regal",
+      "es": "Estante de CD"
+    },
+    "imageUrl": "/images/imported/e8c99715ee01b378c5d4c505.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Music and magazines"
+    ],
+    "usageCount": 1,
+    "itemId": "I0225",
+    "seq": 310
+  },
+  {
+    "id": "mat_032",
+    "name": {
+      "en": "Campfire",
+      "ko": "모닥불",
+      "ja": "キャンプファイヤー",
+      "zh-TW": "營火",
+      "zh-CN": "营火",
+      "fr": "Feu de camp",
+      "de": "Lagerfeuer",
+      "es": "Fogata"
+    },
+    "imageUrl": "/images/imported/dcdaf254013dc3bd87c6ade4.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Riding warm updrafts",
+      "Campsite",
+      "Resort meal prep"
+    ],
+    "usageCount": 5,
+    "itemId": "I0319",
+    "seq": 320
+  },
+  {
+    "id": "mat_033",
+    "name": {
+      "en": "Cannon",
+      "ko": "대포",
+      "ja": "たいほう",
+      "zh-TW": "發射筒",
+      "zh-CN": "发射筒",
+      "fr": "Canon",
+      "de": "Kanone",
+      "es": "Cañón"
+    },
+    "imageUrl": "/images/imported/9cc6f1a82fadd5d6de2c8e93.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Playing pirate"
+    ],
+    "usageCount": 2,
+    "itemId": "I0342",
+    "seq": 330
+  },
+  {
+    "id": "mat_034",
+    "name": {
+      "en": "Canoe",
+      "ko": "카누",
+      "ja": "カヌー",
+      "zh-TW": "獨木舟",
+      "zh-CN": "独木舟",
+      "fr": "Canoë",
+      "de": "Kanu",
+      "es": "Canoa"
+    },
+    "imageUrl": "/images/imported/4dde6364dbab458f0099f750.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Waterside dinghy"
+    ],
+    "usageCount": 1,
+    "itemId": "I0347",
+    "seq": 340
+  },
+  {
+    "id": "mat_035",
+    "name": {
+      "en": "Canvas",
+      "ko": "캔버스",
+      "ja": "キャンバス",
+      "zh-TW": "畫布",
+      "zh-CN": "画布",
+      "fr": "Toile",
+      "de": "Leinwand",
+      "es": "Lienzo"
+    },
+    "imageUrl": "/images/imported/6dc2dc13ef6229deca8f5628.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tiny Atelier"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 350
+  },
+  {
+    "id": "mat_036",
+    "name": {
+      "en": "Cardboard boxes",
+      "ko": "박스",
+      "ja": "ダンボールばこ",
+      "zh-TW": "紙箱",
+      "zh-CN": "纸箱",
+      "fr": "Cartons",
+      "de": "Kartons",
+      "es": "Cajas de cartón"
+    },
+    "imageUrl": "/images/imported/ea073602021f643412095ab6.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Resting spot",
+      "Perpetual mess",
+      "All packed up",
+      "Office storeroom"
+    ],
+    "usageCount": 5,
+    "itemId": "I0276",
+    "seq": 360
+  },
+  {
+    "id": "mat_037",
+    "name": {
+      "en": "Cart",
+      "ko": "수레",
+      "ja": "カート",
+      "zh-TW": "推車",
+      "zh-CN": "推车",
+      "fr": "Chariot",
+      "de": "Wagen",
+      "es": "Carrito"
+    },
+    "imageUrl": "/images/imported/a3ec8286bc2adb3cc4e4c842.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Large luggage carrier",
+      "Lumberjack's workplace",
+      "Tableside delivery cart",
+      "All packed up"
+    ],
+    "usageCount": 4,
+    "itemId": "I0333",
+    "seq": 370
+  },
+  {
+    "id": "mat_038",
+    "name": {
+      "en": "Cash register",
+      "ko": "금전등록기",
+      "ja": "レジ",
+      "zh-TW": "收銀機",
+      "zh-CN": "收银机",
+      "fr": "Caisse enregistreuse",
+      "de": "Registrierkasse",
+      "es": "Caja registradora"
+    },
+    "imageUrl": "/images/imported/57641d109ab0de381e6baa56.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Working the register",
+      "Nature's market"
+    ],
+    "usageCount": 2,
+    "itemId": "I0397",
+    "seq": 380
+  },
+  {
+    "id": "mat_039",
+    "name": {
+      "en": "Castform weather charm (rain)",
+      "ko": "캐스퐁 날씨 부적 (비)",
+      "ja": "てるてるポワルン(雨)",
+      "zh-TW": "飄浮泡泡晴天娃娃（雨天）",
+      "zh-CN": "飘浮泡泡晴天娃娃（雨天）",
+      "fr": "Charme météo Castform (pluie)",
+      "de": "Castform-Wetterzauber (Regen)",
+      "es": "Amuleto del clima Castform (lluvia)"
+    },
+    "imageUrl": "/images/imported/2ceb1988ab5e2401d6924cc7.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Rain Dance site"
+    ],
+    "usageCount": 2,
+    "itemId": null,
+    "seq": 390
+  },
+  {
+    "id": "mat_040",
+    "name": {
+      "en": "Castform weather charm (sun)",
+      "ko": "캐스퐁 날씨 부적 (맑음)",
+      "ja": "てるてるポワルン(晴れ)",
+      "zh-TW": "飄浮泡泡晴天娃娃（晴天）",
+      "zh-CN": "飘浮泡泡晴天娃娃（晴天）",
+      "fr": "Charme météo Castform (soleil)",
+      "de": "Castform-Wetterzauber (Sonne)",
+      "es": "Amuleto del clima Castform (sol)"
+    },
+    "imageUrl": "/images/imported/23577d53813d8cef6675ae19.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Berry-feast Campsite",
+      "Sunny Day site"
+    ],
+    "usageCount": 4,
+    "itemId": null,
+    "seq": 400
+  },
+  {
+    "id": "mat_041",
+    "name": {
+      "en": "Chansey plant",
+      "ko": "럭키 화분",
+      "ja": "ラッキーのはち植え",
+      "zh-TW": "吉利蛋盆栽",
+      "zh-CN": "吉利蛋盆栽",
+      "fr": "Plante Chansey",
+      "de": "Chansey-Pflanze",
+      "es": "Planta Chansey"
+    },
+    "imageUrl": "/images/imported/5433d8a1a18f0fe11e5e38fa.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Chansey Resting area"
+    ],
+    "usageCount": 1,
+    "itemId": "I0330",
+    "seq": 410
+  },
+  {
+    "id": "mat_042",
+    "name": {
+      "en": "Chic chair",
+      "ko": "시크한 의자",
+      "ja": "シックなイス",
+      "zh-TW": "雅致椅",
+      "zh-CN": "雅致椅",
+      "fr": "Chaise chic",
+      "de": "Schicker Stuhl",
+      "es": "Silla elegante"
+    },
+    "imageUrl": "/images/imported/8eceea1593d0a642d97c8d59.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tableside delivery cart"
+    ],
+    "usageCount": 2,
+    "itemId": "I0146",
+    "seq": 420
+  },
+  {
+    "id": "mat_043",
+    "name": {
+      "en": "Chic sofa",
+      "ko": "시크한 소파",
+      "ja": "シックなソファ",
+      "zh-TW": "雅致沙發",
+      "zh-CN": "雅致沙发",
+      "fr": "Canapé chic",
+      "de": "Schickes Sofa",
+      "es": "Sofá elegante"
+    },
+    "imageUrl": "/images/imported/6e644b4af7206224070fa170.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Spooky study"
+    ],
+    "usageCount": 1,
+    "itemId": "I0159",
+    "seq": 430
+  },
+  {
+    "id": "mat_044",
+    "name": {
+      "en": "Chic table",
+      "ko": "시크한 테이블",
+      "ja": "シックなテーブル",
+      "zh-TW": "雅致桌",
+      "zh-CN": "雅致桌",
+      "fr": "Table chic",
+      "de": "Schicker Tisch",
+      "es": "Mesa elegante"
+    },
+    "imageUrl": "/images/imported/17b418fd0c573aa58317258f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tableside delivery cart"
+    ],
+    "usageCount": 1,
+    "itemId": "I0125",
+    "seq": 440
+  },
+  {
+    "id": "mat_045",
+    "name": {
+      "en": "Chocolate cookies",
+      "ko": "초콜릿 쿠키",
+      "ja": "チョコクッキー",
+      "zh-TW": "巧克力餅乾",
+      "zh-CN": "巧克力饼干",
+      "fr": "Cookies au chocolat",
+      "de": "Schokoladenkekse",
+      "es": "Galletas de chocolate"
+    },
+    "imageUrl": "/images/imported/e452cda883d22a28abe24e4c.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Dark-chocolate cookies"
+    ],
+    "usageCount": 1,
+    "itemId": "I0204",
+    "seq": 450
+  },
+  {
+    "id": "mat_046",
+    "name": {
+      "en": "Cleaning supplies",
+      "ko": "청소 세트",
+      "ja": "おそうじセット",
+      "zh-TW": "清掃組",
+      "zh-CN": "清扫组",
+      "fr": "Produits de nettoyage",
+      "de": "Reinigungsmittel",
+      "es": "Productos de limpieza"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Squeaky clean"
+    ],
+    "usageCount": 1,
+    "itemId": "I0240",
+    "seq": 460
+  },
+  {
+    "id": "mat_047",
+    "name": {
+      "en": "Closet",
+      "ko": "옷장",
+      "ja": "クローゼット",
+      "zh-TW": "衣櫃",
+      "zh-CN": "衣柜",
+      "fr": "Armoire",
+      "de": "Kleiderschrank",
+      "es": "Armario"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Changing area",
+      "Private makeup stand"
+    ],
+    "usageCount": 2,
+    "itemId": null,
+    "seq": 470
+  },
+  {
+    "id": "mat_048",
+    "name": {
+      "en": "Computer",
+      "ko": "컴퓨터",
+      "ja": "パソコン",
+      "zh-TW": "電腦",
+      "zh-CN": "电脑",
+      "fr": "Ordinateur",
+      "de": "Computer",
+      "es": "Ordenador"
+    },
+    "imageUrl": "/images/imported/99ff63d228eebd95a3f6663d.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Researcher's desk"
+    ],
+    "usageCount": 1,
+    "itemId": "I0246",
+    "seq": 480
+  },
+  {
+    "id": "mat_049",
+    "name": {
+      "en": "Concrete pipe",
+      "ko": "토관",
+      "ja": "コンクリートパイプ",
+      "zh-TW": "水管",
+      "zh-CN": "水管",
+      "fr": "Tuyau en béton",
+      "de": "Betonrohr",
+      "es": "Tubería de concreto"
+    },
+    "imageUrl": "/images/imported/f4c742cb1ba33a888749d21f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Concrete pipe secret base"
+    ],
+    "usageCount": 3,
+    "itemId": "I0326",
+    "seq": 490
+  },
+  {
+    "id": "mat_050",
+    "name": {
+      "en": "Control unit",
+      "ko": "제어 장치",
+      "ja": "せいぎょそうち",
+      "zh-TW": "操控台",
+      "zh-CN": "操控台",
+      "fr": "Unité de contrôle",
+      "de": "Steuereinheit",
+      "es": "Unidad de control"
+    },
+    "imageUrl": "/images/imported/cd29f312abfca3917d43da58.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Factory Storage"
+    ],
+    "usageCount": 1,
+    "itemId": "I0278",
+    "seq": 500
+  },
+  {
+    "id": "mat_051",
+    "name": {
+      "en": "Cooking stove",
+      "ko": "조리용 화덕",
+      "ja": "コンロ",
+      "zh-TW": "爐灶",
+      "zh-CN": "炉灶",
+      "fr": "Cuisinière",
+      "de": "Kochherd",
+      "es": "Cocina"
+    },
+    "imageUrl": "/images/imported/9b8c22ab11d1001262d3ac04.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Mini kitchen",
+      "Chef's kitchen"
+    ],
+    "usageCount": 2,
+    "itemId": "I0231",
+    "seq": 510
+  },
+  {
+    "id": "mat_052",
+    "name": {
+      "en": "Cool electric guitar",
+      "ko": "멋진 일렉트릭 기타",
+      "ja": "クールなエレキギター",
+      "zh-TW": "帥氣電吉他",
+      "zh-CN": "帅气电吉他",
+      "fr": "Guitare électrique cool",
+      "de": "Coole E-Gitarre",
+      "es": "Guitarra eléctrica genial"
+    },
+    "imageUrl": "/images/imported/13c30493e2689feaabca83a1.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Amped rock stage"
+    ],
+    "usageCount": 1,
+    "itemId": "I0266",
+    "seq": 520
+  },
+  {
+    "id": "mat_053",
+    "name": {
+      "en": "Counter",
+      "ko": "카운터",
+      "ja": "カウンター",
+      "zh-TW": "櫃台",
+      "zh-CN": "柜台",
+      "fr": "Comptoir",
+      "de": "Theke",
+      "es": "Mostrador"
+    },
+    "imageUrl": "/images/imported/7a8b62d1d9ab97870a2dbb49.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Café space",
+      "Best bread bakery"
+    ],
+    "usageCount": 4,
+    "itemId": "I0106",
+    "seq": 530
+  },
+  {
+    "id": "mat_054",
+    "name": {
+      "en": "Crossing gate",
+      "ko": "차단기",
+      "ja": "しゃだんき",
+      "zh-TW": "平交道柵欄",
+      "zh-CN": "平交道栅栏",
+      "fr": "Barrière de passage",
+      "de": "Bahnschranke",
+      "es": "Barrera de cruce"
+    },
+    "imageUrl": "/images/imported/a7c350241e64b92173aac46c.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Railroad crossing"
+    ],
+    "usageCount": 1,
+    "itemId": "I0393",
+    "seq": 540
+  },
+  {
+    "id": "mat_055",
+    "name": {
+      "en": "Crystal ball",
+      "ko": "수정 구슬",
+      "ja": "すいしょうだま",
+      "zh-TW": "水晶球",
+      "zh-CN": "水晶球",
+      "fr": "Boule de cristal",
+      "de": "Kristallkugel",
+      "es": "Bola de cristal"
+    },
+    "imageUrl": "/images/imported/082ca4a3465568847143ca06.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Surging psychic power",
+      "Fortune-teller's table"
+    ],
+    "usageCount": 2,
+    "itemId": "I0259",
+    "seq": 550
+  },
+  {
+    "id": "mat_056",
+    "name": {
+      "en": "Cute bed",
+      "ko": "귀여운 침대",
+      "ja": "キュートなベッド",
+      "zh-TW": "可愛床",
+      "zh-CN": "可爱床",
+      "fr": "Lit mignon",
+      "de": "Süßes Bett",
+      "es": "Cama linda"
+    },
+    "imageUrl": "/images/imported/8c7931b9a5401f94fae6ac53.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Cuteness overload"
+    ],
+    "usageCount": 1,
+    "itemId": "I0183",
+    "seq": 560
+  },
+  {
+    "id": "mat_057",
+    "name": {
+      "en": "Cute dresser",
+      "ko": "귀여운 화장대",
+      "ja": "キュートなドレッサー",
+      "zh-TW": "可愛梳妝台",
+      "zh-CN": "可爱梳妆台",
+      "fr": "Commode mignonne",
+      "de": "Süße Kommode",
+      "es": "Cómoda linda"
+    },
+    "imageUrl": "/images/imported/fa9723235c5a775291413740.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Cuteness overload"
+    ],
+    "usageCount": 1,
+    "itemId": "I0189",
+    "seq": 570
+  },
+  {
+    "id": "mat_058",
+    "name": {
+      "en": "Cute lamp",
+      "ko": "귀여운 램프",
+      "ja": "キュートなランプ",
+      "zh-TW": "可愛燈",
+      "zh-CN": "可爱灯",
+      "fr": "Lampe mignonne",
+      "de": "Süße Lampe",
+      "es": "Lámpara linda"
+    },
+    "imageUrl": "/images/imported/e596927b88b4442ff62eae0d.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Cuteness overload"
+    ],
+    "usageCount": 1,
+    "itemId": "I0419",
+    "seq": 580
+  },
+  {
+    "id": "mat_059",
+    "name": {
+      "en": "Cute sofa",
+      "ko": "귀여운 소파",
+      "ja": "キュートなソファ",
+      "zh-TW": "可愛沙發",
+      "zh-CN": "可爱沙发",
+      "fr": "Canapé mignon",
+      "de": "Süßes Sofa",
+      "es": "Sofá adorable"
+    },
+    "imageUrl": "/images/imported/e3339f0b78ec20f077701a9c.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Cuteness overload"
+    ],
+    "usageCount": 1,
+    "itemId": "I0164",
+    "seq": 590
+  },
+  {
+    "id": "mat_060",
+    "name": {
+      "en": "Cute table",
+      "ko": "귀여운 테이블",
+      "ja": "キュートなテーブル",
+      "zh-TW": "可愛桌",
+      "zh-CN": "可爱桌",
+      "fr": "Table mignonne",
+      "de": "Süßer Tisch",
+      "es": "Mesa linda"
+    },
+    "imageUrl": "/images/imported/9a0f41789f791f24b6294d67.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Cuteness overload"
+    ],
+    "usageCount": 1,
+    "itemId": "I0122",
+    "seq": 600
+  },
+  {
+    "id": "mat_061",
+    "name": {
+      "en": "Cutting board",
+      "ko": "도마",
+      "ja": "まないた",
+      "zh-TW": "砧板",
+      "zh-CN": "砧板",
+      "fr": "Planche à découper",
+      "de": "Schneidebrett",
+      "es": "Tabla de cortar"
+    },
+    "imageUrl": "/images/imported/f644c048ebe35f8a0099ed9f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Chef's kitchen"
+    ],
+    "usageCount": 1,
+    "itemId": "I0383",
+    "seq": 610
+  },
+  {
+    "id": "mat_062",
+    "name": {
+      "en": "Desk light",
+      "ko": "책상 스탠드",
+      "ja": "デスクライト",
+      "zh-TW": "桌燈",
+      "zh-CN": "桌灯",
+      "fr": "Lampe de bureau",
+      "de": "Schreibtischlampe",
+      "es": "Lámpara de escritorio"
+    },
+    "imageUrl": "/images/imported/126ddfd357ecdff0d938cf95.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Interrogation desk"
+    ],
+    "usageCount": 1,
+    "itemId": "I0416",
+    "seq": 620
+  },
+  {
+    "id": "mat_063",
+    "name": {
+      "en": "Despot Fossil (body)",
+      "ko": "폭군화석 (몸통)",
+      "ja": "ぼうくんのカセキ・どう",
+      "zh-TW": "暴君化石・軀幹",
+      "zh-CN": "暴君化石・躯干",
+      "fr": "Fossile Despote (corps)",
+      "de": "Despotenfossil (Körper)",
+      "es": "Fósil Déspota (cuerpo)"
+    },
+    "imageUrl": "/images/imported/0453665380515231c9588cd3.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Despot fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1071",
+    "seq": 630
+  },
+  {
+    "id": "mat_064",
+    "name": {
+      "en": "Despot Fossil (head)",
+      "ko": "폭군화석 (머리)",
+      "ja": "ぼうくんのカセキ・あたま",
+      "zh-TW": "暴君化石・頭",
+      "zh-CN": "暴君化石・头",
+      "fr": "Fossile Despote (tête)",
+      "de": "Despotenfossil (Kopf)",
+      "es": "Fósil Déspota (cabeza)"
+    },
+    "imageUrl": "/images/imported/8d23bea72edc5e7c3fdf698d.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Despot fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1070",
+    "seq": 640
+  },
+  {
+    "id": "mat_065",
+    "name": {
+      "en": "Despot Fossil (legs)",
+      "ko": "폭군화석 (다리)",
+      "ja": "ぼうくんのカセキ・あし",
+      "zh-TW": "暴君化石・腳",
+      "zh-CN": "暴君化石・脚",
+      "fr": "Fossile Despote (jambes)",
+      "de": "Despotenfossil (Beine)",
+      "es": "Fósil Déspota (piernas)"
+    },
+    "imageUrl": "/images/imported/ff8dafa2dfb5e20ab9322168.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Despot fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1072",
+    "seq": 650
+  },
+  {
+    "id": "mat_066",
+    "name": {
+      "en": "Despot Fossil (tail)",
+      "ko": "폭군화석 (꼬리)",
+      "ja": "ぼうくんのカセキ・しっぽ",
+      "zh-TW": "暴君化石・尾巴",
+      "zh-CN": "暴君化石・尾巴",
+      "fr": "Fossile Despote (queue)",
+      "de": "Despotenfossil (Schwanz)",
+      "es": "Fósil Déspota (cola)"
+    },
+    "imageUrl": "/images/imported/77a556e810b0ae7f9ce7db54.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Despot fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1073",
+    "seq": 660
+  },
+  {
+    "id": "mat_067",
+    "name": {
+      "en": "Doll",
+      "ko": "인형",
+      "ja": "にんぎょう",
+      "zh-TW": "人偶",
+      "zh-CN": "人偶",
+      "fr": "Poupée",
+      "de": "Puppe",
+      "es": "Muñeco"
+    },
+    "imageUrl": "/images/imported/67e95ad6ab5768cc903886ce.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Bed with a plush"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 670
+  },
+  {
+    "id": "mat_068",
+    "name": {
+      "en": "Dragonite doll",
+      "ko": "망나뇽 인형",
+      "ja": "ドラゴナイトにんぎょう",
+      "zh-TW": "快龍人偶",
+      "zh-CN": "快龙人偶",
+      "fr": "Poupée Dragonite",
+      "de": "Dragonite-Puppe",
+      "es": "Muñeco de Dragonite"
+    },
+    "imageUrl": "/images/imported/d93118f39fce121358cada70.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Plush central"
+    ],
+    "usageCount": 1,
+    "itemId": "I0306",
+    "seq": 680
+  },
+  {
+    "id": "mat_069",
+    "name": {
+      "en": "Dry tall grass",
+      "ko": "마른 풀숲",
+      "ja": "かわいたくさむら",
+      "zh-TW": "枯綠草",
+      "zh-CN": "枯绿草",
+      "fr": "Hautes herbes sèches",
+      "de": "Trockenes hohes Gras",
+      "es": "Hierba alta seca"
+    },
+    "imageUrl": "/images/imported/8cdd470f3d909dfc9eebec98.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Smooth tall grass"
+    ],
+    "usageCount": 4,
+    "itemId": "I0521",
+    "seq": 690
+  },
+  {
+    "id": "mat_070",
+    "name": {
+      "en": "Duckweed",
+      "ko": "부레옥잠",
+      "ja": "うきくさ",
+      "zh-TW": "浮萍",
+      "zh-CN": "浮萍",
+      "fr": "Lentilles d'eau",
+      "de": "Wasserlinsen",
+      "es": "Lenteja de agua"
+    },
+    "imageUrl": "/images/imported/a0df39f91f7808078714498c.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Uplifting duckweed",
+      "Waterside dinghy"
+    ],
+    "usageCount": 6,
+    "itemId": "I0482",
+    "seq": 700
+  },
+  {
+    "id": "mat_071",
+    "name": {
+      "en": "Eerie candle",
+      "ko": "으스스한 양초",
+      "ja": "あやしいキャンドル",
+      "zh-TW": "詭異蠟燭",
+      "zh-CN": "诡异蜡烛",
+      "fr": "Bougie sinistre",
+      "de": "Unheimliche Kerze",
+      "es": "Vela siniestra"
+    },
+    "imageUrl": "/images/imported/8ccdc6c31054e89fe62b02f2.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Creepy grave offering"
+    ],
+    "usageCount": 2,
+    "itemId": "I0322",
+    "seq": 710
+  },
+  {
+    "id": "mat_072",
+    "name": {
+      "en": "Eevee doll",
+      "ko": "이브이 인형",
+      "ja": "イーブイにんぎょう",
+      "zh-TW": "伊布人偶",
+      "zh-CN": "伊布人偶",
+      "fr": "Poupée Eevee",
+      "de": "Eevee-Puppe",
+      "es": "Muñeco de Eevee"
+    },
+    "imageUrl": "/images/imported/a4e58f832f3393cf279d5125.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Plush central"
+    ],
+    "usageCount": 1,
+    "itemId": "I0302",
+    "seq": 720
+  },
+  {
+    "id": "mat_073",
+    "name": {
+      "en": "Excavation tools",
+      "ko": "발굴 도구",
+      "ja": "はっくつどうぐ",
+      "zh-TW": "挖掘工具",
+      "zh-CN": "挖掘工具",
+      "fr": "Outils de fouille",
+      "de": "Ausgrabungswerkzeuge",
+      "es": "Herramientas de excavación"
+    },
+    "imageUrl": "/images/imported/b8423ecca62217406177551d.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Digging and burning",
+      "Clink-clang iron construction",
+      "Sewer hole inspection"
+    ],
+    "usageCount": 3,
+    "itemId": "I0370",
+    "seq": 730
+  },
+  {
+    "id": "mat_074",
+    "name": {
+      "en": "Photo cutout board",
+      "ko": "얼굴 포토 보드",
+      "ja": "かおはめパネル",
+      "zh-TW": "臉孔看板",
+      "zh-CN": "脸孔看板",
+      "fr": "Panneau photo à découpe",
+      "de": "Fotowand zum Durchschauen",
+      "es": "Panel fotográfico recortable"
+    },
+    "imageUrl": "/images/imported/2cc6f0104f7232e5a400f889.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Picturesque photo cutoutboard"
+    ],
+    "usageCount": 1,
+    "itemId": "I0358",
+    "seq": 740
+  },
+  {
+    "id": "mat_075",
+    "name": {
+      "en": "Sail Fossil",
+      "ko": "돛 화석",
+      "ja": "ヒレのカセキ",
+      "zh-TW": "帆之化石",
+      "zh-CN": "帆之化石",
+      "fr": "Fossile Voile",
+      "de": "Segelfossil",
+      "es": "Fósil Vela"
+    },
+    "imageUrl": "/images/imported/2167fca4760dbef801d1b5f8.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Sail Fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1058",
+    "seq": 750
+  },
+  {
+    "id": "mat_076",
+    "name": {
+      "en": "Firepit",
+      "ko": "화덕",
+      "ja": "いろり",
+      "zh-TW": "篝火盆",
+      "zh-CN": "篝火盆",
+      "fr": "Foyer",
+      "de": "Feuerstelle",
+      "es": "Fogón"
+    },
+    "imageUrl": "/images/imported/9e71c2c03e8426d5d0dc019d.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Nine flames",
+      "Malicious knight's shrine",
+      "Auspicious knight's shrine"
+    ],
+    "usageCount": 13,
+    "itemId": "I0323",
+    "seq": 760
+  },
+  {
+    "id": "mat_077",
+    "name": {
+      "en": "First aid kit",
+      "ko": "구급 상자",
+      "ja": "きゅうきゅうばこ",
+      "zh-TW": "急救箱",
+      "zh-CN": "急救箱",
+      "fr": "Trousse de premiers soins",
+      "de": "Erste-Hilfe-Kasten",
+      "es": "Botiquín de primeros auxilios"
+    },
+    "imageUrl": "/images/imported/6043301b9b978771bc960688.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Urgent Care",
+      "Gym first aid",
+      "Full recovery"
+    ],
+    "usageCount": 3,
+    "itemId": "I0258",
+    "seq": 770
+  },
+  {
+    "id": "mat_078",
+    "name": {
+      "en": "Fishing rod",
+      "ko": "낚싯대",
+      "ja": "つりざお",
+      "zh-TW": "釣竿",
+      "zh-CN": "钓竿",
+      "fr": "Canne à pêche",
+      "de": "Angelrute",
+      "es": "Caña de pescar"
+    },
+    "imageUrl": "/images/imported/122630f4599a42e48eb7894f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Fishing pond",
+      "Ocean fishing spot",
+      "Marsh fishing spot",
+      "Hot-spring Fishing Spot",
+      "Magma fishing spot"
+    ],
+    "usageCount": 5,
+    "itemId": "I0351",
+    "seq": 780
+  },
+  {
+    "id": "mat_079",
+    "name": {
+      "en": "Floor switch",
+      "ko": "바닥 스위치",
+      "ja": "ゆかスイッチ",
+      "zh-TW": "地板開關",
+      "zh-CN": "地板开关",
+      "fr": "Interrupteur au sol",
+      "de": "Bodenschalter",
+      "es": "Interruptor de suelo"
+    },
+    "imageUrl": "/images/imported/02c4f0179639fcb435d9bf99.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Prank button"
+    ],
+    "usageCount": 1,
+    "itemId": "I0404",
+    "seq": 790
+  },
+  {
+    "id": "mat_080",
+    "name": {
+      "en": "Food counter",
+      "ko": "푸드 카운터",
+      "ja": "フードカウンター",
+      "zh-TW": "食物櫃台",
+      "zh-CN": "食物柜台",
+      "fr": "Comptoir alimentaire",
+      "de": "Essenstheke",
+      "es": "Mostrador de comida"
+    },
+    "imageUrl": "/images/imported/1b82df94f0dc45f2bd95a19c.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "House party"
+    ],
+    "usageCount": 1,
+    "itemId": "I0115",
+    "seq": 800
+  },
+  {
+    "id": "mat_081",
+    "name": {
+      "en": "Fried potatoes",
+      "ko": "감자튀김",
+      "ja": "フライドポテト",
+      "zh-TW": "薯條",
+      "zh-CN": "薯条",
+      "fr": "Pommes de terre frites",
+      "de": "Bratkartoffeln",
+      "es": "Patatas fritas"
+    },
+    "imageUrl": "/images/imported/daa0041e80c9c06628ee3d33.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Electrifying potatoes"
+    ],
+    "usageCount": 1,
+    "itemId": "I0201",
+    "seq": 810
+  },
+  {
+    "id": "mat_239",
+    "name": {
+      "en": "Frying pan",
+      "ko": "프라이팬",
+      "ja": "フライパン",
+      "zh-TW": "平底鍋",
+      "fr": "Poêle",
+      "de": "Bratpfanne",
+      "es": "Sartén",
+      "zh-CN": "平底锅"
+    },
+    "imageUrl": "/images/imported/21dae7a36a48ae6efdbb829e.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Mini kitchen"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 815
+  },
+  {
+    "id": "mat_082",
+    "name": {
+      "en": "Furnace",
+      "ko": "용광로",
+      "ja": "ようこうろ",
+      "zh-TW": "火力發電機",
+      "zh-CN": "火力发电机",
+      "fr": "Fourneau",
+      "de": "Schmelzofen",
+      "es": "Horno"
+    },
+    "imageUrl": "/images/imported/4e43107120602572df2688cc.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Furnace Spot",
+      "Construction-site generator"
+    ],
+    "usageCount": 2,
+    "itemId": null,
+    "seq": 820
+  },
+  {
+    "id": "mat_083",
+    "name": {
+      "en": "Gaming PC",
+      "ko": "게이밍 PC",
+      "ja": "ゲーミングPC",
+      "zh-TW": "電競電腦",
+      "zh-CN": "电竞电脑",
+      "fr": "PC de jeu",
+      "de": "Gaming-PC",
+      "es": "PC gamer"
+    },
+    "imageUrl": "/images/imported/3025bbb174742fca2d9f0279.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Gamer's paradise"
+    ],
+    "usageCount": 1,
+    "itemId": "I0247",
+    "seq": 830
+  },
+  {
+    "id": "mat_084",
+    "name": {
+      "en": "Gaming bed",
+      "ko": "게이밍 침대",
+      "ja": "ゲーミングベッド",
+      "zh-TW": "電競床",
+      "zh-CN": "电竞床",
+      "fr": "Lit gaming",
+      "de": "Gaming-Bett",
+      "es": "Cama gamer"
+    },
+    "imageUrl": "/images/imported/69cd94d9676c58dcd57725c7.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Gamer's paradise"
+    ],
+    "usageCount": 1,
+    "itemId": "I0184",
+    "seq": 840
+  },
+  {
+    "id": "mat_085",
+    "name": {
+      "en": "Gaming chair",
+      "ko": "게이밍 의자",
+      "ja": "ゲーミングチェア",
+      "zh-TW": "電競椅",
+      "zh-CN": "电竞椅",
+      "fr": "Chaise gaming",
+      "de": "Gaming-Stuhl",
+      "es": "Silla gamer"
+    },
+    "imageUrl": "/images/imported/b64a822c33768dd131f94b9a.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Gamer's paradise"
+    ],
+    "usageCount": 1,
+    "itemId": "I0155",
+    "seq": 850
+  },
+  {
+    "id": "mat_086",
+    "name": {
+      "en": "Gaming fridge",
+      "ko": "게이밍 냉장고",
+      "ja": "ゲーミングれいぞうこ",
+      "zh-TW": "電競冰箱",
+      "zh-CN": "电竞冰箱",
+      "fr": "Frigo gaming",
+      "de": "Gaming-Kühlschrank",
+      "es": "Nevera gamer"
+    },
+    "imageUrl": "/images/imported/880ecd566cd4dc9c9d86dc99.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Gamer's paradise"
+    ],
+    "usageCount": 1,
+    "itemId": "I0093",
+    "seq": 860
+  },
+  {
+    "id": "mat_087",
+    "name": {
+      "en": "Garbage bags",
+      "ko": "쓰레기봉투",
+      "ja": "ゴミぶくろ",
+      "zh-TW": "垃圾袋",
+      "zh-CN": "垃圾袋",
+      "fr": "Sacs poubelle",
+      "de": "Müllsäcke",
+      "es": "Bolsas de basura"
+    },
+    "imageUrl": "/images/imported/bdb70f2ce541b38e1a566c54.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Trash collection site",
+      "Trash disposal site",
+      "Trash site TV"
+    ],
+    "usageCount": 4,
+    "itemId": "I0362",
+    "seq": 870
+  },
+  {
+    "id": "mat_088",
+    "name": {
+      "en": "Garbage bin",
+      "ko": "쓰레기통",
+      "ja": "ゴミばこ",
+      "zh-TW": "垃圾桶",
+      "zh-CN": "垃圾桶",
+      "fr": "Poubelle",
+      "de": "Mülleimer",
+      "es": "Cubo de basura"
+    },
+    "imageUrl": "/images/imported/37b2e58293bcc0c120f5e68e.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Trash can central",
+      "Park bench"
+    ],
+    "usageCount": 5,
+    "itemId": "I0363",
+    "seq": 880
+  },
+  {
+    "id": "mat_089",
+    "name": {
+      "en": "Garden chair",
+      "ko": "가든 의자",
+      "ja": "ガーデンチェア",
+      "zh-TW": "庭園椅",
+      "zh-CN": "庭园椅",
+      "fr": "Chaise de jardin",
+      "de": "Gartenstuhl",
+      "es": "Silla de jardín"
+    },
+    "imageUrl": "/images/imported/9389c70d60e04bdd707561fd.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Garden Terrace"
+    ],
+    "usageCount": 1,
+    "itemId": "I0150",
+    "seq": 890
+  },
+  {
+    "id": "mat_090",
+    "name": {
+      "en": "Garden light",
+      "ko": "가든 조명",
+      "ja": "ガーデンライト",
+      "zh-TW": "庭園燈",
+      "zh-CN": "庭园灯",
+      "fr": "Lampe de jardin",
+      "de": "Gartenleuchte",
+      "es": "Luz de jardín"
+    },
+    "imageUrl": "/images/imported/db30015faec993c5c1818a05.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Garden Terrace"
+    ],
+    "usageCount": 1,
+    "itemId": "I0426",
+    "seq": 900
+  },
+  {
+    "id": "mat_091",
+    "name": {
+      "en": "Garden table",
+      "ko": "가든 테이블",
+      "ja": "ガーデンテーブル",
+      "zh-TW": "庭園桌",
+      "zh-CN": "庭园桌",
+      "fr": "Table de jardin",
+      "de": "Gartentisch",
+      "es": "Mesa de jardín"
+    },
+    "imageUrl": "/images/imported/396e3de0daca89c5d6031921.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Garden Terrace"
+    ],
+    "usageCount": 1,
+    "itemId": "I0104",
+    "seq": 910
+  },
+  {
+    "id": "mat_092",
+    "name": {
+      "en": "Gorgeous bed",
+      "ko": "호화 침대",
+      "ja": "ゴージャスなベッド",
+      "zh-TW": "豪華床",
+      "zh-CN": "豪华床",
+      "fr": "Lit somptueux",
+      "de": "Prachtvolles Bett",
+      "es": "Cama lujosa"
+    },
+    "imageUrl": "/images/imported/85de3cef92e87306fb296da2.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Absolute luxury"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 920
+  },
+  {
+    "id": "mat_093",
+    "name": {
+      "en": "Gorgeous lamp",
+      "ko": "호화 램프",
+      "ja": "ゴージャスなランプ",
+      "zh-TW": "豪華燈",
+      "zh-CN": "豪华灯",
+      "fr": "Lampe somptueuse",
+      "de": "Prachtvolle Lampe",
+      "es": "Lámpara lujosa"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Absolute luxury"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 930
+  },
+  {
+    "id": "mat_094",
+    "name": {
+      "en": "Gorgeous sofa",
+      "ko": "호화 소파",
+      "ja": "ゴージャスなソファ",
+      "zh-TW": "豪華沙發",
+      "zh-CN": "豪华沙发",
+      "fr": "Canapé somptueux",
+      "de": "Prachtvolles Sofa",
+      "es": "Sofá lujoso"
+    },
+    "imageUrl": "/images/imported/f168056e374e977ac4e2bb0a.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Absolute luxury"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 940
+  },
+  {
+    "id": "mat_095",
+    "name": {
+      "en": "Gorgeous table",
+      "ko": "호화 테이블",
+      "ja": "ゴージャスなテーブル",
+      "zh-TW": "豪華桌",
+      "zh-CN": "豪华桌",
+      "fr": "Table somptueuse",
+      "de": "Prachtvoller Tisch",
+      "es": "Mesa lujosa"
+    },
+    "imageUrl": "/images/imported/8d96d31d320b51cf6a24a41e.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Absolute luxury"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 950
+  },
+  {
+    "id": "mat_096",
+    "name": {
+      "en": "Gravestone",
+      "ko": "묘비",
+      "ja": "はかいし",
+      "zh-TW": "墓石",
+      "zh-CN": "墓石",
+      "fr": "Pierre tombale",
+      "de": "Grabstein",
+      "es": "Lápida"
+    },
+    "imageUrl": "/images/imported/f772a50ddcde70d3057b21af.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Grave with flowers",
+      "Grave offering",
+      "Creepy grave offering"
+    ],
+    "usageCount": 3,
+    "itemId": "I0338",
+    "seq": 960
+  },
+  {
+    "id": "mat_097",
+    "name": {
+      "en": "Hanging scroll",
+      "ko": "걸이 두루마리",
+      "ja": "かけじく",
+      "zh-TW": "掛軸",
+      "zh-CN": "挂轴",
+      "fr": "Rouleau suspendu",
+      "de": "Hängerolle",
+      "es": "Pergamino colgante"
+    },
+    "imageUrl": "/images/imported/0b6cad679f650e523f762637.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Dojo training"
+    ],
+    "usageCount": 2,
+    "itemId": "I0299",
+    "seq": 970
+  },
+  {
+    "id": "mat_098",
+    "name": {
+      "en": "Headbutt Fossil (body)",
+      "ko": "박치기화석 (몸통)",
+      "ja": "ずつきのカセキ・どう",
+      "zh-TW": "頭錘化石・軀幹",
+      "zh-CN": "头锤化石・躯干",
+      "fr": "Fossile Coup de Tête (corps)",
+      "de": "Kopfnussfossil (Körper)",
+      "es": "Fósil Cabezazo (cuerpo)"
+    },
+    "imageUrl": "/images/imported/2f571c123e363982cdf4ed96.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Headbutt Fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1065",
+    "seq": 980
+  },
+  {
+    "id": "mat_099",
+    "name": {
+      "en": "Headbutt Fossil (head)",
+      "ko": "박치기화석 (머리)",
+      "ja": "ずつきのカセキ・あたま",
+      "zh-TW": "頭錘化石・頭",
+      "zh-CN": "头锤化石・头",
+      "fr": "Fossile Coup de Tête (tête)",
+      "de": "Kopfnussfossil (Kopf)",
+      "es": "Fósil Cabezazo (cabeza)"
+    },
+    "imageUrl": "/images/imported/5826ed6bb3ea54028f501f9b.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Headbutt Fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1064",
+    "seq": 990
+  },
+  {
+    "id": "mat_100",
+    "name": {
+      "en": "Headbutt Fossil (tail)",
+      "ko": "박치기화석 (꼬리)",
+      "ja": "ずつきのカセキ・しっぽ",
+      "zh-TW": "頭錘化石・尾巴",
+      "zh-CN": "头锤化石・尾巴",
+      "fr": "Fossile Coup de Tête (queue)",
+      "de": "Kopfnussfossil (Schwanz)",
+      "es": "Fósil Cabezazo (cola)"
+    },
+    "imageUrl": "/images/imported/8c7bf23c868136a3b8f59ecd.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Headbutt Fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1066",
+    "seq": 1000
+  },
+  {
+    "id": "mat_101",
+    "name": {
+      "en": "Hedge",
+      "ko": "수풀",
+      "ja": "いけがき",
+      "zh-TW": "樹籬",
+      "zh-CN": "树篱",
+      "fr": "Haie",
+      "de": "Hecke",
+      "es": "Seto"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Flower garden",
+      "Bench with greenery",
+      "Chansey Resting area",
+      "Tropical seaside",
+      "Bronze landmark"
+    ],
+    "usageCount": 20,
+    "itemId": null,
+    "seq": 1010
+  },
+  {
+    "id": "mat_102",
+    "name": {
+      "en": "High-up location",
+      "ko": "높은 곳",
+      "ja": "高いところ",
+      "zh-TW": "高處",
+      "zh-CN": "高处",
+      "fr": "Lieu en hauteur",
+      "de": "Hochgelegener Ort",
+      "es": "Lugar elevado"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Elevated tall grass",
+      "Elevated flower bed",
+      "Berry-feast Campsite",
+      "Elevated yellow tall grass",
+      "Elevated red tall grass",
+      "Elevated pink tall grass",
+      "Waterside dinghy",
+      "Picturesque photo cutoutboard"
+    ],
+    "usageCount": 9,
+    "itemId": null,
+    "seq": 1020
+  },
+  {
+    "id": "mat_103",
+    "name": {
+      "en": "Hot-spring spout",
+      "ko": "온천 분출구",
+      "ja": "ゆぐち",
+      "zh-TW": "溫泉出口",
+      "zh-CN": "温泉出口",
+      "fr": "Bec de source chaude",
+      "de": "Thermalquellenauslauf",
+      "es": "Boquilla de aguas termales"
+    },
+    "imageUrl": "/images/imported/28d69cd62217cbe1ac4f7fdc.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Open-air bath",
+      "Harmonious hot spring"
+    ],
+    "usageCount": 2,
+    "itemId": "I0345",
+    "seq": 1030
+  },
+  {
+    "id": "mat_104",
+    "name": {
+      "en": "Hot-spring water",
+      "ko": "온천수",
+      "ja": "おんせんのみず",
+      "zh-TW": "溫泉水",
+      "zh-CN": "温泉水",
+      "fr": "Eau de source chaude",
+      "de": "Thermalquellenwasser",
+      "es": "Agua de aguas termales"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Hot-spring shower",
+      "Mossy hot spring",
+      "Open-air bath",
+      "Harmonious hot spring",
+      "Hot-spring Fishing Spot"
+    ],
+    "usageCount": 9,
+    "itemId": null,
+    "seq": 1040
+  },
+  {
+    "id": "mat_105",
+    "name": {
+      "en": "Humidifier",
+      "ko": "가습기",
+      "ja": "かしつき",
+      "zh-TW": "加濕器",
+      "zh-CN": "加湿器",
+      "fr": "Humidificateur",
+      "de": "Luftbefeuchter",
+      "es": "Humidificador"
+    },
+    "imageUrl": "/images/imported/103aeac2a810d2635c3a22ef.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Moisturizing makeup stand"
+    ],
+    "usageCount": 1,
+    "itemId": "I0256",
+    "seq": 1050
+  },
+  {
+    "id": "mat_106",
+    "name": {
+      "en": "Industrial bed",
+      "ko": "공업용 침대",
+      "ja": "インダストリアルなベッド",
+      "zh-TW": "工業風床",
+      "zh-CN": "工业风床",
+      "fr": "Lit industriel",
+      "de": "Industriebett",
+      "es": "Cama industrial"
+    },
+    "imageUrl": "/images/imported/25d32717f646d163d8c7b3d0.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Modern living"
+    ],
+    "usageCount": 1,
+    "itemId": "I0181",
+    "seq": 1060
+  },
+  {
+    "id": "mat_107",
+    "name": {
+      "en": "Industrial chair",
+      "ko": "공업용 의자",
+      "ja": "インダストリアルなイス",
+      "zh-TW": "工業風椅",
+      "zh-CN": "工业风椅",
+      "fr": "Chaise industrielle",
+      "de": "Industriestuhl",
+      "es": "Silla industrial"
+    },
+    "imageUrl": "/images/imported/563d18fbe7f81d10d1cb9876.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Modern living"
+    ],
+    "usageCount": 1,
+    "itemId": "I0138",
+    "seq": 1070
+  },
+  {
+    "id": "mat_108",
+    "name": {
+      "en": "Industrial desk",
+      "ko": "공업용 책상",
+      "ja": "インダストリアルなデスク",
+      "zh-TW": "工業風桌",
+      "zh-CN": "工业风桌",
+      "fr": "Bureau industriel",
+      "de": "Industrieschreibtisch",
+      "es": "Escritorio industrial"
+    },
+    "imageUrl": "/images/imported/6227f75a31b09143e1e3c775.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Modern living",
+      "Interrogation desk"
+    ],
+    "usageCount": 2,
+    "itemId": "I0118",
+    "seq": 1080
+  },
+  {
+    "id": "mat_109",
+    "name": {
+      "en": "Inflatable boat",
+      "ko": "고무보트",
+      "ja": "ゴムボート",
+      "zh-TW": "充氣船",
+      "zh-CN": "充气船",
+      "fr": "Bateau gonflable",
+      "de": "Schlauchboot",
+      "es": "Bote inflable"
+    },
+    "imageUrl": "/images/imported/105406103cdc0a55b7fe2f65.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Floating in the shade"
+    ],
+    "usageCount": 1,
+    "itemId": "I0348",
+    "seq": 1090
+  },
+  {
+    "id": "mat_110",
+    "name": {
+      "en": "Iron beam",
+      "ko": "철골",
+      "ja": "てつのはしら",
+      "zh-TW": "鐵骨",
+      "zh-CN": "铁骨",
+      "fr": "Poutre en fer",
+      "de": "Eisenträger",
+      "es": "Viga de hierro"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Clink-clang iron construction",
+      "Oversized dumping ground"
+    ],
+    "usageCount": 6,
+    "itemId": "I0632",
+    "seq": 1100
+  },
+  {
+    "id": "mat_111",
+    "name": {
+      "en": "Iron bed",
+      "ko": "철제 침대",
+      "ja": "てつのベッド",
+      "zh-TW": "鐵床",
+      "zh-CN": "铁床",
+      "fr": "Lit en fer",
+      "de": "Eisenbett",
+      "es": "Cama de hierro"
+    },
+    "imageUrl": "/images/imported/e4a671fc5a660f217a75ec86.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Heavy iron"
+    ],
+    "usageCount": 1,
+    "itemId": "I0169",
+    "seq": 1110
+  },
+  {
+    "id": "mat_112",
+    "name": {
+      "en": "Iron chair",
+      "ko": "철제 의자",
+      "ja": "てつのイス",
+      "zh-TW": "鐵椅",
+      "zh-CN": "铁椅",
+      "fr": "Chaise en fer",
+      "de": "Eisenstuhl",
+      "es": "Silla de hierro"
+    },
+    "imageUrl": "/images/imported/bbce9de7e908e76871fa6ddf.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Heavy iron"
+    ],
+    "usageCount": 1,
+    "itemId": "I0141",
+    "seq": 1120
+  },
+  {
+    "id": "mat_113",
+    "name": {
+      "en": "Iron pipes",
+      "ko": "철 파이프",
+      "ja": "てつパイプ",
+      "zh-TW": "堆疊鐵管",
+      "zh-CN": "堆叠铁管",
+      "fr": "Tuyaux en fer",
+      "de": "Eisenrohre",
+      "es": "Tuberías de hierro"
+    },
+    "imageUrl": "/images/imported/56c23333f99b951a0d967d25.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Sewer hole inspection",
+      "Construction-site generator"
+    ],
+    "usageCount": 2,
+    "itemId": "I0373",
+    "seq": 1130
+  },
+  {
+    "id": "mat_114",
+    "name": {
+      "en": "Iron scaffold",
+      "ko": "철제 발판",
+      "ja": "てつのあしば",
+      "zh-TW": "鐵架",
+      "zh-CN": "铁架",
+      "fr": "Échafaudage en fer",
+      "de": "Eisengerüst",
+      "es": "Andamio de hierro"
+    },
+    "imageUrl": "/images/imported/adf6219f4d28daa772694504.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Construction-site generator"
+    ],
+    "usageCount": 2,
+    "itemId": "I0619",
+    "seq": 1140
+  },
+  {
+    "id": "mat_115",
+    "name": {
+      "en": "Iron table",
+      "ko": "철제 테이블",
+      "ja": "てつのテーブル",
+      "zh-TW": "鐵桌",
+      "zh-CN": "铁桌",
+      "fr": "Table en fer",
+      "de": "Eisentisch",
+      "es": "Mesa de hierro"
+    },
+    "imageUrl": "/images/imported/65b93632be56d6f9e1dcc4fc.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Heavy iron"
+    ],
+    "usageCount": 1,
+    "itemId": "I0119",
+    "seq": 1150
+  },
+  {
+    "id": "mat_116",
+    "name": {
+      "en": "Jaw Fossil",
+      "ko": "턱화석",
+      "ja": "アゴのカセキ",
+      "zh-TW": "顎之化石",
+      "zh-CN": "颚之化石",
+      "fr": "Fossile Mâchoire",
+      "de": "Kieferfossil",
+      "es": "Fósil Mandíbula"
+    },
+    "imageUrl": "/images/imported/a711d1d870006e6a66957a6f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Jaw Fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1057",
+    "seq": 1160
+  },
+  {
+    "id": "mat_117",
+    "name": {
+      "en": "Jumbled cords",
+      "ko": "엉킨 전선",
+      "ja": "からまったコード",
+      "zh-TW": "纏繞電線",
+      "zh-CN": "缠绕电线",
+      "fr": "Câbles emmêlés",
+      "de": "Kabelsalat",
+      "es": "Cables enredados"
+    },
+    "imageUrl": "/images/imported/e317b411d4d41b8fbd8c2e1b.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Factory Storage",
+      "Professor's apprentice program"
+    ],
+    "usageCount": 2,
+    "itemId": "I0262",
+    "seq": 1170
+  },
+  {
+    "id": "mat_118",
+    "name": {
+      "en": "Kitchen shelf",
+      "ko": "주방 선반",
+      "ja": "キッチンだな",
+      "zh-TW": "廚房架",
+      "zh-CN": "厨房架",
+      "fr": "Étagère de cuisine",
+      "de": "Küchenregal",
+      "es": "Estante de cocina"
+    },
+    "imageUrl": "/images/imported/173da1b98aed83cb0829c4fe.png",
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "itemId": null,
+    "seq": 1180
+  },
+  {
+    "id": "mat_119",
+    "name": {
+      "en": "Kitchen table",
+      "ko": "주방 테이블",
+      "ja": "キッチンテーブル",
+      "zh-TW": "廚房桌",
+      "zh-CN": "厨房桌",
+      "fr": "Table de cuisine",
+      "de": "Küchentisch",
+      "es": "Mesa de cocina"
+    },
+    "imageUrl": "/images/imported/4cd00339528e4355fd164f15.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Mini kitchen"
+    ],
+    "usageCount": 1,
+    "itemId": "I0109",
+    "seq": 1190
+  },
+  {
+    "id": "mat_120",
+    "name": {
+      "en": "Knitting supplies",
+      "ko": "뜨개질 도구",
+      "ja": "あみものセット",
+      "zh-TW": "編織套組",
+      "zh-CN": "编织套组",
+      "fr": "Fournitures de tricot",
+      "de": "Strickzubehör",
+      "es": "Material de tejido"
+    },
+    "imageUrl": "/images/imported/a055ff2e931bcc21eb64abd4.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Knitting station"
+    ],
+    "usageCount": 1,
+    "itemId": "I0254",
+    "seq": 1200
+  },
+  {
+    "id": "mat_121",
+    "name": {
+      "en": "Lantern",
+      "ko": "랜턴",
+      "ja": "ランタン",
+      "zh-TW": "提燈",
+      "zh-CN": "提灯",
+      "fr": "Lanterne",
+      "de": "Laterne",
+      "es": "Linterna"
+    },
+    "imageUrl": "/images/imported/94571f43bdbd873d6827ddec.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Creepy white rocks",
+      "Container snacking",
+      "Heavy iron"
+    ],
+    "usageCount": 3,
+    "itemId": "I0427",
+    "seq": 1210
+  },
+  {
+    "id": "mat_122",
+    "name": {
+      "en": "Laptop",
+      "ko": "노트북",
+      "ja": "ノートパソコン",
+      "zh-TW": "筆記型電腦",
+      "zh-CN": "笔记型电脑",
+      "fr": "Ordinateur portable",
+      "de": "Laptop",
+      "es": "Portátil"
+    },
+    "imageUrl": "/images/imported/06c594a2d2e614cea52d576f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Work desk",
+      "Professor's apprentice program"
+    ],
+    "usageCount": 2,
+    "itemId": "I0245",
+    "seq": 1220
+  },
+  {
+    "id": "mat_123",
+    "name": {
+      "en": "Large Tree",
+      "ko": "큰 나무",
+      "ja": "おおきな木",
+      "zh-TW": "大樹",
+      "zh-CN": "大树",
+      "fr": "Grand arbre",
+      "de": "Großer Baum",
+      "es": "Árbol grande"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tree-shaded tall grass"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 1230
+  },
+  {
+    "id": "mat_124",
+    "name": {
+      "en": "Large boulder",
+      "ko": "큰 바위",
+      "ja": "きょだいないわ",
+      "zh-TW": "大石頭",
+      "zh-CN": "大石头",
+      "fr": "Grand rocher",
+      "de": "Großer Felsen",
+      "es": "Roca grande"
+    },
+    "imageUrl": "/images/imported/9c314eb30b4705d8306d457e.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Boulder-shaded Tall Grass",
+      "Pointy tree-shaded rocky tall grass",
+      "Nature's market"
+    ],
+    "usageCount": 3,
+    "itemId": "I0507",
+    "seq": 1240
+  },
+  {
+    "id": "mat_125",
+    "name": {
+      "en": "Large palm tree",
+      "ko": "큰 야자나무",
+      "ja": "おおきなヤシの木",
+      "zh-TW": "大椰子樹",
+      "zh-CN": "大椰子树",
+      "fr": "Grand palmier",
+      "de": "Große Palme",
+      "es": "Palmera grande"
+    },
+    "imageUrl": "/images/imported/158856d2ae4acf31f1f502a7.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tropical vibes",
+      "Shaded beach",
+      "Tropical seaside",
+      "Resort meal prep"
+    ],
+    "usageCount": 4,
+    "itemId": "I0487",
+    "seq": 1250
+  },
+  {
+    "id": "mat_126",
+    "name": {
+      "en": "Large tree",
+      "ko": "큰 나무",
+      "ja": "おおきな木",
+      "zh-TW": "大樹",
+      "zh-CN": "大树",
+      "fr": "Grand arbre",
+      "de": "Großer Baum",
+      "es": "Árbol grande"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tree-shaded snoozing Snorlax",
+      "Tree-shaded Yellow tall grass",
+      "Tree-shaded red tall grass",
+      "Tree-shaded pink tall grass",
+      "Tree-shaded fluffy flower bed",
+      "Nature's market"
+    ],
+    "usageCount": 6,
+    "itemId": null,
+    "seq": 1260
+  },
+  {
+    "id": "mat_127",
+    "name": {
+      "en": "Lava",
+      "ko": "용암",
+      "ja": "マグマ",
+      "zh-TW": "岩漿",
+      "zh-CN": "岩浆",
+      "fr": "Lave",
+      "de": "Lava",
+      "es": "Lava"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Piping-hot lava",
+      "Magma fishing spot"
+    ],
+    "usageCount": 3,
+    "itemId": null,
+    "seq": 1270
+  },
+  {
+    "id": "mat_128",
+    "name": {
+      "en": "Lighting",
+      "ko": "조명",
+      "ja": "あかり",
+      "zh-TW": "燈光",
+      "zh-CN": "灯光",
+      "fr": "Éclairage",
+      "de": "Beleuchtung",
+      "es": "Iluminación"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Illuminated tall grass",
+      "Mini library"
+    ],
+    "usageCount": 2,
+    "itemId": null,
+    "seq": 1280
+  },
+  {
+    "id": "mat_129",
+    "name": {
+      "en": "Log bed",
+      "ko": "통나무 침대",
+      "ja": "まるたのベッド",
+      "zh-TW": "圓木床",
+      "zh-CN": "圆木床",
+      "fr": "Lit en rondins",
+      "de": "Holzscheitbett",
+      "es": "Cama de troncos"
+    },
+    "imageUrl": "/images/imported/2d3d48fd19b4d052d4963151.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Cozy log handicrafts"
+    ],
+    "usageCount": 1,
+    "itemId": "I0168",
+    "seq": 1290
+  },
+  {
+    "id": "mat_130",
+    "name": {
+      "en": "Log chair",
+      "ko": "통나무 의자",
+      "ja": "まるたのイス",
+      "zh-TW": "圓木椅",
+      "zh-CN": "圆木椅",
+      "fr": "Chaise en rondins",
+      "de": "Holzscheitstuhl",
+      "es": "Silla de troncos"
+    },
+    "imageUrl": "/images/imported/a89d7925244023a0ff65d91a.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Lumberjack's workplace",
+      "Cozy log handicrafts"
+    ],
+    "usageCount": 2,
+    "itemId": "I0135",
+    "seq": 1300
+  },
+  {
+    "id": "mat_131",
+    "name": {
+      "en": "Log table",
+      "ko": "통나무 테이블",
+      "ja": "まるたのテーブル",
+      "zh-TW": "圓木桌",
+      "zh-CN": "圆木桌",
+      "fr": "Table en rondins",
+      "de": "Holzscheittisch",
+      "es": "Mesa de troncos"
+    },
+    "imageUrl": "/images/imported/19ef907e4d68d3b29c3bfdc8.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Lumberjack's workplace",
+      "Cozy log handicrafts"
+    ],
+    "usageCount": 2,
+    "itemId": "I0102",
+    "seq": 1310
+  },
+  {
+    "id": "mat_132",
+    "name": {
+      "en": "Lost relic (large)",
+      "ko": "잃어버린 유물 (대)",
+      "ja": "はかせのオタカラ",
+      "zh-TW": "遺落物（大型）",
+      "zh-CN": "遗落物（大型）",
+      "fr": "Relique perdue (grande)",
+      "de": "Verlorene Reliquie (groß)",
+      "es": "Reliquia perdida (grande)"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Professor's treasure trove",
+      "Mini museum"
+    ],
+    "usageCount": 6,
+    "itemId": null,
+    "seq": 1320
+  },
+  {
+    "id": "mat_133",
+    "name": {
+      "en": "Luxury sofa",
+      "ko": "럭셔리 소파",
+      "ja": "こうきゅうソファ",
+      "zh-TW": "豪華沙發",
+      "zh-CN": "豪华沙发",
+      "fr": "Canapé de luxe",
+      "de": "Luxussofa",
+      "es": "Sofá de lujo"
+    },
+    "imageUrl": "/images/imported/838b11f25ee6d7c569aafff0.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Evil organization HQ"
+    ],
+    "usageCount": 1,
+    "itemId": "I0162",
+    "seq": 1330
+  },
+  {
+    "id": "mat_134",
+    "name": {
+      "en": "Magazine rack",
+      "ko": "잡지 꽂이",
+      "ja": "マガジンラック",
+      "zh-TW": "雜誌架",
+      "zh-CN": "杂志架",
+      "fr": "Porte-revues",
+      "de": "Zeitschriftenständer",
+      "es": "Revistero"
+    },
+    "imageUrl": "/images/imported/6b7b12776bdfe25d2a26be29.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Music and magazines",
+      "Public reading material"
+    ],
+    "usageCount": 2,
+    "itemId": "I0226",
+    "seq": 1340
+  },
+  {
+    "id": "mat_135",
+    "name": {
+      "en": "Makeup stand",
+      "ko": "화장대",
+      "ja": "おけしょうだい",
+      "zh-TW": "化妝台",
+      "zh-CN": "化妆台",
+      "fr": "Coiffeuse",
+      "de": "Schminktisch",
+      "es": "Tocador"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Private makeup stand"
+    ],
+    "usageCount": 2,
+    "itemId": null,
+    "seq": 1350
+  },
+  {
+    "id": "mat_136",
+    "name": {
+      "en": "Malicious Armor",
+      "ko": "원념의 갑옷",
+      "ja": "ノロイノヨロイ",
+      "zh-TW": "詛咒之鎧",
+      "zh-CN": "诅咒之铠",
+      "fr": "Armure Maléfique",
+      "de": "Boshafte Rüstung",
+      "es": "Armadura Maliciosa"
+    },
+    "imageUrl": "/images/imported/779c4f61289ba49e39b90caa.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Malicious knight's shrine"
+    ],
+    "usageCount": 1,
+    "itemId": "I0280",
+    "seq": 1360
+  },
+  {
+    "id": "mat_137",
+    "name": {
+      "en": "Sewer-hole cover",
+      "ko": "맨홀 뚜껑",
+      "ja": "マンホール",
+      "zh-TW": "人孔蓋",
+      "zh-CN": "人孔盖",
+      "fr": "Plaque d'égout",
+      "de": "Kanaldeckel",
+      "es": "Tapa de alcantarilla"
+    },
+    "imageUrl": "/images/imported/e0729e92bffd28f0cb2f9e6f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Sewer hole inspection"
+    ],
+    "usageCount": 1,
+    "itemId": "I0367",
+    "seq": 1370
+  },
+  {
+    "id": "mat_138",
+    "name": {
+      "en": "Menu board",
+      "ko": "메뉴 보드",
+      "ja": "メニューボード",
+      "zh-TW": "菜單板",
+      "zh-CN": "菜单板",
+      "fr": "Tableau de menu",
+      "de": "Menütafel",
+      "es": "Pizarra de menú"
+    },
+    "imageUrl": "/images/imported/3c6ea253b97f98681c503f7b.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tantalizing restaurant",
+      "Café space"
+    ],
+    "usageCount": 2,
+    "itemId": "I0353",
+    "seq": 1380
+  },
+  {
+    "id": "mat_139",
+    "name": {
+      "en": "Metal drum",
+      "ko": "드럼통",
+      "ja": "ドラムかん",
+      "zh-TW": "油桶",
+      "zh-CN": "油桶",
+      "fr": "Fût métallique",
+      "de": "Metalltonne",
+      "es": "Bidón metálico"
+    },
+    "imageUrl": "/images/imported/9554164156a0a6353e844a8c.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Factory Storage",
+      "Furnace Spot"
+    ],
+    "usageCount": 2,
+    "itemId": "I0372",
+    "seq": 1390
+  },
+  {
+    "id": "mat_140",
+    "name": {
+      "en": "Microscope",
+      "ko": "현미경",
+      "ja": "けんびきょう",
+      "zh-TW": "顯微鏡",
+      "zh-CN": "显微镜",
+      "fr": "Microscope",
+      "de": "Mikroskop",
+      "es": "Microscopio"
+    },
+    "imageUrl": "/images/imported/dca6243da367515201a5a710.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Experiment Space"
+    ],
+    "usageCount": 1,
+    "itemId": "I0260",
+    "seq": 1400
+  },
+  {
+    "id": "mat_141",
+    "name": {
+      "en": "Microwave",
+      "ko": "전자레인지",
+      "ja": "でんしレンジ",
+      "zh-TW": "微波爐",
+      "zh-CN": "微波炉",
+      "fr": "Micro-ondes",
+      "de": "Mikrowelle",
+      "es": "Microondas"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Oversized dumping ground"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 1410
+  },
+  {
+    "id": "mat_142",
+    "name": {
+      "en": "Mirror (large)",
+      "ko": "거울 (대)",
+      "ja": "かがみ(大きなもの)",
+      "zh-TW": "鏡子（大型）",
+      "zh-CN": "镜子（大型）",
+      "fr": "Miroir (grand)",
+      "de": "Spiegel (groß)",
+      "es": "Espejo (grande)"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Changing area"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 1420
+  },
+  {
+    "id": "mat_143",
+    "name": {
+      "en": "Modern sink",
+      "ko": "모던 세면대",
+      "ja": "モダンなせんめんだい",
+      "zh-TW": "水槽",
+      "zh-CN": "水槽",
+      "fr": "Évier moderne",
+      "de": "Modernes Waschbecken",
+      "es": "Fregadero moderno"
+    },
+    "imageUrl": "/images/imported/bff5922d69fe234bfcef7a9f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Chef's kitchen"
+    ],
+    "usageCount": 1,
+    "itemId": "I0230",
+    "seq": 1430
+  },
+  {
+    "id": "mat_144",
+    "name": {
+      "en": "Molten rock",
+      "ko": "녹은 바위",
+      "ja": "アツアツいわ",
+      "zh-TW": "滾燙岩",
+      "zh-CN": "滚烫岩",
+      "fr": "Roche en fusion",
+      "de": "Geschmolzenes Gestein",
+      "es": "Roca fundida"
+    },
+    "imageUrl": "/images/imported/c7ab8c3395a7defcd1ff7ab8.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Piping-hot lava"
+    ],
+    "usageCount": 1,
+    "itemId": "I0509",
+    "seq": 1440
+  },
+  {
+    "id": "mat_145",
+    "name": {
+      "en": "Moonlight dance statue",
+      "ko": "월광춤 동상",
+      "ja": "つきよのダンスぞう",
+      "zh-TW": "月夜舞蹈像",
+      "zh-CN": "月夜舞蹈像",
+      "fr": "Statue de danse au clair de lune",
+      "de": "Mondlichttanzstatue",
+      "es": "Estatua de danza a la luz de la luna"
+    },
+    "imageUrl": "/images/imported/00c501dff0a84526cf855ce8.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Bronze landmark"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 1450
+  },
+  {
+    "id": "mat_146",
+    "name": {
+      "en": "Moss",
+      "ko": "이끼",
+      "ja": "コケ",
+      "zh-TW": "苔蘚",
+      "zh-CN": "苔藓",
+      "fr": "Mousse",
+      "de": "Moos",
+      "es": "Musgo"
+    },
+    "imageUrl": "/images/imported/51d8ef4c7e59eb4465a7994b.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Mossy rest spot",
+      "Mossy boulder",
+      "Mossy hot spring",
+      "Creepy white rocks"
+    ],
+    "usageCount": 16,
+    "itemId": "I0484",
+    "seq": 1460
+  },
+  {
+    "id": "mat_147",
+    "name": {
+      "en": "Mossy boulder",
+      "ko": "이끼 낀 바위",
+      "ja": "コケのはえたいわ",
+      "zh-TW": "苔岩",
+      "zh-CN": "苔岩",
+      "fr": "Rocher moussu",
+      "de": "Moosiger Felsen",
+      "es": "Roca musgosa"
+    },
+    "imageUrl": "/images/imported/e207adcf253e1aef1f0617bc.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Mossy boulder"
+    ],
+    "usageCount": 1,
+    "itemId": "I0508",
+    "seq": 1470
+  },
+  {
+    "id": "mat_148",
+    "name": {
+      "en": "Mountain flowers",
+      "ko": "산꽃",
+      "ja": "やまのはな",
+      "zh-TW": "岩場花",
+      "zh-CN": "岩场花",
+      "fr": "Fleurs de montagne",
+      "de": "Bergblumen",
+      "es": "Flores de montaña"
+    },
+    "imageUrl": "/images/imported/7b350fb015d19101a693df12.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Graceful flower bed",
+      "Tree-shaded graceful flower bed",
+      "Hydrated graceful flower bed",
+      "Flower garden stump stage"
+    ],
+    "usageCount": 16,
+    "itemId": "I0491",
+    "seq": 1480
+  },
+  {
+    "id": "mat_149",
+    "name": {
+      "en": "Muddy Water",
+      "ko": "탁한 물",
+      "ja": "どろみず",
+      "zh-TW": "泥水",
+      "zh-CN": "泥水",
+      "fr": "Eau boueuse",
+      "de": "Schlammiges Wasser",
+      "es": "Agua lodosa"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Marshy tall grass",
+      "Marsh fishing spot"
+    ],
+    "usageCount": 3,
+    "itemId": null,
+    "seq": 1490
+  },
+  {
+    "id": "mat_150",
+    "name": {
+      "en": "Mug",
+      "ko": "머그잔",
+      "ja": "マグカップ",
+      "zh-TW": "馬克杯",
+      "zh-CN": "马克杯",
+      "fr": "Tasse",
+      "de": "Becher",
+      "es": "Taza"
+    },
+    "imageUrl": "/images/imported/7e93919614720e0b74791b49.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Café space",
+      "Work desk"
+    ],
+    "usageCount": 2,
+    "itemId": "I0197",
+    "seq": 1500
+  },
+  {
+    "id": "mat_151",
+    "name": {
+      "en": "Mushroom lamp",
+      "ko": "버섯 램프",
+      "ja": "キノコのランプ",
+      "zh-TW": "蘑菇燈",
+      "zh-CN": "蘑菇灯",
+      "fr": "Lampe champignon",
+      "de": "Pilzlampe",
+      "es": "Lámpara de seta"
+    },
+    "imageUrl": "/images/imported/058ac33691e9288f37494b88.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Irresistible scent and glow",
+      "Flower garden stump stage"
+    ],
+    "usageCount": 3,
+    "itemId": "I0414",
+    "seq": 1510
+  },
+  {
+    "id": "mat_152",
+    "name": {
+      "en": "Music mat",
+      "ko": "음악 매트",
+      "ja": "ミュージックマット",
+      "zh-TW": "音樂墊",
+      "zh-CN": "音乐垫",
+      "fr": "Tapis musical",
+      "de": "Musikmatte",
+      "es": "Alfombra musical"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Rhythmic Living room"
+    ],
+    "usageCount": 4,
+    "itemId": null,
+    "seq": 1520
+  },
+  {
+    "id": "mat_153",
+    "name": {
+      "en": "Naptime bed",
+      "ko": "낮잠 침대",
+      "ja": "おひるねベッド",
+      "zh-TW": "午睡床",
+      "zh-CN": "午睡床",
+      "fr": "Lit de sieste",
+      "de": "Schlummerbett",
+      "es": "Cama de siesta"
+    },
+    "imageUrl": "/images/imported/c59be1d440f472e8e908b01b.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tree-shaded snoozing Snorlax"
+    ],
+    "usageCount": 1,
+    "itemId": "I0185",
+    "seq": 1530
+  },
+  {
+    "id": "mat_154",
+    "name": {
+      "en": "Newspaper",
+      "ko": "신문",
+      "ja": "しんぶん",
+      "zh-TW": "報紙",
+      "zh-CN": "报纸",
+      "fr": "Journal",
+      "de": "Zeitung",
+      "es": "Periódico"
+    },
+    "imageUrl": "/images/imported/23e39f9d50153ed792d0a397.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Public reading material"
+    ],
+    "usageCount": 1,
+    "itemId": "I0221",
+    "seq": 1540
+  },
+  {
+    "id": "mat_155",
+    "name": {
+      "en": "Ocean Water",
+      "ko": "바닷물",
+      "ja": "うみのみず",
+      "zh-TW": "海水",
+      "zh-CN": "海水",
+      "fr": "Eau de mer",
+      "de": "Meerwasser",
+      "es": "Agua de mar"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Seaside Tall Grass"
+    ],
+    "usageCount": 2,
+    "itemId": null,
+    "seq": 1550
+  },
+  {
+    "id": "mat_156",
+    "name": {
+      "en": "Ocean water",
+      "ko": "바닷물",
+      "ja": "うみのみず",
+      "zh-TW": "海水",
+      "zh-CN": "海水",
+      "fr": "Eau de mer",
+      "de": "Meerwasser",
+      "es": "Agua de mar"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tropical seaside",
+      "Dock",
+      "Ocean fishing spot"
+    ],
+    "usageCount": 5,
+    "itemId": null,
+    "seq": 1560
+  },
+  {
+    "id": "mat_157",
+    "name": {
+      "en": "Office chair",
+      "ko": "사무용 의자",
+      "ja": "オフィスのイス",
+      "zh-TW": "辦公椅",
+      "zh-CN": "办公椅",
+      "fr": "Chaise de bureau",
+      "de": "Bürostuhl",
+      "es": "Silla de oficina"
+    },
+    "imageUrl": "/images/imported/685b058410d6cc2bfc5c90aa.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Work desk"
+    ],
+    "usageCount": 1,
+    "itemId": "I0152",
+    "seq": 1570
+  },
+  {
+    "id": "mat_158",
+    "name": {
+      "en": "Office desk",
+      "ko": "사무용 책상",
+      "ja": "オフィスのデスク",
+      "zh-TW": "辦公桌",
+      "zh-CN": "办公桌",
+      "fr": "Bureau",
+      "de": "Schreibtisch",
+      "es": "Escritorio de oficina"
+    },
+    "imageUrl": "/images/imported/deae83742f35831d9fcea98b.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Work desk"
+    ],
+    "usageCount": 1,
+    "itemId": "I0120",
+    "seq": 1580
+  },
+  {
+    "id": "mat_159",
+    "name": {
+      "en": "Office locker",
+      "ko": "사무용 사물함",
+      "ja": "オフィスのロッカー",
+      "zh-TW": "辦公室置物櫃",
+      "zh-CN": "办公室置物柜",
+      "fr": "Casier de bureau",
+      "de": "Büroschließfach",
+      "es": "Taquilla de oficina"
+    },
+    "imageUrl": "/images/imported/042a4db1de0f6b44134530ae.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Refreshing locker room"
+    ],
+    "usageCount": 2,
+    "itemId": "I0097",
+    "seq": 1590
+  },
+  {
+    "id": "mat_160",
+    "name": {
+      "en": "Office shelf",
+      "ko": "사무용 선반",
+      "ja": "オフィスのたな",
+      "zh-TW": "辦公室架子",
+      "zh-CN": "办公室架子",
+      "fr": "Étagère de bureau",
+      "de": "Büroregal",
+      "es": "Estante de oficina"
+    },
+    "imageUrl": "/images/imported/173da1b98aed83cb0829c4fe.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Office storeroom"
+    ],
+    "usageCount": 1,
+    "itemId": "I0099",
+    "seq": 1600
+  },
+  {
+    "id": "mat_161",
+    "name": {
+      "en": "Paper party cups",
+      "ko": "종이 파티컵",
+      "ja": "パーティーカップ",
+      "zh-TW": "派對杯",
+      "zh-CN": "派对杯",
+      "fr": "Gobelets de fête en papier",
+      "de": "Papierpartybecher",
+      "es": "Vasos de fiesta de papel"
+    },
+    "imageUrl": "/images/imported/ae9ca9198421cfd6579a8875.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "House party",
+      "Lazy-photo album scrolling"
+    ],
+    "usageCount": 2,
+    "itemId": "I0199",
+    "seq": 1610
+  },
+  {
+    "id": "mat_162",
+    "name": {
+      "en": "Party plate",
+      "ko": "파티 접시",
+      "ja": "パーティープレート",
+      "zh-TW": "派對盤",
+      "zh-CN": "派对盘",
+      "fr": "Assiette de fête",
+      "de": "Partyteller",
+      "es": "Plato de fiesta"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Dinner table surprise"
+    ],
+    "usageCount": 4,
+    "itemId": null,
+    "seq": 1620
+  },
+  {
+    "id": "mat_163",
+    "name": {
+      "en": "Party table",
+      "ko": "파티 테이블",
+      "ja": "パーティーテーブル",
+      "zh-TW": "派對桌",
+      "zh-CN": "派对桌",
+      "fr": "Table de fête",
+      "de": "Partytisch",
+      "es": "Mesa de fiesta"
+    },
+    "imageUrl": "/images/imported/c2e5cf6e4a549a46dcab3add.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Dinner table surprise"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 1630
+  },
+  {
+    "id": "mat_164",
+    "name": {
+      "en": "Pedestal",
+      "ko": "받침대",
+      "ja": "だいざ・てんじだい",
+      "zh-TW": "展示台",
+      "zh-CN": "展示台",
+      "fr": "Piédestal",
+      "de": "Sockel",
+      "es": "Pedestal"
+    },
+    "imageUrl": "/images/imported/88023a9ca4358316ff851716.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Mini museum",
+      "Malicious knight's shrine",
+      "Auspicious knight's shrine",
+      "Wing Fossil Display",
+      "Skull Fossil display",
+      "Headbutt Fossil display",
+      "Armor Fossil display",
+      "Shield Fossil display",
+      "Jaw Fossil display",
+      "Despot fossil display",
+      "Sail Fossil display",
+      "Tundra fossil display"
+    ],
+    "usageCount": 14,
+    "itemId": "I0111",
+    "seq": 1640
+  },
+  {
+    "id": "mat_165",
+    "name": {
+      "en": "Pencil holder",
+      "ko": "연필꽂이",
+      "ja": "えんぴつ立て",
+      "zh-TW": "筆筒",
+      "zh-CN": "笔筒",
+      "fr": "Pot à crayons",
+      "de": "Stiftehalter",
+      "es": "Portalápices"
+    },
+    "imageUrl": "/images/imported/62d380cb675e9e48b18b76f7.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Study Area"
+    ],
+    "usageCount": 1,
+    "itemId": "I0216",
+    "seq": 1650
+  },
+  {
+    "id": "mat_166",
+    "name": {
+      "en": "Perch",
+      "ko": "횃대",
+      "ja": "とまり木",
+      "zh-TW": "棲木",
+      "zh-CN": "栖木",
+      "fr": "Perchoir",
+      "de": "Sitzstange",
+      "es": "Percha"
+    },
+    "imageUrl": "/images/imported/930f186077852babbbba3852.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Chirping recital"
+    ],
+    "usageCount": 1,
+    "itemId": "I0334",
+    "seq": 1660
+  },
+  {
+    "id": "mat_167",
+    "name": {
+      "en": "Picnic basket",
+      "ko": "피크닉 바구니",
+      "ja": "ピクニックバスケット",
+      "zh-TW": "野餐籃",
+      "zh-CN": "野餐篮",
+      "fr": "Panier de pique-nique",
+      "de": "Picknickkorb",
+      "es": "Cesta de picnic"
+    },
+    "imageUrl": "/images/imported/416275f4386135d526341cd0.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Picnic Set"
+    ],
+    "usageCount": 1,
+    "itemId": "I0196",
+    "seq": 1670
+  },
+  {
+    "id": "mat_168",
+    "name": {
+      "en": "Pikachu doll",
+      "ko": "피카츄 인형",
+      "ja": "ピカチュウにんぎょう",
+      "zh-TW": "皮卡丘人偶",
+      "zh-CN": "皮卡丘人偶",
+      "fr": "Poupée Pikachu",
+      "de": "Pikachu-Puppe",
+      "es": "Muñeco de Pikachu"
+    },
+    "imageUrl": "/images/imported/67e95ad6ab5768cc903886ce.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Pikachu space",
+      "Plush central"
+    ],
+    "usageCount": 2,
+    "itemId": "I0303",
+    "seq": 1680
+  },
+  {
+    "id": "mat_169",
+    "name": {
+      "en": "Pikachu sofa",
+      "ko": "피카츄 소파",
+      "ja": "ピカチュウソファ",
+      "zh-TW": "皮卡丘沙發",
+      "zh-CN": "皮卡丘沙发",
+      "fr": "Canapé Pikachu",
+      "de": "Pikachu-Sofa",
+      "es": "Sofá Pikachu"
+    },
+    "imageUrl": "/images/imported/edb8c41f74651d7f965e7b8f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Pikachu space"
+    ],
+    "usageCount": 1,
+    "itemId": "I0167",
+    "seq": 1690
+  },
+  {
+    "id": "mat_170",
+    "name": {
+      "en": "Pink tall grass",
+      "ko": "분홍 풀",
+      "ja": "ピンクのくさむら",
+      "zh-TW": "粉紅草",
+      "zh-CN": "粉红草",
+      "fr": "Hautes herbes roses",
+      "de": "Rosa hohes Gras",
+      "es": "Hierba alta rosa"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Pink tall grass",
+      "Tree-shaded pink tall grass",
+      "Hydrated pink tall grass",
+      "Elevated pink tall grass"
+    ],
+    "usageCount": 16,
+    "itemId": "I0477",
+    "seq": 1700
+  },
+  {
+    "id": "mat_171",
+    "name": {
+      "en": "Pipe chair",
+      "ko": "파이프 의자",
+      "ja": "パイプイス",
+      "zh-TW": "管椅",
+      "zh-CN": "管椅",
+      "fr": "Chaise en tube",
+      "de": "Rohrstuhl",
+      "es": "Silla de tubo"
+    },
+    "imageUrl": "/images/imported/099e93359a9d151662d16947.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Interrogation desk"
+    ],
+    "usageCount": 2,
+    "itemId": null,
+    "seq": 1710
+  },
+  {
+    "id": "mat_172",
+    "name": {
+      "en": "Pizza",
+      "ko": "피자",
+      "ja": "もえるほどスパイシー",
+      "zh-TW": "披薩",
+      "zh-CN": "披萨",
+      "fr": "Pizza",
+      "de": "Pizza",
+      "es": "Pizza"
+    },
+    "imageUrl": "/images/imported/181e2ef2c1fb2a4da5e8060f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Burning-hot spice"
+    ],
+    "usageCount": 1,
+    "itemId": "I0200",
+    "seq": 1720
+  },
+  {
+    "id": "mat_173",
+    "name": {
+      "en": "Plain bed",
+      "ko": "심플 침대",
+      "ja": "ナチュラルなベッド",
+      "zh-TW": "自然風床",
+      "zh-CN": "自然风床",
+      "fr": "Lit simple",
+      "de": "Schlichtes Bett",
+      "es": "Cama sencilla"
+    },
+    "imageUrl": "/images/imported/c99c25822c89dff12e49523b.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Plain life"
+    ],
+    "usageCount": 1,
+    "itemId": "I0177",
+    "seq": 1730
+  },
+  {
+    "id": "mat_174",
+    "name": {
+      "en": "Plain chest",
+      "ko": "심플 상자",
+      "ja": "ナチュラルなチェスト",
+      "zh-TW": "素雅箱子",
+      "zh-CN": "素雅箱子",
+      "fr": "Coffre simple",
+      "de": "Schlichte Truhe",
+      "es": "Cofre sencillo"
+    },
+    "imageUrl": "/images/imported/e12d98118a5a61232d78bc30.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Full recovery"
+    ],
+    "usageCount": 1,
+    "itemId": "I0092",
+    "seq": 1740
+  },
+  {
+    "id": "mat_175",
+    "name": {
+      "en": "Plain lamp",
+      "ko": "심플 램프",
+      "ja": "ナチュラルなランプ",
+      "zh-TW": "自然風燈",
+      "zh-CN": "自然风灯",
+      "fr": "Lampe simple",
+      "de": "Schlichte Lampe",
+      "es": "Lámpara sencilla"
+    },
+    "imageUrl": "/images/imported/4f04ca3ff4f9006780bd898c.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Plain life"
+    ],
+    "usageCount": 1,
+    "itemId": "I0415",
+    "seq": 1750
+  },
+  {
+    "id": "mat_176",
+    "name": {
+      "en": "Plain sofa",
+      "ko": "심플 소파",
+      "ja": "ナチュラルなソファ",
+      "zh-TW": "自然風沙發",
+      "zh-CN": "自然风沙发",
+      "fr": "Canapé simple",
+      "de": "Schlichtes Sofa",
+      "es": "Sofá sencillo"
+    },
+    "imageUrl": "/images/imported/d0939ae7c346f085d15bb880.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Plain life"
+    ],
+    "usageCount": 1,
+    "itemId": "I0157",
+    "seq": 1760
+  },
+  {
+    "id": "mat_177",
+    "name": {
+      "en": "Plain table",
+      "ko": "심플 테이블",
+      "ja": "ナチュラルなテーブル",
+      "zh-TW": "自然風桌",
+      "zh-CN": "自然风桌",
+      "fr": "Table simple",
+      "de": "Schlichter Tisch",
+      "es": "Mesa sencilla"
+    },
+    "imageUrl": "/images/imported/c2e5cf6e4a549a46dcab3add.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Spooky study",
+      "Plain life",
+      "Chef's kitchen"
+    ],
+    "usageCount": 3,
+    "itemId": "I0116",
+    "seq": 1770
+  },
+  {
+    "id": "mat_178",
+    "name": {
+      "en": "Plated food",
+      "ko": "접시에 올린 음식",
+      "ja": "皿にのせた食べ物",
+      "zh-TW": "盤裝食物",
+      "zh-CN": "盘装食物",
+      "fr": "Plat dressé",
+      "de": "Angerichtetes Essen",
+      "es": "Plato servido"
+    },
+    "imageUrl": "",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tantalizing dining set",
+      "Grave offering",
+      "Creepy grave offering",
+      "Irresistible scent and glow",
+      "Rain Dance site",
+      "Sunny Day site",
+      "Tantalizing restaurant",
+      "Tableside delivery cart",
+      "Chirp-chirp meal",
+      "Resort meal prep",
+      "Container snacking",
+      "Best bread bakery",
+      "House party",
+      "Chef's kitchen"
+    ],
+    "usageCount": 14,
+    "itemId": null,
+    "seq": 1780
+  },
+  {
+    "id": "mat_179",
+    "name": {
+      "en": "Pointy tree",
+      "ko": "세모 나무",
+      "ja": "とんがりの木",
+      "zh-TW": "三角樹",
+      "zh-CN": "三角树",
+      "fr": "Arbre pointu",
+      "de": "Spitzer Baum",
+      "es": "Árbol puntiagudo"
+    },
+    "imageUrl": "/images/imported/41eb671374cd5f9dc6fd98e5.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Pointy tree-shaded rocky tall grass",
+      "Tree-shaded graceful flower bed"
+    ],
+    "usageCount": 2,
+    "itemId": "I0488",
+    "seq": 1790
+  },
+  {
+    "id": "mat_180",
+    "name": {
+      "en": "Poké Ball bed",
+      "ko": "몬스터볼 침대",
+      "ja": "モンスターボールベッド",
+      "zh-TW": "精靈球床",
+      "zh-CN": "精灵球床",
+      "fr": "Lit Poké Ball",
+      "de": "Poké Ball-Bett",
+      "es": "Cama Poké Ball"
+    },
+    "imageUrl": "/images/imported/fa64d9dbfafa6727bb4260bf.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Nothin' but Poke Balls"
+    ],
+    "usageCount": 1,
+    "itemId": "I0174",
+    "seq": 1800
+  },
+  {
+    "id": "mat_181",
+    "name": {
+      "en": "Poké Ball light",
+      "ko": "몬스터볼 조명",
+      "ja": "モンスターボールライト",
+      "zh-TW": "精靈球燈",
+      "zh-CN": "精灵球灯",
+      "fr": "Lampe Poké Ball",
+      "de": "Poké Ball-Lampe",
+      "es": "Lámpara Poké Ball"
+    },
+    "imageUrl": "/images/imported/84f5324ff00d7db64110cdf2.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Nothin' but Poke Balls"
+    ],
+    "usageCount": 1,
+    "itemId": "I0417",
+    "seq": 1810
+  },
+  {
+    "id": "mat_182",
+    "name": {
+      "en": "Poké Ball Sofa",
+      "ko": "몬스터볼 소파",
+      "ja": "モンスターボールソファ",
+      "zh-TW": "精靈球沙發",
+      "zh-CN": "精灵球沙发",
+      "fr": "Canapé Poké Ball",
+      "de": "Poké Ball-Sofa",
+      "es": "Sofá Poké Ball"
+    },
+    "imageUrl": "/images/imported/cb5213e9b6a22ee92fa43f24.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Nothin' but Poke Balls"
+    ],
+    "usageCount": 1,
+    "itemId": "I0166",
+    "seq": 1820
+  },
+  {
+    "id": "mat_183",
+    "name": {
+      "en": "Poké Ball table",
+      "ko": "몬스터볼 테이블",
+      "ja": "モンスターボールテーブル",
+      "zh-TW": "精靈球桌",
+      "zh-CN": "精灵球桌",
+      "fr": "Table Poké Ball",
+      "de": "Poké Ball-Tisch",
+      "es": "Mesa Poké Ball"
+    },
+    "imageUrl": "/images/imported/57aa693ee124649c86fa1749.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Nothin' but Poke Balls"
+    ],
+    "usageCount": 1,
+    "itemId": "I0127",
+    "seq": 1830
+  },
+  {
+    "id": "mat_184",
+    "name": {
+      "en": "Pop art bed",
+      "ko": "팝 침대",
+      "ja": "ポップなベッド",
+      "zh-TW": "流行床",
+      "zh-CN": "流行床",
+      "fr": "Lit pop art",
+      "de": "Pop-Art-Bett",
+      "es": "Cama pop art"
+    },
+    "imageUrl": "/images/imported/a533f3296ab3bd1afbc25697.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Top pop"
+    ],
+    "usageCount": 1,
+    "itemId": "I0173",
+    "seq": 1840
+  },
+  {
+    "id": "mat_185",
+    "name": {
+      "en": "Pop art sofa",
+      "ko": "팝 소파",
+      "ja": "ポップなソファ",
+      "zh-TW": "流行沙發",
+      "zh-CN": "流行沙发",
+      "fr": "Canapé pop art",
+      "de": "Pop-Art-Sofa",
+      "es": "Sofá pop art"
+    },
+    "imageUrl": "/images/imported/e3462e96e18f54126170578c.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Top pop"
+    ],
+    "usageCount": 1,
+    "itemId": "I0165",
+    "seq": 1850
+  },
+  {
+    "id": "mat_186",
+    "name": {
+      "en": "Pop art table",
+      "ko": "팝 테이블",
+      "ja": "ポップなテーブル",
+      "zh-TW": "流行桌",
+      "zh-CN": "流行桌",
+      "fr": "Table pop art",
+      "de": "Pop-Art-Tisch",
+      "es": "Mesa pop art"
+    },
+    "imageUrl": "/images/imported/1d8bcd4ac03759013c5ad514.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Top pop"
+    ],
+    "usageCount": 1,
+    "itemId": "I0126",
+    "seq": 1860
+  },
+  {
+    "id": "mat_187",
+    "name": {
+      "en": "Post",
+      "ko": "기둥",
+      "ja": "はしら",
+      "zh-TW": "隔板",
+      "zh-CN": "隔板",
+      "fr": "Poteau",
+      "de": "Pfosten",
+      "es": "Poste"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Mini museum"
+    ],
+    "usageCount": 3,
+    "itemId": null,
+    "seq": 1870
+  },
+  {
+    "id": "mat_188",
+    "name": {
+      "en": "Potted plant",
+      "ko": "화분",
+      "ja": "はち植えの木",
+      "zh-TW": "觀葉植物",
+      "zh-CN": "观叶植物",
+      "fr": "Plante en pot",
+      "de": "Topfpflanze",
+      "es": "Planta en maceta"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Café space",
+      "Refreshing locker room",
+      "Evil organization HQ"
+    ],
+    "usageCount": 4,
+    "itemId": null,
+    "seq": 1880
+  },
+  {
+    "id": "mat_189",
+    "name": {
+      "en": "Projector",
+      "ko": "프로젝터",
+      "ja": "プロジェクター",
+      "zh-TW": "投影機",
+      "zh-CN": "投影机",
+      "fr": "Projecteur",
+      "de": "Projektor",
+      "es": "Proyector"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Home theater"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 1890
+  },
+  {
+    "id": "mat_190",
+    "name": {
+      "en": "Punching bag",
+      "ko": "샌드백",
+      "ja": "サンドバッグ",
+      "zh-TW": "沙包",
+      "zh-CN": "沙包",
+      "fr": "Sac de frappe",
+      "de": "Boxsack",
+      "es": "Saco de boxeo"
+    },
+    "imageUrl": "/images/imported/1b11624b3893afbb4220a46d.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Exercise resting spot",
+      "Gym first aid",
+      "Box to the rhythm"
+    ],
+    "usageCount": 3,
+    "itemId": "I0327",
+    "seq": 1900
+  },
+  {
+    "id": "mat_191",
+    "name": {
+      "en": "Punching game",
+      "ko": "펀칭 게임기",
+      "ja": "パンチングマシーン",
+      "zh-TW": "拳擊機",
+      "zh-CN": "拳击机",
+      "fr": "Jeu de frappe",
+      "de": "Boxautomat",
+      "es": "Juego de golpear"
+    },
+    "imageUrl": "/images/imported/8e4531b28c17a7bd10178337.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Mini Game Corner",
+      "Refreshing locker room"
+    ],
+    "usageCount": 2,
+    "itemId": "I0272",
+    "seq": 1910
+  },
+  {
+    "id": "mat_192",
+    "name": {
+      "en": "Raichu sign",
+      "ko": "라이츄 간판",
+      "ja": "ライチュウかんばん",
+      "zh-TW": "雷丘看板",
+      "zh-CN": "雷丘看板",
+      "fr": "Panneau Raichu",
+      "de": "Raichu-Schild",
+      "es": "Cartel de Raichu"
+    },
+    "imageUrl": "/images/imported/bcfadf53d11dbccb5e0c50c8.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Night festival venue"
+    ],
+    "usageCount": 1,
+    "itemId": "I0357",
+    "seq": 1920
+  },
+  {
+    "id": "mat_193",
+    "name": {
+      "en": "Railway track",
+      "ko": "선로",
+      "ja": "せんろ",
+      "zh-TW": "鐵軌",
+      "zh-CN": "铁轨",
+      "fr": "Voie ferrée",
+      "de": "Gleise",
+      "es": "Vía de tren"
+    },
+    "imageUrl": "/images/imported/74bf40acac0f877a1c188037.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Railroad crossing"
+    ],
+    "usageCount": 1,
+    "itemId": "I0392",
+    "seq": 1930
+  },
+  {
+    "id": "mat_194",
+    "name": {
+      "en": "Red tall grass",
+      "ko": "빨간 풀",
+      "ja": "あかいくさむら",
+      "zh-TW": "紅草",
+      "zh-CN": "红草",
+      "fr": "Hautes herbes rouges",
+      "de": "Rotes hohes Gras",
+      "es": "Hierba alta roja"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Red tall grass",
+      "Tree-shaded red tall grass",
+      "Pointy tree-shaded rocky tall grass",
+      "Hydrated red tall grass",
+      "Elevated red tall grass",
+      "Grassy training field"
+    ],
+    "usageCount": 24,
+    "itemId": "I0476",
+    "seq": 1940
+  },
+  {
+    "id": "mat_195",
+    "name": {
+      "en": "Research paper",
+      "ko": "연구 논문",
+      "ja": "ろんぶん",
+      "zh-TW": "論文",
+      "zh-CN": "论文",
+      "fr": "Article de recherche",
+      "de": "Forschungspapier",
+      "es": "Artículo de investigación"
+    },
+    "imageUrl": "/images/imported/18b34a95e0ddf4b458f187e6.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Experiment Space"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 1950
+  },
+  {
+    "id": "mat_196",
+    "name": {
+      "en": "Resort hammock",
+      "ko": "리조트 해먹",
+      "ja": "リゾートなハンモック",
+      "zh-TW": "度假吊床",
+      "zh-CN": "度假吊床",
+      "fr": "Hamac de villégiature",
+      "de": "Resort-Hängematte",
+      "es": "Hamaca de resort"
+    },
+    "imageUrl": "/images/imported/078144e19cd3e23063eaa150.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Welcoming resort"
+    ],
+    "usageCount": 1,
+    "itemId": "I0178",
+    "seq": 1960
+  },
+  {
+    "id": "mat_197",
+    "name": {
+      "en": "Resort light",
+      "ko": "리조트 조명",
+      "ja": "リゾートなライト",
+      "zh-TW": "度假燈",
+      "zh-CN": "度假灯",
+      "fr": "Lampe de villégiature",
+      "de": "Resort-Lampe",
+      "es": "Luz de resort"
+    },
+    "imageUrl": "/images/imported/e4f06f99f5962a9a274b67cf.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Welcoming resort"
+    ],
+    "usageCount": 1,
+    "itemId": "I0434",
+    "seq": 1970
+  },
+  {
+    "id": "mat_198",
+    "name": {
+      "en": "Resort sofa",
+      "ko": "리조트 소파",
+      "ja": "リゾートなソファ",
+      "zh-TW": "度假沙發",
+      "zh-CN": "度假沙发",
+      "fr": "Canapé de villégiature",
+      "de": "Resort-Sofa",
+      "es": "Sofá de resort"
+    },
+    "imageUrl": "/images/imported/474263b2ae58aba906963d4f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Welcoming resort"
+    ],
+    "usageCount": 1,
+    "itemId": "I0158",
+    "seq": 1980
+  },
+  {
+    "id": "mat_199",
+    "name": {
+      "en": "Resort table",
+      "ko": "리조트 테이블",
+      "ja": "リゾートなテーブル",
+      "zh-TW": "度假桌",
+      "zh-CN": "度假桌",
+      "fr": "Table de villégiature",
+      "de": "Resort-Tisch",
+      "es": "Mesa de resort"
+    },
+    "imageUrl": "/images/imported/4b016fbe7ce4810133f937a0.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Welcoming resort"
+    ],
+    "usageCount": 1,
+    "itemId": "I0124",
+    "seq": 1990
+  },
+  {
+    "id": "mat_200",
+    "name": {
+      "en": "Ribbon cake",
+      "ko": "리본 케이크",
+      "ja": "ラブリーなケーキ",
+      "zh-TW": "緞帶蛋糕",
+      "zh-CN": "缎带蛋糕",
+      "fr": "Gâteau à rubans",
+      "de": "Schleifentorte",
+      "es": "Pastel con cintas"
+    },
+    "imageUrl": "/images/imported/fb6f234c2aea99daf40d6d05.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Lovely ribbon cake"
+    ],
+    "usageCount": 1,
+    "itemId": "I0207",
+    "seq": 2000
+  },
+  {
+    "id": "mat_201",
+    "name": {
+      "en": "Sandbags",
+      "ko": "모래주머니",
+      "ja": "すなぶくろ",
+      "zh-TW": "沙袋",
+      "zh-CN": "沙袋",
+      "fr": "Sacs de sable",
+      "de": "Sandsäcke",
+      "es": "Sacos de arena"
+    },
+    "imageUrl": "/images/imported/717cdc052a84230dd80ac72a.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Grassy training field",
+      "Clink-clang iron construction"
+    ],
+    "usageCount": 3,
+    "itemId": "I0369",
+    "seq": 2010
+  },
+  {
+    "id": "mat_202",
+    "name": {
+      "en": "Sandwiches",
+      "ko": "샌드위치",
+      "ja": "緑のサンドイッチ",
+      "zh-TW": "三明治",
+      "zh-CN": "三明治",
+      "fr": "Sandwichs",
+      "de": "Sandwiches",
+      "es": "Sándwiches"
+    },
+    "imageUrl": "/images/imported/c44dca6f22be0fca5a749e77.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Leafy greens sandwich"
+    ],
+    "usageCount": 1,
+    "itemId": "I0205",
+    "seq": 2020
+  },
+  {
+    "id": "mat_203",
+    "name": {
+      "en": "Science experiment",
+      "ko": "과학 실험 도구",
+      "ja": "じっけんセット",
+      "zh-TW": "實驗組",
+      "zh-CN": "实验组",
+      "fr": "Expérience scientifique",
+      "de": "Wissenschaftliches Experiment",
+      "es": "Experimento científico"
+    },
+    "imageUrl": "/images/imported/3fc0ff95ae888fce40ab6506.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Experiment Space",
+      "Researcher's desk"
+    ],
+    "usageCount": 2,
+    "itemId": "I0261",
+    "seq": 2030
+  },
+  {
+    "id": "mat_204",
+    "name": {
+      "en": "Seashore flowers",
+      "ko": "해변의 꽃",
+      "ja": "うみべのはな",
+      "zh-TW": "海邊花",
+      "zh-CN": "海边花",
+      "fr": "Fleurs du littoral",
+      "de": "Küstenblumen",
+      "es": "Flores de la costa"
+    },
+    "imageUrl": "/images/imported/946d757983950e0ff4c4a3e4.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Breezy flower bed",
+      "Tropical vibes",
+      "Windy Flower Bed"
+    ],
+    "usageCount": 12,
+    "itemId": "I0490",
+    "seq": 2040
+  },
+  {
+    "id": "mat_205",
+    "name": {
+      "en": "Seat",
+      "ko": "의자",
+      "ja": "イス",
+      "zh-TW": "椅子",
+      "zh-CN": "椅子",
+      "fr": "Siège",
+      "de": "Sitz",
+      "es": "Asiento"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Training waterfall",
+      "Tantalizing dining set",
+      "Picnic Set",
+      "Flowery table",
+      "Exercise resting spot",
+      "Urgent Care",
+      "Tantalizing restaurant",
+      "Café space",
+      "Knitting station",
+      "Hot-spring shower",
+      "Resort meal prep",
+      "Mini Game Corner",
+      "Tiny Atelier",
+      "Fortune-teller's table",
+      "Study Area",
+      "Moisturizing makeup stand",
+      "Game Corner battle zone",
+      "Fishing pond",
+      "Ocean fishing spot",
+      "Marsh fishing spot",
+      "Hot-spring Fishing Spot",
+      "Magma fishing spot",
+      "Boundless blue beverage",
+      "Electrifying potatoes",
+      "Burning-hot spice",
+      "Elegant daytime treats",
+      "Dark-chocolate cookies",
+      "Leafy greens sandwich",
+      "Chilly shaved ice",
+      "Lovely ribbon cake"
+    ],
+    "usageCount": 33,
+    "itemId": null,
+    "seq": 2050
+  },
+  {
+    "id": "mat_206",
+    "name": {
+      "en": "Seat (wide)",
+      "ko": "의자 (와이드)",
+      "ja": "イス(長いもの)",
+      "zh-TW": "椅子（長型）",
+      "zh-CN": "椅子（长型）",
+      "fr": "Siège (large)",
+      "de": "Sitz (breit)",
+      "es": "Asiento (ancho)"
+    },
+    "imageUrl": "/images/imported/7d990f1dd16c53978de1e33e.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Bench with greenery",
+      "Illuminated bench",
+      "Chansey Resting area",
+      "Park bench",
+      "Vending machine break area",
+      "Dinner table surprise",
+      "Refreshing locker room",
+      "Fireplace nap spot"
+    ],
+    "usageCount": 9,
+    "itemId": null,
+    "seq": 2060
+  },
+  {
+    "id": "mat_207",
+    "name": {
+      "en": "Shaved ice",
+      "ko": "빙수",
+      "ja": "ヒンヤリかき氷",
+      "zh-TW": "刨冰",
+      "zh-CN": "刨冰",
+      "fr": "Glace pilée",
+      "de": "Kakigōri",
+      "es": "Granizado"
+    },
+    "imageUrl": "/images/imported/a436322db5a048742d101afa.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Chilly shaved ice"
+    ],
+    "usageCount": 1,
+    "itemId": "I0206",
+    "seq": 2070
+  },
+  {
+    "id": "mat_208",
+    "name": {
+      "en": "Ship's wheel",
+      "ko": "조타 핸들",
+      "ja": "ふねのハンドル",
+      "zh-TW": "船舵",
+      "zh-CN": "船舵",
+      "fr": "Barre de navire",
+      "de": "Steuerrad",
+      "es": "Timón de barco"
+    },
+    "imageUrl": "/images/imported/3f2bd3684d640795ff8f310f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Playing pirate"
+    ],
+    "usageCount": 1,
+    "itemId": "I0283",
+    "seq": 2080
+  },
+  {
+    "id": "mat_209",
+    "name": {
+      "en": "Shower",
+      "ko": "샤워기",
+      "ja": "シャワー",
+      "zh-TW": "淋浴",
+      "zh-CN": "淋浴",
+      "fr": "Douche",
+      "de": "Dusche",
+      "es": "Ducha"
+    },
+    "imageUrl": "/images/imported/4e5e5237ccf22be6a3609d13.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Hot-spring shower",
+      "Simple bathroom"
+    ],
+    "usageCount": 2,
+    "itemId": "I0241",
+    "seq": 2090
+  },
+  {
+    "id": "mat_210",
+    "name": {
+      "en": "Side table",
+      "ko": "사이드 테이블",
+      "ja": "サイドテーブル",
+      "zh-TW": "邊桌",
+      "zh-CN": "边桌",
+      "fr": "Table d'appoint",
+      "de": "Beistelltisch",
+      "es": "Mesa auxiliar"
+    },
+    "imageUrl": "/images/imported/6e4d527ea91e1c5f5aa5dbbb.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Beach Set"
+    ],
+    "usageCount": 1,
+    "itemId": "I0103",
+    "seq": 2100
+  },
+  {
+    "id": "mat_211",
+    "name": {
+      "en": "Sign",
+      "ko": "표지판",
+      "ja": "かんばん",
+      "zh-TW": "看板",
+      "zh-CN": "看板",
+      "fr": "Panneau",
+      "de": "Schild",
+      "es": "Cartel"
+    },
+    "imageUrl": "/images/imported/80236b942cf0d0ee354c4d37.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Trash collection site",
+      "Bronze landmark"
+    ],
+    "usageCount": 2,
+    "itemId": "I0354",
+    "seq": 2110
+  },
+  {
+    "id": "mat_212",
+    "name": {
+      "en": "Simple cushion",
+      "ko": "심플 쿠션",
+      "ja": "シンプルなクッション",
+      "zh-TW": "簡約靠墊",
+      "zh-CN": "简约靠垫",
+      "fr": "Coussin simple",
+      "de": "Einfaches Kissen",
+      "es": "Cojín sencillo"
+    },
+    "imageUrl": "/images/imported/d94a3ed263052cb61db9a866.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Surging psychic power"
+    ],
+    "usageCount": 1,
+    "itemId": "I0134",
+    "seq": 2120
+  },
+  {
+    "id": "mat_213",
+    "name": {
+      "en": "Sink",
+      "ko": "세면대",
+      "ja": "シンク",
+      "zh-TW": "水槽",
+      "zh-CN": "水槽",
+      "fr": "Évier",
+      "de": "Waschbecken",
+      "es": "Fregadero"
+    },
+    "imageUrl": "/images/imported/e8feb61526578d967a7bf33d.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Mini kitchen",
+      "Spotless Washing station"
+    ],
+    "usageCount": 2,
+    "itemId": "I0237",
+    "seq": 2130
+  },
+  {
+    "id": "mat_214",
+    "name": {
+      "en": "Skull Fossil",
+      "ko": "두개의화석",
+      "ja": "ずがいのカセキ",
+      "zh-TW": "頭蓋化石",
+      "zh-CN": "头盖化石",
+      "fr": "Fossile Crâne",
+      "de": "Schädelfossil",
+      "es": "Fósil Cráneo"
+    },
+    "imageUrl": "/images/imported/433d97a30074025e39ed64d1.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Skull Fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1055",
+    "seq": 2140
+  },
+  {
+    "id": "mat_215",
+    "name": {
+      "en": "Skyland flowers",
+      "ko": "하늘꽃",
+      "ja": "こうちのはな",
+      "zh-TW": "浮島花",
+      "zh-CN": "浮岛花",
+      "fr": "Fleurs du ciel",
+      "de": "Himmelsblumen",
+      "es": "Flores del cielo"
+    },
+    "imageUrl": "/images/imported/ada345bae6684dca5e1778bc.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Fluffy flower bed",
+      "Tree-shaded fluffy flower bed",
+      "Hydrated fluffy flower bed"
+    ],
+    "usageCount": 12,
+    "itemId": "I0492",
+    "seq": 2150
+  },
+  {
+    "id": "mat_216",
+    "name": {
+      "en": "Slender candle",
+      "ko": "가느다란 양초",
+      "ja": "ほそいキャンドル",
+      "zh-TW": "細長蠟燭",
+      "zh-CN": "细长蜡烛",
+      "fr": "Bougie fine",
+      "de": "Schlanke Kerze",
+      "es": "Vela delgada"
+    },
+    "imageUrl": "/images/imported/f72da9603e53cd7bc8953fd0.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Gently lit bed",
+      "Grave offering",
+      "Spooky study"
+    ],
+    "usageCount": 4,
+    "itemId": "I0321",
+    "seq": 2160
+  },
+  {
+    "id": "mat_217",
+    "name": {
+      "en": "Slide",
+      "ko": "미끄럼틀",
+      "ja": "すべりだい",
+      "zh-TW": "溜滑梯",
+      "zh-CN": "溜滑梯",
+      "fr": "Toboggan",
+      "de": "Rutsche",
+      "es": "Tobogán"
+    },
+    "imageUrl": "/images/imported/cd8ba43febfb92fb3dda5ba3.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Playland",
+      "Tire Park"
+    ],
+    "usageCount": 2,
+    "itemId": "I0328",
+    "seq": 2170
+  },
+  {
+    "id": "mat_218",
+    "name": {
+      "en": "Small stage",
+      "ko": "작은 무대",
+      "ja": "ステージだい",
+      "zh-TW": "舞台",
+      "zh-CN": "舞台",
+      "fr": "Petite scène",
+      "de": "Kleine Bühne",
+      "es": "Escenario pequeño"
+    },
+    "imageUrl": "/images/imported/a491f65e7b45763c4dc346da.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Light-up stage",
+      "Recital stage",
+      "Amped rock stage"
+    ],
+    "usageCount": 3,
+    "itemId": "I0344",
+    "seq": 2180
+  },
+  {
+    "id": "mat_219",
+    "name": {
+      "en": "Small vase",
+      "ko": "작은 꽃병",
+      "ja": "ちいさなかびん",
+      "zh-TW": "小花瓶",
+      "zh-CN": "小花瓶",
+      "fr": "Petit vase",
+      "de": "Kleine Vase",
+      "es": "Jarrón pequeño"
+    },
+    "imageUrl": "/images/imported/9e80b8ff3c67c5cabc5f85d7.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Flowery table",
+      "Tableside delivery cart"
+    ],
+    "usageCount": 2,
+    "itemId": "I0209",
+    "seq": 2190
+  },
+  {
+    "id": "mat_220",
+    "name": {
+      "en": "Smelting furnace",
+      "ko": "제련 용광로",
+      "ja": "ようこうろ",
+      "zh-TW": "熔爐",
+      "zh-CN": "熔炉",
+      "fr": "Fourneau de fonte",
+      "de": "Schmelzofen",
+      "es": "Horno de fundición"
+    },
+    "imageUrl": "/images/imported/493d6c046e1b7da19ff3ab47.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Digging and burning"
+    ],
+    "usageCount": 1,
+    "itemId": "I0389",
+    "seq": 2200
+  },
+  {
+    "id": "mat_221",
+    "name": {
+      "en": "Smooth Rock",
+      "ko": "매끄러운 바위",
+      "ja": "さらさらいわ",
+      "zh-TW": "平滑岩",
+      "zh-CN": "平滑岩",
+      "fr": "Roche Lisse",
+      "de": "Glatter Felsen",
+      "es": "Roca Lisa"
+    },
+    "imageUrl": "/images/imported/2a61dda82cd2054c96e0e434.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Smooth tall grass"
+    ],
+    "usageCount": 1,
+    "itemId": "I0377",
+    "seq": 2210
+  },
+  {
+    "id": "mat_222",
+    "name": {
+      "en": "Soda float",
+      "ko": "소다 플로트",
+      "ja": "はじけるブルー",
+      "zh-TW": "冰淇淋蘇打",
+      "zh-CN": "冰淇淋苏打",
+      "fr": "Soda flottant",
+      "de": "Eiscreme-Soda",
+      "es": "Refresco con helado"
+    },
+    "imageUrl": "/images/imported/3a68152d2d4f0ce4243b29ce.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Boundless blue beverage"
+    ],
+    "usageCount": 1,
+    "itemId": "I0202",
+    "seq": 2220
+  },
+  {
+    "id": "mat_223",
+    "name": {
+      "en": "Speaker",
+      "ko": "스피커",
+      "ja": "スピーカー",
+      "zh-TW": "喇叭",
+      "zh-CN": "喇叭",
+      "fr": "Enceinte",
+      "de": "Lautsprecher",
+      "es": "Altavoz"
+    },
+    "imageUrl": "/images/imported/2f1cf22ae612a2afc61005b4.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Recital stage",
+      "Home theater",
+      "Rhythmic Living room",
+      "Amped rock stage"
+    ],
+    "usageCount": 8,
+    "itemId": "I0269",
+    "seq": 2230
+  },
+  {
+    "id": "mat_224",
+    "name": {
+      "en": "Spotlight",
+      "ko": "스포트라이트",
+      "ja": "スポットライト",
+      "zh-TW": "聚光燈",
+      "zh-CN": "聚光灯",
+      "fr": "Projecteur",
+      "de": "Scheinwerfer",
+      "es": "Foco"
+    },
+    "imageUrl": "/images/imported/93ceb482f7be68cc35d5feb5.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Light-up stage",
+      "Heart-pounding surprise box",
+      "Picturesque photo cutoutboard"
+    ],
+    "usageCount": 6,
+    "itemId": "I0438",
+    "seq": 2240
+  },
+  {
+    "id": "mat_225",
+    "name": {
+      "en": "Stalagmites",
+      "ko": "석순",
+      "ja": "たけのこいわ",
+      "zh-TW": "筍岩",
+      "zh-CN": "笋岩",
+      "fr": "Stalagmites",
+      "de": "Stalagmiten",
+      "es": "Estalagmitas"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Creepy white rocks"
+    ],
+    "usageCount": 1,
+    "itemId": "I0511",
+    "seq": 2250
+  },
+  {
+    "id": "mat_226",
+    "name": {
+      "en": "Standing mic",
+      "ko": "스탠딩 마이크",
+      "ja": "スタンドマイク",
+      "zh-TW": "立麥",
+      "zh-CN": "立麦",
+      "fr": "Micro sur pied",
+      "de": "Standmikrofon",
+      "es": "Micrófono de pie"
+    },
+    "imageUrl": "/images/imported/c3c4fccbe612fb8614992587.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Chirping recital",
+      "Recital stage",
+      "Amped rock stage"
+    ],
+    "usageCount": 3,
+    "itemId": "I0264",
+    "seq": 2260
+  },
+  {
+    "id": "mat_227",
+    "name": {
+      "en": "Step stool",
+      "ko": "발판",
+      "ja": "きゃたつ",
+      "zh-TW": "梯子",
+      "zh-CN": "梯子",
+      "fr": "Marchepied",
+      "de": "Tritthocker",
+      "es": "Taburete escalón"
+    },
+    "imageUrl": "/images/imported/6d12675036faf08f07028883.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Mini library",
+      "Office storeroom"
+    ],
+    "usageCount": 2,
+    "itemId": "I0275",
+    "seq": 2270
+  },
+  {
+    "id": "mat_228",
+    "name": {
+      "en": "Stepping stones",
+      "ko": "디딤돌",
+      "ja": "とびいし",
+      "zh-TW": "踏腳石",
+      "zh-CN": "踏脚石",
+      "fr": "Pas japonais",
+      "de": "Trittsteine",
+      "es": "Piedras de paso"
+    },
+    "imageUrl": "/images/imported/093f709b14013c73ebbcb061.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Illuminated waterfall",
+      "Malicious knight's shrine",
+      "Auspicious knight's shrine"
+    ],
+    "usageCount": 7,
+    "itemId": "I0614",
+    "seq": 2280
+  },
+  {
+    "id": "mat_229",
+    "name": {
+      "en": "Stone fireplace",
+      "ko": "돌 벽난로",
+      "ja": "いしのだんろ",
+      "zh-TW": "石壁爐",
+      "zh-CN": "石壁炉",
+      "fr": "Cheminée en pierre",
+      "de": "Steinkamin",
+      "es": "Chimenea de piedra"
+    },
+    "imageUrl": "/images/imported/a88c064796a8665d9bf8d772.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Fireplace nap spot"
+    ],
+    "usageCount": 1,
+    "itemId": "I0229",
+    "seq": 2290
+  },
+  {
+    "id": "mat_230",
+    "name": {
+      "en": "Straw bed",
+      "ko": "건초 침대",
+      "ja": "ほしくさのベッド",
+      "zh-TW": "稻草床",
+      "zh-CN": "稻草床",
+      "fr": "Lit de paille",
+      "de": "Strohbett",
+      "es": "Cama de paja"
+    },
+    "imageUrl": "/images/imported/b1d9da4acfb437f891be96a8.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Resting spot"
+    ],
+    "usageCount": 1,
+    "itemId": "I0172",
+    "seq": 2300
+  },
+  {
+    "id": "mat_231",
+    "name": {
+      "en": "Straw stool",
+      "ko": "건초 걸상",
+      "ja": "ほしくさのこしかけ",
+      "zh-TW": "稻草凳",
+      "zh-CN": "稻草凳",
+      "fr": "Tabouret de paille",
+      "de": "Strohhocker",
+      "es": "Taburete de paja"
+    },
+    "imageUrl": "/images/imported/ebe79497989f2ecde5a30281.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Campsite"
+    ],
+    "usageCount": 1,
+    "itemId": "I0132",
+    "seq": 2310
+  },
+  {
+    "id": "mat_232",
+    "name": {
+      "en": "Straw table",
+      "ko": "건초 테이블",
+      "ja": "ほしくさのテーブル",
+      "zh-TW": "稻草桌",
+      "zh-CN": "稻草桌",
+      "fr": "Table de paille",
+      "de": "Strohtisch",
+      "es": "Mesa de paja"
+    },
+    "imageUrl": "/images/imported/e66e57d4187130d8132134ec.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Campsite"
+    ],
+    "usageCount": 1,
+    "itemId": "I0101",
+    "seq": 2320
+  },
+  {
+    "id": "mat_233",
+    "name": {
+      "en": "Streetlight",
+      "ko": "가로등",
+      "ja": "がいとう",
+      "zh-TW": "路燈",
+      "zh-CN": "路灯",
+      "fr": "Réverbère",
+      "de": "Straßenlaterne",
+      "es": "Farola"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Illuminated bench",
+      "Factory Storage",
+      "Dock"
+    ],
+    "usageCount": 3,
+    "itemId": null,
+    "seq": 2330
+  },
+  {
+    "id": "mat_234",
+    "name": {
+      "en": "Strength rock",
+      "ko": "괴력 바위",
+      "ja": "かいりきいわ",
+      "zh-TW": "怪力岩",
+      "zh-CN": "怪力岩",
+      "fr": "Rocher de Force",
+      "de": "Stärkefelsen",
+      "es": "Roca de Fuerza"
+    },
+    "imageUrl": "/images/imported/77f55ea0a84a84a845be3176.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Dojo training"
+    ],
+    "usageCount": 2,
+    "itemId": "I0515",
+    "seq": 2340
+  },
+  {
+    "id": "mat_235",
+    "name": {
+      "en": "Stylish cooking pot",
+      "ko": "세련된 냄비",
+      "ja": "オシャレななべ",
+      "zh-TW": "時尚鍋",
+      "zh-CN": "时尚锅",
+      "fr": "Marmite élégante",
+      "de": "Stilvoller Kochtopf",
+      "es": "Olla elegante"
+    },
+    "imageUrl": "/images/imported/629caeb72229aaf0a3f80696.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Chef's kitchen"
+    ],
+    "usageCount": 1,
+    "itemId": "I0387",
+    "seq": 2350
+  },
+  {
+    "id": "mat_236",
+    "name": {
+      "en": "Stylish hedge",
+      "ko": "세련된 수풀",
+      "ja": "しゃれたいけがき",
+      "zh-TW": "時尚樹籬",
+      "zh-CN": "时尚树篱",
+      "fr": "Haie élégante",
+      "de": "Stilvolle Hecke",
+      "es": "Seto elegante"
+    },
+    "imageUrl": "/images/imported/95bc74d898ca9dce9316d5c6.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Birdsong garden"
+    ],
+    "usageCount": 1,
+    "itemId": "I0500",
+    "seq": 2360
+  },
+  {
+    "id": "mat_237",
+    "name": {
+      "en": "Table",
+      "ko": "테이블",
+      "ja": "テーブル",
+      "zh-TW": "桌子",
+      "zh-CN": "桌子",
+      "fr": "Table",
+      "de": "Tisch",
+      "es": "Mesa"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tantalizing dining set",
+      "Picnic Set",
+      "Flowery table",
+      "Urgent Care",
+      "Gym first aid",
+      "Gently lit bed",
+      "Tantalizing restaurant",
+      "Chirp-chirp meal",
+      "Knitting station",
+      "Alarm clock sleep zone",
+      "Working the register",
+      "Box to the rhythm",
+      "Fortune-teller's table",
+      "Study Area",
+      "Mini library",
+      "Professor's apprentice program",
+      "Researcher's desk",
+      "Nature's market",
+      "Gamer's paradise",
+      "Boundless blue beverage",
+      "Electrifying potatoes",
+      "Burning-hot spice",
+      "Elegant daytime treats",
+      "Dark-chocolate cookies",
+      "Leafy greens sandwich",
+      "Chilly shaved ice",
+      "Lovely ribbon cake"
+    ],
+    "usageCount": 28,
+    "itemId": null,
+    "seq": 2370
+  },
+  {
+    "id": "mat_238",
+    "name": {
+      "en": "Tablet",
+      "ko": "태블릿",
+      "ja": "タブレット",
+      "zh-TW": "平板電腦",
+      "zh-CN": "平板电脑",
+      "fr": "Tablette",
+      "de": "Tablet",
+      "es": "Tableta"
+    },
+    "imageUrl": "/images/imported/e8cc25a880d7713ccc62447a.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Lazy-photo album scrolling"
+    ],
+    "usageCount": 1,
+    "itemId": "I0244",
+    "seq": 2380
+  },
+  {
+    "id": "mat_240",
+    "name": {
+      "en": "Tall grass",
+      "ko": "초록 풀",
+      "ja": "くさむら",
+      "zh-TW": "綠草",
+      "zh-CN": "绿草",
+      "fr": "Hautes herbes",
+      "de": "Hohes Gras",
+      "es": "Hierba alta"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tall Grass",
+      "Tree-shaded tall grass",
+      "Boulder-shaded Tall Grass",
+      "Hydrated tall grass",
+      "Seaside Tall Grass",
+      "Elevated tall grass",
+      "Concrete pipe secret base",
+      "Illuminated tall grass"
+    ],
+    "usageCount": 28,
+    "itemId": "I0474",
+    "seq": 2400
+  },
+  {
+    "id": "mat_241",
+    "name": {
+      "en": "Team Rocket wall hanging",
+      "ko": "로켓단 벽걸이",
+      "ja": "ロケットだんのかべかけ",
+      "zh-TW": "火箭隊壁飾",
+      "zh-CN": "火箭队壁饰",
+      "fr": "Décoration murale Team Rocket",
+      "de": "Team Rocket-Wandbehang",
+      "es": "Tapiz de pared Team Rocket"
+    },
+    "imageUrl": "/images/imported/1c305b11ed668acfa17e9d27.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Evil organization HQ"
+    ],
+    "usageCount": 1,
+    "itemId": "I1054",
+    "seq": 2410
+  },
+  {
+    "id": "mat_242",
+    "name": {
+      "en": "Television",
+      "ko": "텔레비전",
+      "ja": "テレビ",
+      "zh-TW": "電視",
+      "zh-CN": "电视",
+      "fr": "Télévision",
+      "de": "Fernseher",
+      "es": "Televisor"
+    },
+    "imageUrl": "/images/imported/b63a28517d1cb33765ebec1d.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Trash site TV",
+      "Home theater",
+      "Rhythmic Living room"
+    ],
+    "usageCount": 4,
+    "itemId": "I0248",
+    "seq": 2420
+  },
+  {
+    "id": "mat_243",
+    "name": {
+      "en": "Tire toy",
+      "ko": "타이어 장난감",
+      "ja": "タイヤのおもちゃ",
+      "zh-TW": "跨越輪胎",
+      "zh-CN": "跨越轮胎",
+      "fr": "Jouet pneu",
+      "de": "Reifenspielzeug",
+      "es": "Juguete de neumático"
+    },
+    "imageUrl": "/images/imported/4f8c132450705ed69f4ea65f.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tire Park"
+    ],
+    "usageCount": 2,
+    "itemId": "I0325",
+    "seq": 2430
+  },
+  {
+    "id": "mat_244",
+    "name": {
+      "en": "Tires",
+      "ko": "타이어",
+      "ja": "タイヤ",
+      "zh-TW": "輪胎",
+      "zh-CN": "轮胎",
+      "fr": "Pneus",
+      "de": "Reifen",
+      "es": "Neumáticos"
+    },
+    "imageUrl": "/images/imported/2b68184c1d1894ccfb6fa089.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Oversized dumping ground",
+      "Tire Park"
+    ],
+    "usageCount": 2,
+    "itemId": "I0371",
+    "seq": 2440
+  },
+  {
+    "id": "mat_245",
+    "name": {
+      "en": "Torch",
+      "ko": "횃불",
+      "ja": "たいまつ",
+      "zh-TW": "火把",
+      "zh-CN": "火把",
+      "fr": "Torche",
+      "de": "Fackel",
+      "es": "Antorcha"
+    },
+    "imageUrl": "/images/imported/10445c6e5895ddc6536521fc.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Illuminated waterfall"
+    ],
+    "usageCount": 2,
+    "itemId": "I0320",
+    "seq": 2450
+  },
+  {
+    "id": "mat_246",
+    "name": {
+      "en": "Towel rack",
+      "ko": "수건걸이",
+      "ja": "カベかけタオル",
+      "zh-TW": "壁掛毛巾",
+      "zh-CN": "壁挂毛巾",
+      "fr": "Porte-serviettes",
+      "de": "Handtuchhalter",
+      "es": "Toallero"
+    },
+    "imageUrl": "/images/imported/3710dcd0266595f7fdbe3d30.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Spotless Washing station"
+    ],
+    "usageCount": 1,
+    "itemId": "I0238",
+    "seq": 2460
+  },
+  {
+    "id": "mat_247",
+    "name": {
+      "en": "Toy",
+      "ko": "장난감",
+      "ja": "おもちゃ",
+      "zh-TW": "玩具",
+      "zh-CN": "玩具",
+      "fr": "Jouet",
+      "de": "Spielzeug",
+      "es": "Juguete"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Perpetual mess",
+      "Playland"
+    ],
+    "usageCount": 3,
+    "itemId": null,
+    "seq": 2470
+  },
+  {
+    "id": "mat_248",
+    "name": {
+      "en": "Traffic cone",
+      "ko": "라바콘",
+      "ja": "ポールさんかくコーン",
+      "zh-TW": "三角錐",
+      "zh-CN": "三角锥",
+      "fr": "Cône de signalisation",
+      "de": "Verkehrshütchen",
+      "es": "Cono de tráfico"
+    },
+    "imageUrl": "/images/imported/53e0ad2f278a3a64b10c1af5.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Sewer hole inspection"
+    ],
+    "usageCount": 1,
+    "itemId": "I0366",
+    "seq": 2480
+  },
+  {
+    "id": "mat_249",
+    "name": {
+      "en": "Tree stump",
+      "ko": "나무 그루터기",
+      "ja": "きりかぶ",
+      "zh-TW": "樹墩",
+      "zh-CN": "树墩",
+      "fr": "Souche d'arbre",
+      "de": "Baumstumpf",
+      "es": "Tocón de árbol"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Lumberjack's workplace",
+      "Flower garden stump stage"
+    ],
+    "usageCount": 2,
+    "itemId": null,
+    "seq": 2490
+  },
+  {
+    "id": "mat_250",
+    "name": {
+      "en": "Tundra Fossil (body)",
+      "ko": "툰드라화석 (몸통)",
+      "ja": "ツンドラのカセキ・どう",
+      "zh-TW": "凍原化石・軀幹",
+      "zh-CN": "冻原化石・躯干",
+      "fr": "Fossile Toundra (corps)",
+      "de": "Tundrafossil (Körper)",
+      "es": "Fósil Tundra (cuerpo)"
+    },
+    "imageUrl": "/images/imported/c40f7b8efce14a5c9c2a1fb9.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tundra fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1075",
+    "seq": 2500
+  },
+  {
+    "id": "mat_251",
+    "name": {
+      "en": "Tundra Fossil (head)",
+      "ko": "툰드라화석 (머리)",
+      "ja": "ツンドラのカセキ・あたま",
+      "zh-TW": "凍原化石・頭",
+      "zh-CN": "冻原化石・头",
+      "fr": "Fossile Toundra (tête)",
+      "de": "Tundrafossil (Kopf)",
+      "es": "Fósil Tundra (cabeza)"
+    },
+    "imageUrl": "/images/imported/21976bafc9f75f021e945618.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tundra fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1074",
+    "seq": 2510
+  },
+  {
+    "id": "mat_252",
+    "name": {
+      "en": "Tundra Fossil (tail)",
+      "ko": "툰드라화석 (꼬리)",
+      "ja": "ツンドラのカセキ・しっぽ",
+      "zh-TW": "凍原化石・尾巴",
+      "zh-CN": "冻原化石・尾巴",
+      "fr": "Fossile Toundra (queue)",
+      "de": "Tundrafossil (Schwanz)",
+      "es": "Fósil Tundra (cola)"
+    },
+    "imageUrl": "/images/imported/6a92040583f1c2167fd134d4.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tundra fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1076",
+    "seq": 2520
+  },
+  {
+    "id": "mat_253",
+    "name": {
+      "en": "Utility pole",
+      "ko": "전봇대",
+      "ja": "でんちゅう",
+      "zh-TW": "電線桿",
+      "zh-CN": "电线杆",
+      "fr": "Poteau électrique",
+      "de": "Strommast",
+      "es": "Poste de servicios"
+    },
+    "imageUrl": "/images/imported/17abd2dc65a523f78f8b3221.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Trash disposal site"
+    ],
+    "usageCount": 1,
+    "itemId": "I0400",
+    "seq": 2530
+  },
+  {
+    "id": "mat_254",
+    "name": {
+      "en": "Vanity mirror",
+      "ko": "화장 거울",
+      "ja": "ミラー",
+      "zh-TW": "化妝鏡",
+      "zh-CN": "化妆镜",
+      "fr": "Miroir de courtoisie",
+      "de": "Schminkspiegel",
+      "es": "Espejo de tocador"
+    },
+    "imageUrl": "/images/imported/657efe2139fbc7eb3102b93d.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Private makeup stand",
+      "Moisturizing makeup stand"
+    ],
+    "usageCount": 2,
+    "itemId": null,
+    "seq": 2540
+  },
+  {
+    "id": "mat_255",
+    "name": {
+      "en": "Vegetable field",
+      "ko": "채소밭",
+      "ja": "やさいばたけ",
+      "zh-TW": "菜園",
+      "zh-CN": "菜园",
+      "fr": "Champ de légumes",
+      "de": "Gemüsefeld",
+      "es": "Huerto"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Fresh Veggie Field",
+      "Toil in the soil"
+    ],
+    "usageCount": 12,
+    "itemId": null,
+    "seq": 2550
+  },
+  {
+    "id": "mat_256",
+    "name": {
+      "en": "Vending machine",
+      "ko": "자판기",
+      "ja": "じどうはんばいき",
+      "zh-TW": "自動販賣機",
+      "zh-CN": "自动贩卖机",
+      "fr": "Distributeur automatique",
+      "de": "Getränkeautomat",
+      "es": "Máquina expendedora"
+    },
+    "imageUrl": "/images/imported/5b3ea490157b77a8056e8447.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Overgrowth vending machine",
+      "Vending machine break area",
+      "Vending machine set",
+      "Cycling rest stop"
+    ],
+    "usageCount": 4,
+    "itemId": "I0329",
+    "seq": 2560
+  },
+  {
+    "id": "mat_257",
+    "name": {
+      "en": "Walkway",
+      "ko": "산책로",
+      "ja": "さんぽみち",
+      "zh-TW": "碼頭",
+      "zh-CN": "码头",
+      "fr": "Passerelle",
+      "de": "Gehweg",
+      "es": "Pasarela"
+    },
+    "imageUrl": "/images/imported/e54452f6a93d37df20de045e.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Dock"
+    ],
+    "usageCount": 4,
+    "itemId": "I0615",
+    "seq": 2570
+  },
+  {
+    "id": "mat_258",
+    "name": {
+      "en": "Wall mirror",
+      "ko": "벽걸이 거울",
+      "ja": "カベかけのかがみ",
+      "zh-TW": "壁掛鏡",
+      "zh-CN": "壁挂镜",
+      "fr": "Miroir mural",
+      "de": "Wandspiegel",
+      "es": "Espejo de pared"
+    },
+    "imageUrl": "/images/imported/657efe2139fbc7eb3102b93d.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Spotless Washing station"
+    ],
+    "usageCount": 1,
+    "itemId": "I0186",
+    "seq": 2580
+  },
+  {
+    "id": "mat_259",
+    "name": {
+      "en": "Garbage bin",
+      "ko": "쓰레기통",
+      "ja": "ゴミいれ",
+      "zh-TW": "垃圾桶",
+      "zh-CN": "垃圾桶",
+      "fr": "Poubelle",
+      "de": "Mülleimer",
+      "es": "Cubo de basura"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Trash collection site",
+      "Vending machine set",
+      "Oversized dumping ground"
+    ],
+    "usageCount": 3,
+    "itemId": "I0363",
+    "seq": 2590
+  },
+  {
+    "id": "mat_260",
+    "name": {
+      "en": "Water",
+      "ko": "물",
+      "ja": "みず",
+      "zh-TW": "水",
+      "zh-CN": "水",
+      "fr": "Eau",
+      "de": "Wasser",
+      "es": "Agua"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Hydrated tall grass",
+      "Hydrated flower bed",
+      "Training waterfall",
+      "Floating in the shade",
+      "Hydrated yellow tall grass",
+      "Waterwheel Spot",
+      "Hydrated red tall grass",
+      "Hydrated graceful flower bed",
+      "Uplifting duckweed",
+      "Hydrated pink tall grass",
+      "Hydrated fluffy flower bed",
+      "Waterside dinghy",
+      "Illuminated waterfall",
+      "Fishing pond"
+    ],
+    "usageCount": 27,
+    "itemId": null,
+    "seq": 2600
+  },
+  {
+    "id": "mat_261",
+    "name": {
+      "en": "Water bucket",
+      "ko": "물통",
+      "ja": "みずおけ",
+      "zh-TW": "水桶",
+      "zh-CN": "水桶",
+      "fr": "Seau d'eau",
+      "de": "Wassereimer",
+      "es": "Cubo de agua"
+    },
+    "imageUrl": "/images/imported/dccb8e1f809fd3fe6246ffc5.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Harmonious hot spring"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 2610
+  },
+  {
+    "id": "mat_262",
+    "name": {
+      "en": "Waterfall",
+      "ko": "폭포",
+      "ja": "たき",
+      "zh-TW": "瀑布",
+      "zh-CN": "瀑布",
+      "fr": "Cascade",
+      "de": "Wasserfall",
+      "es": "Cascada"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Training waterfall",
+      "Waterwheel Spot",
+      "Illuminated waterfall"
+    ],
+    "usageCount": 3,
+    "itemId": null,
+    "seq": 2620
+  },
+  {
+    "id": "mat_263",
+    "name": {
+      "en": "Waterwheel",
+      "ko": "물레방아",
+      "ja": "水力はつでんマシン",
+      "zh-TW": "水力發電機",
+      "zh-CN": "水力发电机",
+      "fr": "Roue à eau",
+      "de": "Wasserrad",
+      "es": "Noria"
+    },
+    "imageUrl": "/images/imported/9daeab019ebef3984c9d56a8.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Waterwheel Spot"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 2630
+  },
+  {
+    "id": "mat_264",
+    "name": {
+      "en": "Wheelbarrow",
+      "ko": "외바퀴 수레",
+      "ja": "ねこぐるま",
+      "zh-TW": "手推車",
+      "zh-CN": "手推车",
+      "fr": "Brouette",
+      "de": "Schubkarre",
+      "es": "Carretilla"
+    },
+    "imageUrl": "/images/imported/1314d66d752079b3e091a562.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Toil in the soil",
+      "Digging and burning",
+      "Clink-clang iron construction"
+    ],
+    "usageCount": 3,
+    "itemId": "I0374",
+    "seq": 2640
+  },
+  {
+    "id": "mat_265",
+    "name": {
+      "en": "Whiteboard",
+      "ko": "화이트보드",
+      "ja": "ホワイトボード",
+      "zh-TW": "白板",
+      "zh-CN": "白板",
+      "fr": "Tableau blanc",
+      "de": "Whiteboard",
+      "es": "Pizarra blanca"
+    },
+    "imageUrl": "/images/imported/c73d405016ede88990869d62.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Professor's apprentice program"
+    ],
+    "usageCount": 1,
+    "itemId": "I0277",
+    "seq": 2650
+  },
+  {
+    "id": "mat_266",
+    "name": {
+      "en": "Wildflowers",
+      "ko": "들판의 꽃",
+      "ja": "のばな",
+      "zh-TW": "原野花",
+      "zh-CN": "原野花",
+      "fr": "Fleurs sauvages",
+      "de": "Wildblumen",
+      "es": "Flores silvestres"
+    },
+    "imageUrl": "/images/imported/35a034900e1773e3dd3feb4a.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Pretty flower bed",
+      "Tree-shaded flower bed",
+      "Hydrated flower bed",
+      "Field of Flowers",
+      "Elevated flower bed",
+      "Grave with flowers",
+      "Flower garden",
+      "Garden Terrace"
+    ],
+    "usageCount": 36,
+    "itemId": "I0489",
+    "seq": 2660
+  },
+  {
+    "id": "mat_267",
+    "name": {
+      "en": "Windmill",
+      "ko": "풍차",
+      "ja": "ふうしゃ",
+      "zh-TW": "風力發電機",
+      "zh-CN": "风力发电机",
+      "fr": "Moulin à vent",
+      "de": "Windmühle",
+      "es": "Molino de viento"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Windy Flower Bed"
+    ],
+    "usageCount": 1,
+    "itemId": null,
+    "seq": 2670
+  },
+  {
+    "id": "mat_268",
+    "name": {
+      "en": "Wing Fossil (body)",
+      "ko": "날개의화석 (몸통)",
+      "ja": "ツバサのカセキ・どう",
+      "zh-TW": "翼之化石・軀幹",
+      "zh-CN": "翼之化石・躯干",
+      "fr": "Fossile Aile (corps)",
+      "de": "Flügelfossil (Körper)",
+      "es": "Fósil Ala (cuerpo)"
+    },
+    "imageUrl": "/images/imported/60229a30146a6b4e0daf6243.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Wing Fossil Display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1062",
+    "seq": 2680
+  },
+  {
+    "id": "mat_269",
+    "name": {
+      "en": "Wing Fossil (head)",
+      "ko": "날개의화석 (머리)",
+      "ja": "ツバサのカセキ・あたま",
+      "zh-TW": "翼之化石・頭",
+      "zh-CN": "翼之化石・头",
+      "fr": "Fossile Aile (tête)",
+      "de": "Flügelfossil (Kopf)",
+      "es": "Fósil Ala (cabeza)"
+    },
+    "imageUrl": "/images/imported/77e3b5859ed197feb6e13d56.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Wing Fossil Display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1059",
+    "seq": 2690
+  },
+  {
+    "id": "mat_270",
+    "name": {
+      "en": "Wing Fossil (left wing)",
+      "ko": "날개의화석 (왼쪽 날개)",
+      "ja": "ツバサのカセキ・さよく",
+      "zh-TW": "翅膀化石（左翼）",
+      "zh-CN": "翅膀化石（左翼）",
+      "es": "Fósil Ala (Ala izquierda)",
+      "fr": "Fossile Aile (aile gauche)",
+      "de": "Flügelfossil (linker Flügel)"
+    },
+    "imageUrl": "/images/imported/de20e960ebee1e3e5617a521.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Wing Fossil Display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1061",
+    "seq": 2700
+  },
+  {
+    "id": "mat_271",
+    "name": {
+      "en": "Wing Fossil (tail)",
+      "ko": "날개의화석 (꼬리)",
+      "ja": "ツバサのカセキ・しっぽ",
+      "zh-TW": "翼之化石・尾巴",
+      "zh-CN": "翼之化石・尾巴",
+      "fr": "Fossile Aile (queue)",
+      "de": "Flügelfossil (Schwanz)",
+      "es": "Fósil Ala (cola)"
+    },
+    "imageUrl": "/images/imported/1ea062dc66e7ba68d362d4b0.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Wing Fossil Display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1063",
+    "seq": 2710
+  },
+  {
+    "id": "mat_272",
+    "name": {
+      "en": "Wing Fossil (right wing)",
+      "ko": "날개의화석 (오른쪽 날개)",
+      "ja": "ツバサのカセキ・うよく",
+      "zh-TW": "翅膀化石（右翼）",
+      "zh-CN": "翅膀化石（右翼）",
+      "es": "Fósil Ala (Ala derecha)",
+      "fr": "Fossile Aile (aile droite)",
+      "de": "Flügelfossil (rechter Flügel)"
+    },
+    "imageUrl": "/images/imported/8b7eb14bc43df98df3fc76af.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Wing Fossil Display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1060",
+    "seq": 2720
+  },
+  {
+    "id": "mat_273",
+    "name": {
+      "en": "Wooden birdhouse",
+      "ko": "나무 새집",
+      "ja": "木のすばこ",
+      "zh-TW": "木製鳥巢箱",
+      "zh-CN": "木制鸟巢箱",
+      "fr": "Nichoir en bois",
+      "de": "Holzvogelhaus",
+      "es": "Casa de pájaros de madera"
+    },
+    "imageUrl": "/images/imported/200a5545a8fa123796f3e2be.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Luxury chirp-chirp meal",
+      "Chirp-chirp meal",
+      "Birdsong garden"
+    ],
+    "usageCount": 3,
+    "itemId": "I0335",
+    "seq": 2730
+  },
+  {
+    "id": "mat_274",
+    "name": {
+      "en": "Wooden crate",
+      "ko": "나무 상자",
+      "ja": "木ばこ",
+      "zh-TW": "木箱",
+      "zh-CN": "木箱",
+      "fr": "Caisse en bois",
+      "de": "Holzkiste",
+      "es": "Caja de madera"
+    },
+    "imageUrl": "/images/imported/f766b2fa22c6aec0f25b1fed.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Large luggage carrier",
+      "Creepy white rocks",
+      "Container snacking"
+    ],
+    "usageCount": 4,
+    "itemId": "I0360",
+    "seq": 2740
+  },
+  {
+    "id": "mat_275",
+    "name": {
+      "en": "Wooden path",
+      "ko": "나무 산책로",
+      "ja": "木のみち",
+      "zh-TW": "木棧道",
+      "zh-CN": "木栈道",
+      "fr": "Chemin en bois",
+      "de": "Holzweg",
+      "es": "Camino de madera"
+    },
+    "imageUrl": "/images/imported/6b585da69a3c666924ae50de.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Road Sign"
+    ],
+    "usageCount": 3,
+    "itemId": "I0613",
+    "seq": 2750
+  },
+  {
+    "id": "mat_276",
+    "name": {
+      "en": "Yellow tall grass",
+      "ko": "노란 풀",
+      "ja": "きいろいくさむら",
+      "zh-TW": "黃草",
+      "zh-CN": "黄草",
+      "fr": "Hautes herbes jaunes",
+      "de": "Gelbes hohes Gras",
+      "es": "Hierba alta amarilla"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Yellow tall grass",
+      "Tree-shaded Yellow tall grass",
+      "Elevated yellow tall grass",
+      "Hydrated yellow tall grass",
+      "Marshy tall grass",
+      "Overgrowth vending machine"
+    ],
+    "usageCount": 24,
+    "itemId": "I0475",
+    "seq": 2760
+  },
+  {
+    "id": "mat_277",
+    "itemId": "I0545",
+    "name": {
+      "en": "Dandy flowers",
+      "ko": "민들레 꽃",
+      "ja": "タンポポの花",
+      "zh-TW": "蒲公英花",
+      "zh-CN": "蒲公英花",
+      "fr": "Fleurs de pissenlit",
+      "de": "Löwenzahnblumen",
+      "es": "Flores de diente de león"
+    },
+    "imageUrl": "/images/imported/a54ef730ae5ed92586c4155a.png",
+    "sources": [
+      "Hoppip Event"
+    ],
+    "usedInHabitatNames": [
+      "Yellow carpet",
+      "Dandelion lunchtime"
+    ],
+    "usageCount": 5,
+    "seq": 2770
+  },
+  {
+    "id": "mat_278",
+    "itemId": "I0318",
+    "name": {
+      "en": "Flower backpack",
+      "ko": "꽃 배낭",
+      "ja": "フラワーバックパック",
+      "zh-TW": "花朵背包",
+      "zh-CN": "花朵背包",
+      "fr": "Sac à dos fleuri",
+      "de": "Blumenrucksack",
+      "es": "Mochila de flores"
+    },
+    "imageUrl": "/images/imported/02b1f1fd28dc08ed249af6f0.png",
+    "sources": [
+      "Hoppip Event"
+    ],
+    "usedInHabitatNames": [
+      "Field-trip friends"
+    ],
+    "usageCount": 1,
+    "seq": 2780
+  },
+  {
+    "id": "mat_279",
+    "itemId": "I0314",
+    "name": {
+      "en": "Lunch box",
+      "ko": "도시락",
+      "ja": "おべんとう",
+      "zh-TW": "便當盒",
+      "zh-CN": "便当盒",
+      "fr": "Boîte à lunch",
+      "de": "Lunchbox",
+      "es": "Caja de almuerzo"
+    },
+    "imageUrl": "/images/imported/658fb4ab22fcc24438505da6.png",
+    "sources": [
+      "Hoppip Event"
+    ],
+    "usedInHabitatNames": [
+      "Field-trip friends",
+      "Dandelion lunchtime"
+    ],
+    "usageCount": 2,
+    "seq": 2790
+  },
+  {
+    "id": "mat_280",
+    "itemId": "I0315",
+    "name": {
+      "en": "Hoppip water bottle",
+      "ko": "통통코 물병",
+      "ja": "ハネッコの水筒",
+      "zh-TW": "毽子草水壺",
+      "zh-CN": "毽子草水壶",
+      "fr": "Gourde Granivol",
+      "de": "Hoppip-Wasserflasche",
+      "es": "Botella de Hoppip"
+    },
+    "imageUrl": "/images/imported/ec0a9c465d704a1eeb4e329e.png",
+    "sources": [
+      "Hoppip Event"
+    ],
+    "usedInHabitatNames": [
+      "Field-trip friends"
+    ],
+    "usageCount": 1,
+    "seq": 2800
+  },
+  {
+    "id": "mat_281",
+    "itemId": "I0192",
+    "name": {
+      "en": "Flower cushion",
+      "ko": "꽃 쿠션",
+      "ja": "フラワークッション",
+      "zh-TW": "花朵靠墊",
+      "zh-CN": "花朵靠垫",
+      "fr": "Coussin fleuri",
+      "de": "Blumenkissen",
+      "es": "Cojín de flores"
+    },
+    "imageUrl": "/images/imported/6a58e3db3c6f060e816cd249.png",
+    "sources": [
+      "Hoppip Event"
+    ],
+    "usedInHabitatNames": [
+      "Dandelion lunchtime"
+    ],
+    "usageCount": 1,
+    "seq": 2810
+  },
+  {
+    "id": "mat_282",
+    "itemId": "I0313",
+    "name": {
+      "en": "Flowery table setting",
+      "ko": "꽃 테이블 세팅",
+      "ja": "フラワーテーブルセッティング",
+      "zh-TW": "花朵餐桌擺設",
+      "zh-CN": "花朵餐桌摆设",
+      "fr": "Set de table fleuri",
+      "de": "Blumen-Tischgedeck",
+      "es": "Vajilla floral"
+    },
+    "imageUrl": "/images/imported/73ee55dda705d94493f441d9.png",
+    "sources": [
+      "Hoppip Event"
+    ],
+    "usedInHabitatNames": [
+      "Dandelion lunchtime"
+    ],
+    "usageCount": 1,
+    "seq": 2820
+  },
+  {
+    "id": "mat_283",
+    "itemId": "I0267",
+    "name": {
+      "en": "Cool bass guitar",
+      "ko": "멋진 베이스 기타",
+      "ja": "イカしたエレキベース",
+      "zh-TW": "帥氣電貝斯",
+      "zh-CN": "帅气电贝斯",
+      "fr": "Basse cool",
+      "de": "Coole Bassgitarre",
+      "es": "Bajo eléctrico genial"
+    },
+    "imageUrl": "/images/imported/0e9a2cfa69ccecf3483a1d31.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Low-key rock stage"
+    ],
+    "usageCount": 1,
+    "seq": 2830
+  },
+  {
+    "id": "mat_284",
+    "name": {
+      "en": "Shield Fossil (Head)",
+      "ko": "방패 화석 (머리)",
+      "ja": "タテのカセキ・あたま",
+      "zh-TW": "盾牌化石（頭）",
+      "zh-CN": "盾牌化石（头）",
+      "fr": "Fossile Bouclier (tête)",
+      "de": "Schildfossil (Kopf)",
+      "es": "Fósil Escudo (Cabeza)"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Shield Fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1067",
+    "seq": 2840
+  },
+  {
+    "id": "mat_285",
+    "name": {
+      "en": "Shield Fossil (Body)",
+      "ko": "방패 화석 (몸통)",
+      "ja": "タテのカセキ・どう",
+      "zh-TW": "盾牌化石（身）",
+      "zh-CN": "盾牌化石（身）",
+      "fr": "Fossile Bouclier (corps)",
+      "de": "Schildfossil (Körper)",
+      "es": "Fósil Escudo (Cuerpo)"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Shield Fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1068",
+    "seq": 2850
+  },
+  {
+    "id": "mat_286",
+    "name": {
+      "en": "Shield Fossil (tail)",
+      "ko": "방패 화석 (꼬리)",
+      "ja": "タテのカセキ・しっぽ",
+      "zh-TW": "盾牌化石（尾）",
+      "zh-CN": "盾牌化石（尾）",
+      "fr": "Fossile Bouclier (queue)",
+      "de": "Schildfossil (Schwanz)",
+      "es": "Fósil Escudo (Cola)"
+    },
+    "sources": [],
+    "usedInHabitatNames": [
+      "Shield Fossil display"
+    ],
+    "usageCount": 1,
+    "itemId": "I1069",
+    "seq": 2860
+  },
+  {
+    "id": "mat_287",
+    "name": {
+      "en": "Pitcher-plant pot",
+      "ko": "단지 꽃병",
+      "ja": "ツボかびん",
+      "zh-TW": "豬籠草盆栽",
+      "zh-CN": "猪笼草盆栽",
+      "fr": "Pot népenthès",
+      "de": "Kannenpflanzentopf",
+      "es": "Maceta de nepenthes"
+    },
+    "imageUrl": "/images/imported/07335ec5e84f47aef24e1e92.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Irresistible scent and glow"
+    ],
+    "usageCount": 1,
+    "itemId": "I0210",
+    "seq": 2870
+  },
+  {
+    "id": "mat_288",
+    "name": {
+      "en": "Push cart",
+      "ko": "수레 카트",
+      "ja": "ワゴン",
+      "zh-TW": "推車",
+      "zh-CN": "推车",
+      "fr": "Chariot",
+      "de": "Servierwagen",
+      "es": "Carrito"
+    },
+    "imageUrl": "/images/imported/9c8d0a827748632706866f28.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Tableside delivery cart"
+    ],
+    "usageCount": 1,
+    "itemId": "I0110",
+    "seq": 2880
+  },
+  {
+    "id": "mat_289",
+    "name": {
+      "en": "Professor's treasure trove",
+      "ko": "박사의 보물",
+      "ja": "はかせのオタカラ",
+      "zh-TW": "博士的收藏品",
+      "zh-CN": "博士的收藏品",
+      "fr": "Trésor du Professeur",
+      "de": "Schatzkammer des Professors",
+      "es": "Tesoro del profesor"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [
+      "Professor's treasure trove"
+    ],
+    "usageCount": 1,
+    "itemId": "I1104",
+    "seq": 2890
+  },
+  {
+    "id": "mat_290",
+    "name": {
+      "en": "Adventure Kit",
+      "ko": "모험 키트",
+      "ja": "アドベンチャーキット",
+      "zh-TW": "冒險套組",
+      "fr": "Kit d'aventure",
+      "de": "Abenteuer-Kit",
+      "es": "Kit de aventura",
+      "zh-CN": "冒险套组"
+    },
+    "imageUrl": "/images/imported/cf83d98a11d3ec49ddb86460.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Treasure-hunting set"
+    ],
+    "usageCount": 1,
+    "itemId": "I1269",
+    "seq": 2900
+  },
+  {
+    "id": "mat_291",
+    "name": {
+      "en": "Map and Compass",
+      "ko": "지도와 나침반",
+      "ja": "地図とコンパス",
+      "zh-TW": "地圖與指南針",
+      "fr": "Carte et boussole",
+      "de": "Karte und Kompass",
+      "es": "Mapa y brújula",
+      "zh-CN": "地图与指南针"
+    },
+    "imageUrl": "/images/imported/278992c47c280dbe4555227d.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Treasure-hunting set"
+    ],
+    "usageCount": 1,
+    "itemId": "I1265",
+    "seq": 2910
+  },
+  {
+    "id": "mat_292",
+    "name": {
+      "en": "Treasure",
+      "ko": "보물",
+      "ja": "おたから",
+      "zh-TW": "寶藏",
+      "fr": "Trésor",
+      "de": "Schatz",
+      "es": "Tesoro",
+      "zh-CN": "宝藏"
+    },
+    "imageUrl": "/images/imported/04423368e47fcab39a7ed257.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Treasure-hunting set"
+    ],
+    "usageCount": 1,
+    "itemId": "I1271",
+    "seq": 2920
+  },
+  {
+    "id": "mat_293",
+    "name": {
+      "en": "Star closet",
+      "ko": "별 옷장",
+      "ja": "ほしのクローゼット",
+      "zh-TW": "星星衣櫃",
+      "fr": "Penderie étoilée",
+      "de": "Sternenkleiderschrank",
+      "es": "Armario estrellado",
+      "zh-CN": "星星衣柜"
+    },
+    "imageUrl": "/images/imported/6eb9c4f8f73009847380d511.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Surrounded by stars"
+    ],
+    "usageCount": 1,
+    "itemId": "I1275",
+    "seq": 2930
+  },
+  {
+    "id": "mat_294",
+    "name": {
+      "en": "Starry-sky bed",
+      "ko": "별하늘 침대",
+      "ja": "ほしぞらのベッド",
+      "zh-TW": "星空床",
+      "fr": "Lit étoilé",
+      "de": "Sternenhimmelbett",
+      "es": "Cama estrellada",
+      "zh-CN": "星空床"
+    },
+    "imageUrl": "/images/imported/08b185f938a3d30decbe3609.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Surrounded by stars"
+    ],
+    "usageCount": 1,
+    "itemId": "I1276",
+    "seq": 2940
+  },
+  {
+    "id": "mat_295",
+    "name": {
+      "en": "Cloud table",
+      "ko": "구름 테이블",
+      "ja": "くものテーブル",
+      "zh-TW": "雲朵桌",
+      "fr": "Table nuage",
+      "de": "Wolkentisch",
+      "es": "Mesa nube",
+      "zh-CN": "云朵桌"
+    },
+    "imageUrl": "/images/imported/35e2b8f518dbf302c1209343.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Surrounded by stars"
+    ],
+    "usageCount": 1,
+    "itemId": "I1277",
+    "seq": 2950
+  },
+  {
+    "id": "mat_296",
+    "name": {
+      "en": "Jirachi lamp",
+      "ko": "지라치 램프",
+      "ja": "ジラーチランプ",
+      "zh-TW": "基拉祈燈",
+      "fr": "Lampe Jirachi",
+      "de": "Jirachi-Lampe",
+      "es": "Lámpara Jirachi",
+      "zh-CN": "基拉祈灯"
+    },
+    "imageUrl": "/images/imported/8a34a3e6903291dea9cbec2b.png",
+    "sources": [],
+    "usedInHabitatNames": [
+      "Surrounded by stars"
+    ],
+    "usageCount": 1,
+    "itemId": "I1278",
+    "seq": 2960
+  },
+  {
+    "id": "mat_297",
+    "itemId": "I1342",
+    "name": {
+      "en": "Seabed Tall Grass",
+      "ko": "해저 풀숲",
+      "ja": "うみぞこのくさむら",
+      "zh-TW": "海底草叢",
+      "zh-CN": "海底草丛",
+      "fr": "Hautes herbes des abysses",
+      "de": "Meeresgrund-Gras",
+      "es": "Hierba alta del lecho marino"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_298",
+    "itemId": "I1354",
+    "name": {
+      "en": "Small Coral",
+      "ko": "작은 산호",
+      "ja": "ちいさなサンゴ",
+      "zh-TW": "小珊瑚",
+      "zh-CN": "小珊瑚",
+      "fr": "Petit corail",
+      "de": "Kleine Koralle",
+      "es": "Coral pequeño"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_299",
+    "itemId": "I1357",
+    "name": {
+      "en": "Tall Coral",
+      "ko": "키 큰 산호",
+      "ja": "のっぽなサンゴ",
+      "zh-TW": "高珊瑚",
+      "zh-CN": "高珊瑚",
+      "fr": "Grand corail",
+      "de": "Hohe Koralle",
+      "es": "Coral alto"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_300",
+    "itemId": "I1346",
+    "name": {
+      "en": "Seabed Flowers",
+      "ko": "해저 꽃",
+      "ja": "うみぞこのはな",
+      "zh-TW": "海底花",
+      "zh-CN": "海底花",
+      "fr": "Fleurs des abysses",
+      "de": "Meeresgrund-Blumen",
+      "es": "Flores del lecho marino"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_301",
+    "itemId": "I1359",
+    "name": {
+      "en": "Colorful Corals",
+      "ko": "알록달록 산호",
+      "ja": "カラフルなサンゴ",
+      "zh-TW": "彩色珊瑚",
+      "zh-CN": "彩色珊瑚",
+      "fr": "Coraux colorés",
+      "de": "Bunte Korallen",
+      "es": "Corales de colores"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_302",
+    "itemId": "I1353",
+    "name": {
+      "en": "Chimney Rocks",
+      "ko": "굴뚝 바위",
+      "ja": "えんとつイワ",
+      "zh-TW": "煙囪岩",
+      "zh-CN": "烟囱岩",
+      "fr": "Roches cheminées",
+      "de": "Schlotfelsen",
+      "es": "Rocas chimenea"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_303",
+    "itemId": "I1345",
+    "name": {
+      "en": "Lush Seaweed",
+      "ko": "무성한 해초",
+      "ja": "しげったかいそう",
+      "zh-TW": "茂密海藻",
+      "zh-CN": "茂密海藻",
+      "fr": "Algues luxuriantes",
+      "de": "Üppiger Seetang",
+      "es": "Algas frondosas"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_304",
+    "itemId": "I1463",
+    "name": {
+      "en": "Netting",
+      "ko": "그물",
+      "ja": "あみ",
+      "zh-TW": "漁網",
+      "zh-CN": "渔网",
+      "fr": "Filet",
+      "de": "Netz",
+      "es": "Red"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_305",
+    "itemId": "I1412",
+    "name": {
+      "en": "Sandpile",
+      "ko": "모래더미",
+      "ja": "すなやま",
+      "zh-TW": "沙堆",
+      "zh-CN": "沙堆",
+      "fr": "Tas de sable",
+      "de": "Sandhaufen",
+      "es": "Montón de arena"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_306",
+    "itemId": "I1413",
+    "name": {
+      "en": "Sand Toys",
+      "ko": "모래놀이 장난감",
+      "ja": "すなあそびセット",
+      "zh-TW": "沙灘玩具",
+      "zh-CN": "沙滩玩具",
+      "fr": "Jouets de sable",
+      "de": "Sandspielzeug",
+      "es": "Juguetes de arena"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_307",
+    "itemId": "I1117",
+    "name": {
+      "en": "Tabletop Mic",
+      "ko": "탁상 마이크",
+      "ja": "たくじょうマイク",
+      "zh-TW": "桌上麥克風",
+      "zh-CN": "桌上麦克风",
+      "fr": "Micro de table",
+      "de": "Tischmikrofon",
+      "es": "Micrófono de mesa"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_308",
+    "itemId": "I0270",
+    "name": {
+      "en": "Gold Teeth",
+      "ko": "금틀니",
+      "ja": "きんのいれば",
+      "zh-TW": "金假牙",
+      "zh-CN": "金假牙",
+      "fr": "Dentier en Or",
+      "de": "Goldenes Gebiss",
+      "es": "Dentadura de Oro"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_309",
+    "itemId": "I1344",
+    "name": {
+      "en": "Sea Moss",
+      "ko": "바다이끼",
+      "ja": "うみコケ",
+      "zh-TW": "海洋青苔",
+      "zh-CN": "海洋青苔",
+      "fr": "Mousse marine",
+      "de": "Meeresmoos",
+      "es": "Musgo marino"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_310",
+    "itemId": "I1369",
+    "name": {
+      "en": "Big Treasure Chest",
+      "ko": "대형 보물상자",
+      "ja": "ビッグたからばこ",
+      "zh-TW": "大型寶箱",
+      "zh-CN": "大型宝箱",
+      "fr": "Grand coffre au trésor",
+      "de": "Große Schatztruhe",
+      "es": "Cofre del tesoro grande"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_311",
+    "itemId": "I1390",
+    "name": {
+      "en": "Bottled Ship",
+      "ko": "병 속의 배",
+      "ja": "ボトルシップ",
+      "zh-TW": "瓶中船",
+      "zh-CN": "瓶中船",
+      "fr": "Bateau en bouteille",
+      "de": "Buddelschiff",
+      "es": "Barco en botella"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_312",
+    "itemId": "I1391",
+    "name": {
+      "en": "Sparkling Jewelry",
+      "ko": "반짝이는 보석",
+      "ja": "キラキラのほうせき",
+      "zh-TW": "閃亮寶石",
+      "zh-CN": "闪亮宝石",
+      "fr": "Bijoux étincelants",
+      "de": "Funkelnder Schmuck",
+      "es": "Joyas relucientes"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_313",
+    "itemId": "I1434",
+    "name": {
+      "en": "Lampion",
+      "ko": "등롱",
+      "ja": "ちょうちん",
+      "zh-TW": "紙燈籠",
+      "zh-CN": "纸灯笼",
+      "fr": "Lampion",
+      "de": "Lampion",
+      "es": "Farolillo"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_314",
+    "itemId": "I1375",
+    "name": {
+      "en": "Seashell Seat",
+      "ko": "조개 의자",
+      "ja": "かいがらのイス",
+      "zh-TW": "貝殼座椅",
+      "zh-CN": "贝壳座椅",
+      "fr": "Siège coquillage",
+      "de": "Muschelsitz",
+      "es": "Asiento de concha"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_315",
+    "itemId": "I1370",
+    "name": {
+      "en": "Marine Chest",
+      "ko": "마린 서랍장",
+      "ja": "マリンなチェスト",
+      "zh-TW": "海洋抽屜櫃",
+      "zh-CN": "海洋抽屉柜",
+      "fr": "Commode marine",
+      "de": "Meeres-Kommode",
+      "es": "Cómoda marina"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_316",
+    "itemId": "I1428",
+    "name": {
+      "en": "Blender",
+      "ko": "믹서",
+      "ja": "ミキサー",
+      "zh-TW": "果汁機",
+      "zh-CN": "榨汁机",
+      "fr": "Mixeur",
+      "de": "Mixer",
+      "es": "Batidora"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_317",
+    "itemId": "I1380",
+    "name": {
+      "en": "Cushion Bed",
+      "ko": "쿠션 침대",
+      "ja": "クッションベッド",
+      "zh-TW": "靠墊床",
+      "zh-CN": "靠垫床",
+      "fr": "Lit coussin",
+      "de": "Kissenbett",
+      "es": "Cama de cojines"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_318",
+    "itemId": "I1464",
+    "name": {
+      "en": "Floating Logs",
+      "ko": "떠 있는 통나무",
+      "ja": "うくまるた",
+      "zh-TW": "漂浮圓木",
+      "zh-CN": "漂浮圆木",
+      "fr": "Rondins flottants",
+      "de": "Schwimmende Baumstämme",
+      "es": "Troncos flotantes"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_319",
+    "itemId": "I1401",
+    "name": {
+      "en": "Windup Inkay",
+      "ko": "태엽 오케이징",
+      "ja": "ゼンマイマーイーカ",
+      "zh-TW": "發條好啦魷",
+      "zh-CN": "发条好啦鱿",
+      "fr": "Sepiatop mécanique",
+      "de": "Aufzieh-Iscalar",
+      "es": "Inkay de cuerda"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_320",
+    "itemId": "I0239",
+    "name": {
+      "en": "Bathtime Set",
+      "ko": "목욕 세트",
+      "ja": "おふろセット",
+      "zh-TW": "洗澡組",
+      "zh-CN": "沐浴组",
+      "fr": "Produit de bain",
+      "de": "Badeset",
+      "es": "Set de baño"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_321",
+    "itemId": "I1415",
+    "name": {
+      "en": "Gyarados Fountain",
+      "ko": "갸라도스 분수",
+      "ja": "ギャラドスふんすい",
+      "zh-TW": "暴鯉龍噴泉",
+      "zh-CN": "暴鲤龙喷泉",
+      "fr": "Fontaine Léviator",
+      "de": "Garados-Brunnen",
+      "es": "Fuente de Gyarados"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_322",
+    "itemId": "I1429",
+    "name": {
+      "en": "Bubble Machine",
+      "ko": "거품 기계",
+      "ja": "あわマシン",
+      "zh-TW": "泡泡機",
+      "zh-CN": "泡泡机",
+      "fr": "Machine à bulles",
+      "de": "Blasenmaschine",
+      "es": "Máquina de burbujas"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_323",
+    "itemId": "I1430",
+    "name": {
+      "en": "Wireless Power-Transmitter Post",
+      "ko": "무선 송전봉",
+      "ja": "むせんそうでんぼう",
+      "zh-TW": "無線送電棒",
+      "zh-CN": "无线送电棒",
+      "fr": "Borne de transmission sans fil",
+      "de": "Funk-Strommast",
+      "es": "Poste transmisor inalámbrico"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_324",
+    "itemId": "I0430",
+    "name": {
+      "en": "Shell Lamp",
+      "ko": "조개 램프",
+      "ja": "かいがらランプ",
+      "zh-TW": "貝殼燈",
+      "zh-CN": "贝壳灯",
+      "fr": "Lampe coquillage",
+      "de": "Muschellampe",
+      "es": "Lámpara de concha"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_325",
+    "itemId": "I1376",
+    "name": {
+      "en": "Marine Chair",
+      "ko": "마린 의자",
+      "ja": "マリンなイス",
+      "zh-TW": "海洋椅",
+      "zh-CN": "海洋椅",
+      "fr": "Chaise marine",
+      "de": "Meeres-Stuhl",
+      "es": "Silla marina"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_326",
+    "itemId": "I1394",
+    "name": {
+      "en": "Harp",
+      "ko": "하프",
+      "ja": "ハープ",
+      "zh-TW": "豎琴",
+      "zh-CN": "竖琴",
+      "fr": "Harpe",
+      "de": "Harfe",
+      "es": "Arpa"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_327",
+    "itemId": "I1113",
+    "name": {
+      "en": "Tea Set",
+      "ko": "티 세트",
+      "ja": "ティーセット",
+      "zh-TW": "茶具組",
+      "zh-CN": "茶具组",
+      "fr": "Service à thé",
+      "de": "Tee-Set",
+      "es": "Set de té"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_328",
+    "itemId": "I0095",
+    "name": {
+      "en": "Antique Chest",
+      "ko": "앤티크 수납장",
+      "ja": "アンティーククローゼット",
+      "zh-TW": "古典收納櫃",
+      "zh-CN": "古典收纳柜",
+      "fr": "Commode antique",
+      "de": "Antike Truhe",
+      "es": "Cómoda antigua"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_329",
+    "itemId": "I0222",
+    "name": {
+      "en": "Photo Frame",
+      "ko": "사진 액자",
+      "ja": "しゃしんたて",
+      "zh-TW": "相框",
+      "zh-CN": "相框",
+      "fr": "Cadre photo",
+      "de": "Bilderrahmen",
+      "es": "Marco de fotos"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_330",
+    "itemId": "I1393",
+    "name": {
+      "en": "Music Box",
+      "ko": "오르골",
+      "ja": "オルゴール",
+      "zh-TW": "音樂盒",
+      "zh-CN": "音乐盒",
+      "fr": "Boîte à musique",
+      "de": "Spieluhr",
+      "es": "Caja de música"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_331",
+    "itemId": "I1371",
+    "name": {
+      "en": "Marine Closet",
+      "ko": "마린 옷장",
+      "ja": "マリンなクローゼット",
+      "zh-TW": "海洋衣櫃",
+      "zh-CN": "海洋衣柜",
+      "fr": "Armoire marine",
+      "de": "Meeres-Kleiderschrank",
+      "es": "Armario marino"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_332",
+    "itemId": "I1381",
+    "name": {
+      "en": "Marine Dresser",
+      "ko": "마린 화장대",
+      "ja": "マリンなドレッサー",
+      "zh-TW": "海洋梳妝台",
+      "zh-CN": "海洋梳妆台",
+      "fr": "Coiffeuse marine",
+      "de": "Meeres-Frisiertisch",
+      "es": "Tocador marino"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_333",
+    "itemId": "I1462",
+    "name": {
+      "en": "Ornate Partition",
+      "ko": "화려한 칸막이",
+      "ja": "みやびなしきり",
+      "zh-TW": "華麗隔板",
+      "zh-CN": "华丽隔板",
+      "fr": "Cloison ornée",
+      "de": "Verzierte Trennwand",
+      "es": "Tabique ornamentado"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_334",
+    "itemId": "I1379",
+    "name": {
+      "en": "Ornate Bed",
+      "ko": "화려한 침대",
+      "ja": "みやびなベッド",
+      "zh-TW": "華麗床",
+      "zh-CN": "华丽床",
+      "fr": "Lit orné",
+      "de": "Verziertes Bett",
+      "es": "Cama ornamentada"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_335",
+    "itemId": "I1373",
+    "name": {
+      "en": "Ornate Stand",
+      "ko": "화려한 선반",
+      "ja": "みやびなスタンド",
+      "zh-TW": "華麗置物架",
+      "zh-CN": "华丽置物架",
+      "fr": "Support orné",
+      "de": "Verzierter Ständer",
+      "es": "Soporte ornamentado"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_336",
+    "itemId": "I0111",
+    "name": {
+      "en": "Exhibition Stand",
+      "ko": "전시대",
+      "ja": "てんじだい",
+      "zh-TW": "展示台",
+      "zh-CN": "展示台",
+      "fr": "Présentoir",
+      "de": "Ausstellungsstand",
+      "es": "Expositor"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_337",
+    "itemId": "I1378",
+    "name": {
+      "en": "Marine Sofa",
+      "ko": "마린 소파",
+      "ja": "マリンなソファ",
+      "zh-TW": "海洋沙發",
+      "zh-CN": "海洋沙发",
+      "fr": "Canapé marin",
+      "de": "Meeres-Sofa",
+      "es": "Sofá marino"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_338",
+    "itemId": "I1395",
+    "name": {
+      "en": "Decorative Great Ball",
+      "ko": "장식용 슈퍼볼",
+      "ja": "かざりスーパーボール",
+      "zh-TW": "裝飾用超級球",
+      "zh-CN": "装饰用超级球",
+      "fr": "Super Ball décorative",
+      "de": "Deko-Superball",
+      "es": "Super Ball decorativa"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_339",
+    "itemId": "I1396",
+    "name": {
+      "en": "Decorative Heal Ball",
+      "ko": "장식용 힐볼",
+      "ja": "かざりヒールボール",
+      "zh-TW": "裝飾用治癒球",
+      "zh-CN": "装饰用治愈球",
+      "fr": "Soin Ball décorative",
+      "de": "Deko-Heilball",
+      "es": "Sana Ball decorativa"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_340",
+    "itemId": "I1398",
+    "name": {
+      "en": "Decorative Dive Ball",
+      "ko": "장식용 다이브볼",
+      "ja": "かざりダイブボール",
+      "zh-TW": "裝飾用潛水球",
+      "zh-CN": "装饰用潜水球",
+      "fr": "Scuba Ball décorative",
+      "de": "Deko-Tauchball",
+      "es": "Buceo Ball decorativa"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_341",
+    "itemId": "I1399",
+    "name": {
+      "en": "Decorative Net Ball",
+      "ko": "장식용 네트볼",
+      "ja": "かざりネットボール",
+      "zh-TW": "裝飾用捕網球",
+      "zh-CN": "装饰用捕网球",
+      "fr": "Filet Ball décorative",
+      "de": "Deko-Netzball",
+      "es": "Malla Ball decorativa"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_342",
+    "itemId": "I1400",
+    "name": {
+      "en": "Decorative Lure Ball",
+      "ko": "장식용 루어볼",
+      "ja": "かざりルアーボール",
+      "zh-TW": "裝飾用誘餌球",
+      "zh-CN": "装饰用诱饵球",
+      "fr": "Appât Ball décorative",
+      "de": "Deko-Köderball",
+      "es": "Cebo Ball decorativa"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  },
+  {
+    "id": "mat_343",
+    "itemId": "I1397",
+    "name": {
+      "en": "Decorative Quick Ball",
+      "ko": "장식용 퀵볼",
+      "ja": "かざりクイックボール",
+      "zh-TW": "裝飾用先機球",
+      "zh-CN": "装饰用先机球",
+      "fr": "Rapide Ball décorative",
+      "de": "Deko-Flottball",
+      "es": "Veloz Ball decorativa"
+    },
+    "imageUrl": null,
+    "sources": [],
+    "usedInHabitatNames": [],
+    "usageCount": 0,
+    "dlcId": "DLC1"
+  }
+]
