@@ -30,9 +30,7 @@
     "imageUrl": "/images/habitats/H001.webp",
     "slug": "tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H001.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H002",
@@ -71,9 +69,7 @@
     "imageUrl": "/images/habitats/H002.webp",
     "slug": "tree-shaded-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H002.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H003",
@@ -109,9 +105,7 @@
     "imageUrl": "/images/habitats/H003.webp",
     "slug": "boulder-shaded-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H003.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H004",
@@ -149,9 +143,7 @@
     "imageUrl": "/images/habitats/H004.webp",
     "slug": "hydrated-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H004.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H005",
@@ -187,9 +179,7 @@
     "imageUrl": "/images/habitats/H005.webp",
     "slug": "seaside-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H005.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H006",
@@ -226,9 +216,7 @@
     "imageUrl": "/images/habitats/H006.webp",
     "slug": "elevated-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H006.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H007",
@@ -263,9 +251,7 @@
     "imageUrl": "/images/habitats/H007.webp",
     "slug": "illuminated-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H007.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H008",
@@ -298,9 +284,7 @@
     "imageUrl": "/images/habitats/H008.webp",
     "slug": "pretty-flower-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H008.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H009",
@@ -336,9 +320,7 @@
     "imageUrl": "/images/habitats/H009.webp",
     "slug": "tree-shaded-flower-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H009.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H010",
@@ -373,9 +355,7 @@
     "imageUrl": "/images/habitats/H010.webp",
     "slug": "hydrated-flower-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H010.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H011",
@@ -405,9 +385,7 @@
     "imageUrl": "/images/habitats/H011.webp",
     "slug": "field-of-flowers",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H011.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H012",
@@ -442,9 +420,7 @@
     "imageUrl": "/images/habitats/H012.webp",
     "slug": "elevated-flower-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H012.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H013",
@@ -479,9 +455,7 @@
     "imageUrl": "/images/habitats/H013.webp",
     "slug": "grave-with-flowers",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H013.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H014",
@@ -516,9 +490,7 @@
     "imageUrl": "/images/habitats/H014.webp",
     "slug": "flower-garden",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H014.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H015",
@@ -548,9 +520,7 @@
     "imageUrl": "/images/habitats/H015.webp",
     "slug": "fresh-veggie-field",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H015.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H016",
@@ -578,9 +548,7 @@
     "imageUrl": "/images/habitats/H016.webp",
     "slug": "riding-warm-updrafts",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H016.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H017",
@@ -620,9 +588,7 @@
     "imageUrl": "/images/habitats/H017.webp",
     "slug": "campsite",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H017.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H018",
@@ -662,9 +628,7 @@
     "imageUrl": "/images/habitats/H018.webp",
     "slug": "training-waterfall",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H018.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H019",
@@ -704,9 +668,7 @@
     "imageUrl": "/images/habitats/H019.webp",
     "slug": "tantalizing-dining-set",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H019.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H020",
@@ -747,9 +709,7 @@
     "imageUrl": "/images/habitats/H020.webp",
     "slug": "picnic-set",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H020.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H021",
@@ -790,9 +750,7 @@
     "imageUrl": "/images/habitats/H021.webp",
     "slug": "flowery-table",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H021.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H022",
@@ -828,9 +786,7 @@
     "imageUrl": "/images/habitats/H022.webp",
     "slug": "bench-with-greenery",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H022.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H023",
@@ -865,9 +821,7 @@
     "imageUrl": "/images/habitats/H023.webp",
     "slug": "illuminated-bench",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H023.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H024",
@@ -901,9 +855,7 @@
     "imageUrl": "/images/habitats/H024.webp",
     "slug": "exercise-resting-spot",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H024.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H025",
@@ -943,9 +895,7 @@
     "imageUrl": "/images/habitats/H025.webp",
     "slug": "urgent-care",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H025.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H026",
@@ -985,9 +935,7 @@
     "imageUrl": "/images/habitats/H026.webp",
     "slug": "gym-first-aid",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H026.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H027",
@@ -1022,9 +970,7 @@
     "imageUrl": "/images/habitats/H027.webp",
     "slug": "road-sign",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H027.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H028",
@@ -1060,9 +1006,7 @@
     "imageUrl": "/images/habitats/H028.webp",
     "slug": "large-luggage-carrier",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H028.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H029",
@@ -1110,9 +1054,7 @@
     "imageUrl": "/images/habitats/H029.webp",
     "slug": "lumberjacks-workplace",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H029.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H030",
@@ -1149,9 +1091,7 @@
     "imageUrl": "/images/habitats/H030.webp",
     "slug": "bed-with-a-plush",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H030.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H031",
@@ -1192,9 +1132,7 @@
     "imageUrl": "/images/habitats/H031.webp",
     "slug": "gently-lit-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H031.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H032",
@@ -1235,9 +1173,7 @@
     "imageUrl": "/images/habitats/H032.webp",
     "slug": "grave-offering",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H032.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H033",
@@ -1279,9 +1215,7 @@
     "imageUrl": "/images/habitats/H033.webp",
     "slug": "creepy-grave-offering",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H033.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H034",
@@ -1322,9 +1256,7 @@
     "imageUrl": "/images/habitats/H034.webp",
     "slug": "chansey-resting-area",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H034.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H035",
@@ -1365,9 +1297,7 @@
     "imageUrl": "/images/habitats/H035.webp",
     "slug": "irresistible-scent-and-glow",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H035.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H036",
@@ -1407,9 +1337,7 @@
     "imageUrl": "/images/habitats/H036.webp",
     "slug": "floating-in-the-shade",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H036.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H037",
@@ -1443,9 +1371,7 @@
     "imageUrl": "/images/habitats/H037.webp",
     "slug": "smooth-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H037.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H038",
@@ -1491,9 +1417,7 @@
     "imageUrl": "/images/habitats/H038.webp",
     "slug": "factory-storage",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H038.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H039",
@@ -1527,9 +1451,7 @@
     "imageUrl": "/images/habitats/H039.webp",
     "slug": "luxury-chirp-chirp-meal",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H039.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H040",
@@ -1575,9 +1497,7 @@
     "imageUrl": "/images/habitats/H040.webp",
     "slug": "berry-feast-campsite",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H040.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H041",
@@ -1611,9 +1531,7 @@
     "imageUrl": "/images/habitats/H041.webp",
     "slug": "rain-dance-site",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H041.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H042",
@@ -1647,9 +1565,7 @@
     "imageUrl": "/images/habitats/H042.webp",
     "slug": "sunny-day-site",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H042.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H043",
@@ -1689,9 +1605,7 @@
     "imageUrl": "/images/habitats/H043.webp",
     "slug": "professors-treasure-trove",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H043.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H044",
@@ -1733,9 +1647,7 @@
     "imageUrl": "/images/habitats/H044.webp",
     "slug": "cozy-log-handicrafts",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H044.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H045",
@@ -1781,9 +1693,7 @@
     "imageUrl": "/images/habitats/H045.webp",
     "slug": "very-berry-space",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H045.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H046",
@@ -1829,9 +1739,7 @@
     "imageUrl": "/images/habitats/H046.webp",
     "slug": "garden-terrace",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H046.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H047",
@@ -1866,9 +1774,7 @@
     "imageUrl": "/images/habitats/H047.webp",
     "slug": "tree-shaded-snoozing-snorlax",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H047.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H048",
@@ -1915,9 +1821,7 @@
     "imageUrl": "/images/habitats/H048.webp",
     "slug": "good-old-fashioned-antiques",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H048.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H049",
@@ -1963,9 +1867,7 @@
     "imageUrl": "/images/habitats/H049.webp",
     "slug": "nothin-but-poke-balls",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H049.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H050",
@@ -1995,9 +1897,7 @@
     "imageUrl": "/images/habitats/H050.webp",
     "slug": "yellow-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H050.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H051",
@@ -2034,9 +1934,7 @@
     "imageUrl": "/images/habitats/H051.webp",
     "slug": "tree-shaded-yellow-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H051.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H052",
@@ -2072,9 +1970,7 @@
     "imageUrl": "/images/habitats/H052.webp",
     "slug": "elevated-yellow-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H052.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H053",
@@ -2111,9 +2007,7 @@
     "imageUrl": "/images/habitats/H053.webp",
     "slug": "hydrated-yellow-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H053.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H054",
@@ -2148,9 +2042,7 @@
     "imageUrl": "/images/habitats/H054.webp",
     "slug": "marshy-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H054.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H055",
@@ -2184,9 +2076,7 @@
     "imageUrl": "/images/habitats/H055.webp",
     "slug": "overgrowth-vending-machine",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H055.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H056",
@@ -2216,9 +2106,7 @@
     "imageUrl": "/images/habitats/H056.webp",
     "slug": "breezy-flower-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H056.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H057",
@@ -2254,9 +2142,7 @@
     "imageUrl": "/images/habitats/H057.webp",
     "slug": "tropical-vibes",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H057.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H058",
@@ -2291,9 +2177,7 @@
     "imageUrl": "/images/habitats/H058.webp",
     "slug": "windy-flower-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H058.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H059",
@@ -2328,9 +2212,7 @@
     "imageUrl": "/images/habitats/H059.webp",
     "slug": "shaded-beach",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H059.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H060",
@@ -2370,9 +2252,7 @@
     "imageUrl": "/images/habitats/H060.webp",
     "slug": "tropical-seaside",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H060.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H061",
@@ -2406,9 +2286,7 @@
     "imageUrl": "/images/habitats/H061.webp",
     "slug": "resting-spot",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H061.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H062",
@@ -2443,9 +2321,7 @@
     "imageUrl": "/images/habitats/H062.webp",
     "slug": "perpetual-mess",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H062.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H063",
@@ -2488,9 +2364,7 @@
     "imageUrl": "/images/habitats/H063.webp",
     "slug": "trash-collection-site",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H063.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H064",
@@ -2520,9 +2394,7 @@
     "imageUrl": "/images/habitats/H064.webp",
     "slug": "trash-can-central",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H064.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H065",
@@ -2556,9 +2428,7 @@
     "imageUrl": "/images/habitats/H065.webp",
     "slug": "trash-disposal-site",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H065.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H066",
@@ -2594,9 +2464,7 @@
     "imageUrl": "/images/habitats/H066.webp",
     "slug": "park-bench",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H066.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H067",
@@ -2643,9 +2511,7 @@
     "imageUrl": "/images/habitats/H067.webp",
     "slug": "tantalizing-restaurant",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H067.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H068",
@@ -2697,9 +2563,7 @@
     "imageUrl": "/images/habitats/H068.webp",
     "slug": "tableside-delivery-cart",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H068.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H069",
@@ -2740,9 +2604,7 @@
     "imageUrl": "/images/habitats/H069.webp",
     "slug": "chirp-chirp-meal",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H069.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H070",
@@ -2795,9 +2657,7 @@
     "imageUrl": "/images/habitats/H070.webp",
     "slug": "cafe-space",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H070.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H071",
@@ -2839,9 +2699,7 @@
     "imageUrl": "/images/habitats/H071.webp",
     "slug": "beach-set",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H071.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H072",
@@ -2876,9 +2734,7 @@
     "imageUrl": "/images/habitats/H072.webp",
     "slug": "light-up-stage",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H072.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H073",
@@ -2914,9 +2770,7 @@
     "imageUrl": "/images/habitats/H073.webp",
     "slug": "surprise-in-store",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H073.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H074",
@@ -2950,9 +2804,7 @@
     "imageUrl": "/images/habitats/H074.webp",
     "slug": "night-festival-venue",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H074.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H075",
@@ -2986,9 +2838,7 @@
     "imageUrl": "/images/habitats/H075.webp",
     "slug": "changing-area",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H075.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H076",
@@ -3029,9 +2879,7 @@
     "imageUrl": "/images/habitats/H076.webp",
     "slug": "private-makeup-stand",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H076.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H077",
@@ -3072,9 +2920,7 @@
     "imageUrl": "/images/habitats/H077.webp",
     "slug": "knitting-station",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H077.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H078",
@@ -3115,9 +2961,7 @@
     "imageUrl": "/images/habitats/H078.webp",
     "slug": "hot-spring-shower",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H078.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H079",
@@ -3165,9 +3009,7 @@
     "imageUrl": "/images/habitats/H079.webp",
     "slug": "resort-meal-prep",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H079.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H080",
@@ -3203,9 +3045,7 @@
     "imageUrl": "/images/habitats/H080.webp",
     "slug": "all-packed-up",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H080.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H081",
@@ -3246,9 +3086,7 @@
     "imageUrl": "/images/habitats/H081.webp",
     "slug": "full-recovery",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H081.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H082",
@@ -3288,9 +3126,7 @@
     "imageUrl": "/images/habitats/H082.webp",
     "slug": "alarm-clock-sleep-zone",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H082.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H083",
@@ -3325,9 +3161,7 @@
     "imageUrl": "/images/habitats/H083.webp",
     "slug": "vending-machine-break-area",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H083.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H084",
@@ -3362,9 +3196,7 @@
     "imageUrl": "/images/habitats/H084.webp",
     "slug": "vending-machine-set",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H084.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H085",
@@ -3405,9 +3237,7 @@
     "imageUrl": "/images/habitats/H085.webp",
     "slug": "mini-game-corner",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H085.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H086",
@@ -3448,9 +3278,7 @@
     "imageUrl": "/images/habitats/H086.webp",
     "slug": "waterwheel-spot",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H086.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H087",
@@ -3485,9 +3313,7 @@
     "imageUrl": "/images/habitats/H087.webp",
     "slug": "furnace-spot",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H087.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H088",
@@ -3528,9 +3354,7 @@
     "imageUrl": "/images/habitats/H088.webp",
     "slug": "dock",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H088.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H089",
@@ -3577,9 +3401,7 @@
     "imageUrl": "/images/habitats/H089.webp",
     "slug": "spooky-study",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H089.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H090",
@@ -3620,9 +3442,7 @@
     "imageUrl": "/images/habitats/H090.webp",
     "slug": "playing-pirate",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H090.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H091",
@@ -3659,9 +3479,7 @@
     "imageUrl": "/images/habitats/H091.webp",
     "slug": "working-the-register",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H091.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H092",
@@ -3695,9 +3513,7 @@
     "imageUrl": "/images/habitats/H092.webp",
     "slug": "tiny-atelier",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H092.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H093",
@@ -3725,9 +3541,7 @@
     "imageUrl": "/images/habitats/H093.webp",
     "slug": "gourmets-altar",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H093.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H094",
@@ -3761,9 +3575,7 @@
     "imageUrl": "/images/habitats/H094.webp",
     "slug": "pikachu-space",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H094.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H095",
@@ -3815,9 +3627,7 @@
     "imageUrl": "/images/habitats/H095.webp",
     "slug": "cuteness-overload",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H095.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H096",
@@ -3863,9 +3673,7 @@
     "imageUrl": "/images/habitats/H096.webp",
     "slug": "welcoming-resort",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H096.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H097",
@@ -3911,9 +3719,7 @@
     "imageUrl": "/images/habitats/H097.webp",
     "slug": "plain-life",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H097.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H098",
@@ -3945,9 +3751,7 @@
     "imageUrl": "/images/habitats/H098.webp",
     "slug": "red-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H098.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H099",
@@ -3984,9 +3788,7 @@
     "imageUrl": "/images/habitats/H099.webp",
     "slug": "tree-shaded-red-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H099.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H100",
@@ -4027,9 +3829,7 @@
     "imageUrl": "/images/habitats/H100.webp",
     "slug": "pointy-tree-shaded-rocky-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H100.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H101",
@@ -4064,9 +3864,7 @@
     "imageUrl": "/images/habitats/H101.webp",
     "slug": "hydrated-red-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H101.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H102",
@@ -4102,9 +3900,7 @@
     "imageUrl": "/images/habitats/H102.webp",
     "slug": "elevated-red-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H102.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H103",
@@ -4139,9 +3935,7 @@
     "imageUrl": "/images/habitats/H103.webp",
     "slug": "grassy-training-field",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H103.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H104",
@@ -4173,9 +3967,7 @@
     "imageUrl": "/images/habitats/H104.webp",
     "slug": "graceful-flower-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H104.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H105",
@@ -4211,9 +4003,7 @@
     "imageUrl": "/images/habitats/H105.webp",
     "slug": "tree-shaded-graceful-flower-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H105.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H106",
@@ -4249,9 +4039,7 @@
     "imageUrl": "/images/habitats/H106.webp",
     "slug": "hydrated-graceful-flower-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H106.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H107",
@@ -4293,9 +4081,7 @@
     "imageUrl": "/images/habitats/H107.webp",
     "slug": "flower-garden-stump-stage",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H107.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H108",
@@ -4329,9 +4115,7 @@
     "imageUrl": "/images/habitats/H108.webp",
     "slug": "toil-in-the-soil",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H108.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H109",
@@ -4366,9 +4150,7 @@
     "imageUrl": "/images/habitats/H109.webp",
     "slug": "uplifting-duckweed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H109.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H110",
@@ -4397,9 +4179,7 @@
     "imageUrl": "/images/habitats/H110.webp",
     "slug": "mossy-rest-spot",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H110.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H111",
@@ -4434,9 +4214,7 @@
     "imageUrl": "/images/habitats/H111.webp",
     "slug": "mossy-boulder",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H111.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H112",
@@ -4470,9 +4248,7 @@
     "imageUrl": "/images/habitats/H112.webp",
     "slug": "mossy-hot-spring",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H112.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H113",
@@ -4506,9 +4282,7 @@
     "imageUrl": "/images/habitats/H113.webp",
     "slug": "open-air-bath",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H113.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H114",
@@ -4548,9 +4322,7 @@
     "imageUrl": "/images/habitats/H114.webp",
     "slug": "harmonious-hot-spring",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H114.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H115",
@@ -4585,9 +4357,7 @@
     "imageUrl": "/images/habitats/H115.webp",
     "slug": "piping-hot-lava",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H115.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H116",
@@ -4627,9 +4397,7 @@
     "imageUrl": "/images/habitats/H116.webp",
     "slug": "digging-and-burning",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H116.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H117",
@@ -4676,9 +4444,7 @@
     "imageUrl": "/images/habitats/H117.webp",
     "slug": "clink-clang-iron-construction",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H117.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H118",
@@ -4725,9 +4491,7 @@
     "imageUrl": "/images/habitats/H118.webp",
     "slug": "creepy-white-rocks",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H118.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H119",
@@ -4775,9 +4539,7 @@
     "imageUrl": "/images/habitats/H119.webp",
     "slug": "container-snacking",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H119.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H120",
@@ -4817,9 +4579,7 @@
     "imageUrl": "/images/habitats/H120.webp",
     "slug": "dinner-table-surprise",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H120.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H121",
@@ -4860,9 +4620,7 @@
     "imageUrl": "/images/habitats/H121.webp",
     "slug": "best-bread-bakery",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H121.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H122",
@@ -4908,9 +4666,7 @@
     "imageUrl": "/images/habitats/H122.webp",
     "slug": "mini-kitchen",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H122.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H123",
@@ -4951,9 +4707,7 @@
     "imageUrl": "/images/habitats/H123.webp",
     "slug": "house-party",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H123.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H124",
@@ -4987,9 +4741,7 @@
     "imageUrl": "/images/habitats/H124.webp",
     "slug": "lazy-photo-album-scrolling",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H124.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H125",
@@ -5024,9 +4776,7 @@
     "imageUrl": "/images/habitats/H125.webp",
     "slug": "chirping-recital",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H125.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H126",
@@ -5067,9 +4817,7 @@
     "imageUrl": "/images/habitats/H126.webp",
     "slug": "recital-stage",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H126.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H127",
@@ -5111,9 +4859,7 @@
     "imageUrl": "/images/habitats/H127.webp",
     "slug": "box-to-the-rhythm",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H127.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H128",
@@ -5155,9 +4901,7 @@
     "imageUrl": "/images/habitats/H128.webp",
     "slug": "music-and-magazines",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H128.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H129",
@@ -5198,9 +4942,7 @@
     "imageUrl": "/images/habitats/H129.webp",
     "slug": "mini-museum",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H129.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H130",
@@ -5247,9 +4989,7 @@
     "imageUrl": "/images/habitats/H130.webp",
     "slug": "refreshing-locker-room",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H130.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H131",
@@ -5290,9 +5030,7 @@
     "imageUrl": "/images/habitats/H131.webp",
     "slug": "bronze-landmark",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H131.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H132",
@@ -5328,9 +5066,7 @@
     "imageUrl": "/images/habitats/H132.webp",
     "slug": "railroad-crossing",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H132.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H133",
@@ -5388,9 +5124,7 @@
     "imageUrl": "/images/habitats/H133.webp",
     "slug": "chefs-kitchen",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H133.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H134",
@@ -5436,9 +5170,7 @@
     "imageUrl": "/images/habitats/H134.webp",
     "slug": "absolute-luxury",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H134.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H135",
@@ -5484,9 +5216,7 @@
     "imageUrl": "/images/habitats/H135.webp",
     "slug": "heavy-iron",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H135.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H136",
@@ -5526,9 +5256,7 @@
     "imageUrl": "/images/habitats/H136.webp",
     "slug": "modern-living",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H136.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H137",
@@ -5560,9 +5288,7 @@
     "imageUrl": "/images/habitats/H137.webp",
     "slug": "pink-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H137.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H138",
@@ -5599,9 +5325,7 @@
     "imageUrl": "/images/habitats/H138.webp",
     "slug": "tree-shaded-pink-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H138.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H139",
@@ -5637,9 +5361,7 @@
     "imageUrl": "/images/habitats/H139.webp",
     "slug": "hydrated-pink-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H139.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H140",
@@ -5676,9 +5398,7 @@
     "imageUrl": "/images/habitats/H140.webp",
     "slug": "elevated-pink-tall-grass",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H140.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H141",
@@ -5713,9 +5433,7 @@
     "imageUrl": "/images/habitats/H141.webp",
     "slug": "concrete-pipe-secret-base",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H141.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H142",
@@ -5747,9 +5465,7 @@
     "imageUrl": "/images/habitats/H142.webp",
     "slug": "fluffy-flower-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H142.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H143",
@@ -5786,9 +5502,7 @@
     "imageUrl": "/images/habitats/H143.webp",
     "slug": "tree-shaded-fluffy-flower-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H143.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H144",
@@ -5824,9 +5538,7 @@
     "imageUrl": "/images/habitats/H144.webp",
     "slug": "hydrated-fluffy-flower-bed",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H144.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H145",
@@ -5872,9 +5584,7 @@
     "imageUrl": "/images/habitats/H145.webp",
     "slug": "waterside-dinghy",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H145.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H146",
@@ -5920,9 +5630,7 @@
     "imageUrl": "/images/habitats/H146.webp",
     "slug": "illuminated-waterfall",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H146.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H147",
@@ -5956,9 +5664,7 @@
     "imageUrl": "/images/habitats/H147.webp",
     "slug": "birdsong-garden",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H147.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H148",
@@ -5993,9 +5699,7 @@
     "imageUrl": "/images/habitats/H148.webp",
     "slug": "simple-bathroom",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H148.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H149",
@@ -6029,9 +5733,7 @@
     "imageUrl": "/images/habitats/H149.webp",
     "slug": "cycling-rest-stop",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H149.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H150",
@@ -6066,9 +5768,7 @@
     "imageUrl": "/images/habitats/H150.webp",
     "slug": "fireplace-nap-spot",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H150.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H151",
@@ -6103,9 +5803,7 @@
     "imageUrl": "/images/habitats/H151.webp",
     "slug": "surging-psychic-power",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H151.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H152",
@@ -6146,9 +5844,7 @@
     "imageUrl": "/images/habitats/H152.webp",
     "slug": "fortune-tellers-table",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H152.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H153",
@@ -6183,9 +5879,7 @@
     "imageUrl": "/images/habitats/H153.webp",
     "slug": "trash-site-tv",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H153.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H154",
@@ -6232,9 +5926,7 @@
     "imageUrl": "/images/habitats/H154.webp",
     "slug": "oversized-dumping-ground",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H154.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H155",
@@ -6281,9 +5973,7 @@
     "imageUrl": "/images/habitats/H155.webp",
     "slug": "interrogation-desk",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H155.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H156",
@@ -6331,9 +6021,7 @@
     "imageUrl": "/images/habitats/H156.webp",
     "slug": "sewer-hole-inspection",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H156.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H157",
@@ -6374,9 +6062,7 @@
     "imageUrl": "/images/habitats/H157.webp",
     "slug": "spotless-washing-station",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H157.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H158",
@@ -6416,9 +6102,7 @@
     "imageUrl": "/images/habitats/H158.webp",
     "slug": "home-theater",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H158.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H159",
@@ -6465,9 +6149,7 @@
     "imageUrl": "/images/habitats/H159.webp",
     "slug": "study-area",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H159.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H160",
@@ -6508,9 +6190,7 @@
     "imageUrl": "/images/habitats/H160.webp",
     "slug": "rhythmic-living-room",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H160.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H161",
@@ -6544,9 +6224,7 @@
     "imageUrl": "/images/habitats/H161.webp",
     "slug": "squeaky-clean",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H161.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H162",
@@ -6587,9 +6265,7 @@
     "imageUrl": "/images/habitats/H162.webp",
     "slug": "moisturizing-makeup-stand",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H162.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H163",
@@ -6635,9 +6311,7 @@
     "imageUrl": "/images/habitats/H163.webp",
     "slug": "mini-library",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H163.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H164",
@@ -6671,9 +6345,7 @@
     "imageUrl": "/images/habitats/H164.webp",
     "slug": "game-corner-battle-zone",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H164.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H165",
@@ -6707,9 +6379,7 @@
     "imageUrl": "/images/habitats/H165.webp",
     "slug": "playland",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H165.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H166",
@@ -6755,9 +6425,7 @@
     "imageUrl": "/images/habitats/H166.webp",
     "slug": "work-desk",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H166.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H167",
@@ -6800,9 +6468,7 @@
     "imageUrl": "/images/habitats/H167.webp",
     "slug": "office-storeroom",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H167.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H168",
@@ -6842,9 +6508,7 @@
     "imageUrl": "/images/habitats/H168.webp",
     "slug": "experiment-space",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H168.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H169",
@@ -6890,9 +6554,7 @@
     "imageUrl": "/images/habitats/H169.webp",
     "slug": "professors-apprentice-program",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H169.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H170",
@@ -6932,9 +6594,7 @@
     "imageUrl": "/images/habitats/H170.webp",
     "slug": "researchers-desk",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H170.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H171",
@@ -6969,9 +6629,7 @@
     "imageUrl": "/images/habitats/H171.webp",
     "slug": "public-reading-material",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H171.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H172",
@@ -7011,9 +6669,7 @@
     "imageUrl": "/images/habitats/H172.webp",
     "slug": "heart-pounding-surprise-box",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H172.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H173",
@@ -7048,9 +6704,7 @@
     "imageUrl": "/images/habitats/H173.webp",
     "slug": "prank-button",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H173.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H174",
@@ -7091,9 +6745,7 @@
     "imageUrl": "/images/habitats/H174.webp",
     "slug": "picturesque-photo-cutout-board",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H174.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H175",
@@ -7133,9 +6785,7 @@
     "imageUrl": "/images/habitats/H175.webp",
     "slug": "tire-park",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H175.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H176",
@@ -7181,9 +6831,7 @@
     "imageUrl": "/images/habitats/H176.webp",
     "slug": "natures-market",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H176.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H177",
@@ -7223,9 +6871,7 @@
     "imageUrl": "/images/habitats/H177.webp",
     "slug": "construction-site-generator",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H177.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H178",
@@ -7260,9 +6906,7 @@
     "imageUrl": "/images/habitats/H178.webp",
     "slug": "dojo-training",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H178.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H179",
@@ -7302,9 +6946,7 @@
     "imageUrl": "/images/habitats/H179.webp",
     "slug": "evil-organization-hq",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H179.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H180",
@@ -7332,9 +6974,7 @@
     "imageUrl": "/images/habitats/H180.webp",
     "slug": "nine-flames",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H180.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H181",
@@ -7381,9 +7021,7 @@
     "imageUrl": "/images/habitats/H181.webp",
     "slug": "plush-central",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H181.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H182",
@@ -7435,9 +7073,7 @@
     "imageUrl": "/images/habitats/H182.webp",
     "slug": "gamers-paradise",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H182.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H183",
@@ -7477,9 +7113,7 @@
     "imageUrl": "/images/habitats/H183.webp",
     "slug": "top-pop",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H183.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H184",
@@ -7520,9 +7154,7 @@
     "imageUrl": "/images/habitats/H184.webp",
     "slug": "fishing-pond",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H184.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H185",
@@ -7564,9 +7196,7 @@
     "imageUrl": "/images/habitats/H185.webp",
     "slug": "ocean-fishing-spot",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H185.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H186",
@@ -7608,9 +7238,7 @@
     "imageUrl": "/images/habitats/H186.webp",
     "slug": "marsh-fishing-spot",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H186.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H187",
@@ -7651,9 +7279,7 @@
     "imageUrl": "/images/habitats/H187.webp",
     "slug": "hot-spring-fishing-spot",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H187.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H188",
@@ -7693,9 +7319,7 @@
     "imageUrl": "/images/habitats/H188.webp",
     "slug": "magma-fishing-spot",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H188.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H189",
@@ -7741,9 +7365,7 @@
     "imageUrl": "/images/habitats/H189.webp",
     "slug": "amped-rock-stage",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H189.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H190",
@@ -7789,9 +7411,7 @@
     "imageUrl": "/images/habitats/H190.webp",
     "slug": "low-key-rock-stage",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H190.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H191",
@@ -7837,9 +7457,7 @@
     "imageUrl": "/images/habitats/H191.webp",
     "slug": "malicious-knights-shrine",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H191.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H192",
@@ -7885,9 +7503,7 @@
     "imageUrl": "/images/habitats/H192.webp",
     "slug": "auspicious-knights-shrine",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H192.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H193",
@@ -7945,9 +7561,7 @@
     "imageUrl": "/images/habitats/H193.webp",
     "slug": "wing-fossil-display",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H193.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H194",
@@ -7981,9 +7595,7 @@
     "imageUrl": "/images/habitats/H194.webp",
     "slug": "skull-fossil-display",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H194.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H195",
@@ -8029,9 +7641,7 @@
     "imageUrl": "/images/habitats/H195.webp",
     "slug": "headbutt-fossil-display",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H195.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H196",
@@ -8065,9 +7675,7 @@
     "imageUrl": "/images/habitats/H196.webp",
     "slug": "armor-fossil-display",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H196.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H197",
@@ -8113,9 +7721,7 @@
     "imageUrl": "/images/habitats/H197.webp",
     "slug": "shield-fossil-display",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H197.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H198",
@@ -8149,9 +7755,7 @@
     "imageUrl": "/images/habitats/H198.webp",
     "slug": "jaw-fossil-display",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H198.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H199",
@@ -8203,9 +7807,7 @@
     "imageUrl": "/images/habitats/H199.webp",
     "slug": "despot-fossil-display",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H199.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H200",
@@ -8239,9 +7841,7 @@
     "imageUrl": "/images/habitats/H200.webp",
     "slug": "sail-fossil-display",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H200.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H201",
@@ -8287,9 +7887,7 @@
     "imageUrl": "/images/habitats/H201.webp",
     "slug": "tundra-fossil-display",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H201.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H202",
@@ -8329,9 +7927,7 @@
     "imageUrl": "/images/habitats/H202.webp",
     "slug": "boundless-blue-beverage",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H202.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H203",
@@ -8371,9 +7967,7 @@
     "imageUrl": "/images/habitats/H203.webp",
     "slug": "electrifying-potatoes",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H203.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H204",
@@ -8413,9 +8007,7 @@
     "imageUrl": "/images/habitats/H204.webp",
     "slug": "burning-hot-spice",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H204.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H205",
@@ -8455,9 +8047,7 @@
     "imageUrl": "/images/habitats/H205.webp",
     "slug": "elegant-daytime-treats",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H205.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H206",
@@ -8497,9 +8087,7 @@
     "imageUrl": "/images/habitats/H206.webp",
     "slug": "dark-chocolate-cookies",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H206.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H207",
@@ -8539,9 +8127,7 @@
     "imageUrl": "/images/habitats/H207.webp",
     "slug": "leafy-greens-sandwich",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H207.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H208",
@@ -8581,9 +8167,7 @@
     "imageUrl": "/images/habitats/H208.webp",
     "slug": "chilly-shaved-ice",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H208.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H209",
@@ -8623,9 +8207,7 @@
     "imageUrl": "/images/habitats/H209.webp",
     "slug": "lovely-ribbon-cake",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/H209.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "EH001",
@@ -8656,9 +8238,7 @@
     "eventId": "EVT001",
     "slug": "yellow-carpet",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/EH001.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "EH002",
@@ -8699,9 +8279,7 @@
     "eventId": "EVT001",
     "slug": "field-trip-friends",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/EH002.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "EH003",
@@ -8748,9 +8326,7 @@
     "eventId": "EVT001",
     "slug": "dandelion-lunchtime",
     "description": "",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/EH003.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "EH004",
@@ -8793,9 +8369,7 @@
     "imageUrl": "/images/habitats/EH004.webp",
     "seq": 9004,
     "slug": "treasure-hunting-set",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/EH004.webp",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "EH005",
@@ -8844,9 +8418,7 @@
     "eventId": "EVT005",
     "imageUrl": "/images/habitats/EH005.webp",
     "seq": 9005,
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/habitats/EH005.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H210",
@@ -8879,9 +8451,7 @@
     "dlcId": "DLC1",
     "description": "Tall grass that can be seen all over the sea floor. Marine Pokémon may come here to hide.",
     "slug": "basin-tall-grass",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/8c85289fcd0af034641e6dc0.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H211",
@@ -8925,9 +8495,7 @@
     "dlcId": "DLC1",
     "description": "Bushy tall grass and a variety of corals make this a perfect resting spot for Pokémon",
     "slug": "basin-tall-grass-and-coral",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/ad4f37529b4d1332bce4c5b2.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H212",
@@ -8960,9 +8528,7 @@
     "dlcId": "DLC1",
     "description": "A cluster of small flowers and luxuriant leaves that sways gently to and fro",
     "slug": "swaying-flower-bed",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/b22769627c0b326ac8c2d64e.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H213",
@@ -9000,9 +8566,7 @@
     "dlcId": "DLC1",
     "description": "This gorgeous tableau of colorful corals and basin flowers can lift your mood",
     "slug": "swaying-flower-bed-and-coral",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/8ce348bc281c51008f03f602.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H214",
@@ -9045,9 +8609,7 @@
     "dlcId": "DLC1",
     "description": "Flowers and seaweed sway gently beside rugged chimney rocks",
     "slug": "swaying-flower-bed-and-seaweed",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/3697c7051dbac76fd2d5daac.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H215",
@@ -9084,9 +8646,7 @@
     "dlcId": "DLC1",
     "description": "A bunch of seaweed near some netting. Somehow none of it gets tangled in the mesh.",
     "slug": "seaweed-and-netting",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/5fb6844128d37ff456788a16.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H216",
@@ -9131,9 +8691,7 @@
     "dlcId": "DLC1",
     "description": "Colorful corals of various sizes. Pokémon who are coral connoisseurs find them irresistible",
     "slug": "coral-congregation",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/350265379ead0297d8eddbd6.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H217",
@@ -9169,9 +8727,7 @@
     "dlcId": "DLC1",
     "description": "Both the basin tall grass and the pile of sand are hiding spots for Pokémon",
     "slug": "sandy-basin-tall-grass",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/b9efb95667dee22f96e92927.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H218",
@@ -9209,9 +8765,7 @@
     "dlcId": "DLC1",
     "description": "Get your rake and shovel, then start digging until you find what you're after!",
     "slug": "sandy-digging-spot",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/49da848c143ea64b4273ca22.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H219",
@@ -9253,9 +8807,7 @@
     "dlcId": "DLC1",
     "description": "Pokémon curious about the platform may pop out of the sandpile",
     "slug": "sandy-speech",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/dd7700115d3ef143708f54ce.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H220",
@@ -9302,9 +8854,7 @@
     "dlcId": "DLC1",
     "description": "A punching bag hanging near a set of dentures. Pokémon with big jaws mayy be tempted to take a bite.",
     "slug": "biteable-punching-bag",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/cf3b5550dd3684788f2b528d.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H221",
@@ -9336,9 +8886,7 @@
     "dlcId": "DLC1",
     "description": "The fluffy pink moss makes this spot very popular with aquatic Pokémon.",
     "slug": "marine-mossy-rest-spot",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/ad2e0b041d0605ab5a6af5a2.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H222",
@@ -9374,9 +8922,7 @@
     "dlcId": "DLC1",
     "description": "Even the heat of the molten rock could not stop the thick growth of moss",
     "slug": "molten-mossy-rest-spot",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/fbcd218e08a65d3860b6cce2.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H223",
@@ -9425,9 +8971,7 @@
     "dlcId": "DLC1",
     "description": "Creepy chimney rocks surrounded by sea moss. Pick up the lantern and take a closer look",
     "slug": "creepy-chimney-rocks",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/93b24ede9ad7514cd623da9d.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H224",
@@ -9476,9 +9020,7 @@
     "dlcId": "DLC1",
     "description": "Dig around the chimney rocks to see if you can find any treasure!",
     "slug": "chimney-rocks-dig-site",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/8b4ff9c010de313f329c9311.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H225",
@@ -9520,9 +9062,7 @@
     "dlcId": "DLC1",
     "description": "A treasure chest that's been tossed out with the trash. Open it up and see what's inside!",
     "slug": "discarded-treasure",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/0dec03ff5239e1f691d2e8d2.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H226",
@@ -9572,9 +9112,7 @@
     "dlcId": "DLC1",
     "description": "Turn the ship's wheel next to the treasure chest, just like a sea captain! Steady as she goes!",
     "slug": "playing-sailor",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/e328e8ed322d8d3790ac8777.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H227",
@@ -9617,9 +9155,7 @@
     "dlcId": "DLC1",
     "description": "Take the jewls out of the chest and illuminate them with the lantern.",
     "slug": "treasure-chest-and-sparkling-jewels",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/97d5d5843b02a0abb17bc2e5.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H228",
@@ -9661,9 +9197,7 @@
     "dlcId": "DLC1",
     "description": "Sit on the cushion beside the coral and relax while gazing at the light.",
     "slug": "ocean-rest-spot",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/cf284e986ff8e1a4be1482fc.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H229",
@@ -9704,9 +9238,7 @@
     "dlcId": "DLC1",
     "description": "Just power up the cash register, and you'll be ready for business in no time-even underwater!",
     "slug": "marine-shop",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/7ae76ca8dcae482e33bbd3c3.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H230",
@@ -9750,9 +9282,7 @@
     "dlcId": "DLC1",
     "description": "Sparkling jewelry and a bottled ship. These should be stored very carefully",
     "slug": "ocean-treasures",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/7f8b56eb3f874b1e01633b6d.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H231",
@@ -9794,9 +9324,7 @@
     "dlcId": "DLC1",
     "description": "Grab some berries and a blender, and you'll be all set to make smoothies",
     "slug": "smoothie-making-spot",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/344492e7a408f1e36c51084a.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H232",
@@ -9838,9 +9366,7 @@
     "dlcId": "DLC1",
     "description": "The huge cushion bed and fluffy doll create a soothing environment",
     "slug": "fluffy-relaxation",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/83a8cb51a871d476173fccb3.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H233",
@@ -9884,9 +9410,7 @@
     "dlcId": "DLC1",
     "description": "A cozy little canoe dock. Pokémon may come by to ride the canoe",
     "slug": "canoe-dock",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/809f05abb2284e3e1bbf41a4.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H234",
@@ -9936,9 +9460,7 @@
     "dlcId": "DLC1",
     "description": "Have fun in the muddy water by playing with the toys or riding the floating logs.",
     "slug": "muddy-playtime",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/d90667f87b86f483ba0cfbd4.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H235",
@@ -9986,9 +9508,7 @@
     "dlcId": "DLC1",
     "description": "A luxurious spa with a large, prominent fountain. Taking a mud bath may turn your skin silky smooth",
     "slug": "muddy-spa",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/66883bfb689145bc6f6bd79f.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H236",
@@ -10018,9 +9538,7 @@
     "dlcId": "DLC1",
     "description": "A row of lampions hanging upside down, but that's fine as long as they shine brightly",
     "slug": "topsy-turvy",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/48241e073a175514eb441ff9.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H237",
@@ -10056,9 +9574,7 @@
     "dlcId": "DLC1",
     "description": "Fill the tub and enjoy a fun bubbly bath time",
     "slug": "bubbly-bathtub",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/515ae9817e248b5804d849ff.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H238",
@@ -10095,9 +9611,7 @@
     "dlcId": "DLC1",
     "description": "Dance on a stage bursting with bubbles!",
     "slug": "bubbly-stage",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/1df7edfca7eedc6c1a590fb3.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H239",
@@ -10133,9 +9647,7 @@
     "dlcId": "DLC1",
     "description": "A shiny stage perfect for a trio. Gather everyone and get singing!",
     "slug": "glowing-stage-for-three",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/cf0c53f30885a3272d20a732.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H240",
@@ -10177,9 +9689,7 @@
     "dlcId": "DLC1",
     "description": "A harp that gleams in the lamplight. Try strumming a melody inspired by the ocean.",
     "slug": "elegant-concert",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/b5c6b3d0b3f14ff50475cc0a.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H241",
@@ -10234,9 +9744,7 @@
     "dlcId": "DLC1",
     "description": "Relax and enjoy teatime in a chic space while admiring a bottled ship.",
     "slug": "marine-teatime",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/15adf6f6f86125aa3ad46a18.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H242",
@@ -10296,9 +9804,7 @@
     "dlcId": "DLC1",
     "description": "Listen to the melody of the music box and take a stroll down memory lane.",
     "slug": "nostalgia-zone",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/ef9615b96ec6861c1af876fe.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H243",
@@ -10340,9 +9846,7 @@
     "dlcId": "DLC1",
     "description": "An elegant space adorned with shell and pearl furniture. You could probably get extra stylish here.",
     "slug": "marine-makeup-stand",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/58fef39c37b4ffba78f43aaa.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H244",
@@ -10384,9 +9888,7 @@
     "dlcId": "DLC1",
     "description": "Sleeping surrounded by gorgeously decorated furniture may help you drift into fancy dreams.",
     "slug": "gorgeous-sleeping-area",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/6679587452d4b80ce419e845.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "H245",
@@ -10458,9 +9960,7 @@
     "dlcId": "DLC1",
     "description": "This space with a shining pearl sofa feels ready for someone to arrive",
     "slug": "mermaids-gym",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/bbfb142e42fe0d755c4227fa.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "EH006",
@@ -10495,9 +9995,7 @@
     "location": "Event",
     "eventId": "EVT007",
     "slug": "exciting-beach",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/486ac9be378f81896e0092b9.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   },
   {
     "id": "EH007",
@@ -10537,8 +10035,6 @@
     "location": "Event",
     "eventId": "EVT007",
     "slug": "marine-leisure-activities",
-    "howToObtain": [],
-    "sourceImageUrl": "https://pokopiaworld.org/images/imported/b16e8ceef0d051e4209f7fae.png",
-    "sourceUrl": "https://pokopiaworld.org/habitats"
+    "howToObtain": []
   }
 ]

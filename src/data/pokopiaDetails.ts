@@ -2,7 +2,6 @@ export type PokopiaDetails = {
   pokopiaDexNumber: string;
   specialties: string[];
   habitats: string[];
-  sourceUrl: string;
   verifiedInGame: boolean;
 };
 
@@ -12,7 +11,6 @@ export const pokopiaDetails: Partial<Record<number, PokopiaDetails>> = {
     pokopiaDexNumber: "001",
     specialties: ["Grow"],
     habitats: ["Tall Grass"],
-    sourceUrl: "https://pokopiadb.com/database/pokemondex/001-bulbasaur",
     verifiedInGame: false,
   },
 };

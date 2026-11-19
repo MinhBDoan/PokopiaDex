@@ -1,5 +1,6 @@
 import { access, mkdir, writeFile } from "node:fs/promises";
 import { setTimeout as pause } from "node:timers/promises";
+import { saveSnapshot } from "./source-records.mjs";
 
 const origin = "https://pokopiaworld.org";
 async function get(url) {
@@ -65,10 +66,8 @@ try {
     }
     await Promise.all(Array.from({ length: 4 }, () => downloadIcons()));
   }
-  await writeFile(new URL("../src/data/items.generated.json", import.meta.url),
-    JSON.stringify(normalized, null, 2) + "\n");
-  await writeFile(new URL("../src/data/recipes.generated.json", import.meta.url),
-    JSON.stringify(recipes, null, 2) + "\n");
+  await saveSnapshot("items", normalized);
+  await saveSnapshot("recipes", recipes);
   console.log(`Imported ${items.length} items`);
 } catch (error) {
   console.error(error);

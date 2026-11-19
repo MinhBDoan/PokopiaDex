@@ -1,6 +1,7 @@
 import { useState } from "react";
 import importedItems from "../data/items.generated.json";
 import recipes from "../data/recipes.generated.json";
+import PaintVariations from "./PaintVariations";
 
 type Item = {
   id: string;
@@ -73,6 +74,7 @@ export default function ItemsView() {
             <h3>{selected.name.en}</h3>
             <span className="type-badge">{selected.category}</span>
             <p>{selected.description || "Description not available."}</p>
+            <PaintVariations key={selected.id} itemId={selected.id} />
             <h4>How to obtain</h4>
             {selected.howToObtain.length ? (
               <ul>{selected.howToObtain.map((hint, index) => <li key={index}>{hint}</li>)}</ul>
