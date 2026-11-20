@@ -82,7 +82,6 @@
       "name": "ivysaur"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/bulbasaur.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/bulbasaur?lang=en",
     "verifiedInGame": false
   },
   {
@@ -171,7 +170,6 @@
       "name": "venusaur"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ivysaur.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/ivysaur?lang=en",
     "verifiedInGame": false
   },
   {
@@ -264,7 +262,6 @@
       "name": "charmander"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/venusaur.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/venusaur?lang=en",
     "verifiedInGame": false
   },
   {
@@ -344,7 +341,6 @@
       "name": "charmeleon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/charmander.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/charmander?lang=en",
     "verifiedInGame": false
   },
   {
@@ -424,7 +420,6 @@
       "name": "charizard"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/charmeleon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/charmeleon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -517,7 +512,6 @@
       "name": "squirtle"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/charizard.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/charizard?lang=en",
     "verifiedInGame": false
   },
   {
@@ -602,7 +596,6 @@
       "name": "wartortle"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/squirtle.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/squirtle?lang=en",
     "verifiedInGame": false
   },
   {
@@ -682,7 +675,6 @@
       "name": "blastoise"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wartortle.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/wartortle?lang=en",
     "verifiedInGame": false
   },
   {
@@ -771,7 +763,6 @@
       "name": "pidgey"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/blastoise.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/blastoise?lang=en",
     "verifiedInGame": false
   },
   {
@@ -864,7 +855,6 @@
       "name": "pidgeotto"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pidgey.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/pidgey?lang=en",
     "verifiedInGame": false
   },
   {
@@ -952,7 +942,6 @@
       "name": "pidgeot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pidgeotto.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/pidgeotto?lang=en",
     "verifiedInGame": false
   },
   {
@@ -1040,7 +1029,6 @@
       "name": "oddish"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pidgeot.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/pidgeot?lang=en",
     "verifiedInGame": false
   },
   {
@@ -1124,7 +1112,6 @@
       "name": "gloom"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/oddish.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/oddish?lang=en",
     "verifiedInGame": false
   },
   {
@@ -1208,7 +1195,6 @@
       "name": "vileplume"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gloom.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/gloom?lang=en",
     "verifiedInGame": false
   },
   {
@@ -1296,7 +1282,6 @@
       "name": "bellosom"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/vileplume.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/vileplume?lang=en",
     "verifiedInGame": false
   },
   {
@@ -1380,7 +1365,6 @@
       "name": "paras"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/bellosom.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/bellosom?lang=en",
     "verifiedInGame": false
   },
   {
@@ -1469,7 +1453,6 @@
       "name": "parasect"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/paras.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/paras?lang=en",
     "verifiedInGame": false
   },
   {
@@ -1558,7 +1541,6 @@
       "name": "venonat"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/parasect.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/parasect?lang=en",
     "verifiedInGame": false
   },
   {
@@ -1647,7 +1629,6 @@
       "name": "venomoth"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/venonat.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/venonat?lang=en",
     "verifiedInGame": false
   },
   {
@@ -1736,7 +1717,6 @@
       "name": "bellsprout"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/venomoth.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/venomoth?lang=en",
     "verifiedInGame": false
   },
   {
@@ -1824,7 +1804,6 @@
       "name": "weepinbell"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/bellsprout.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/bellsprout?lang=en",
     "verifiedInGame": false
   },
   {
@@ -1917,7 +1896,6 @@
       "name": "victreebel"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/weepinbell.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/weepinbell?lang=en",
     "verifiedInGame": false
   },
   {
@@ -2010,7 +1988,6 @@
       "name": "slowpoke"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/victreebel.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/victreebel?lang=en",
     "verifiedInGame": false
   },
   {
@@ -2098,7 +2075,6 @@
       "name": "slowbro"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/slowpoke.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/slowpoke?lang=en",
     "verifiedInGame": false
   },
   {
@@ -2196,7 +2172,6 @@
       "name": "slowking"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/slowbro.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/slowbro?lang=en",
     "verifiedInGame": false
   },
   {
@@ -2294,7 +2269,6 @@
       "name": "magnemite"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/slowking.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/slowking?lang=en",
     "verifiedInGame": false
   },
   {
@@ -2378,7 +2352,6 @@
       "name": "magneton"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magnemite.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/magnemite?lang=en",
     "verifiedInGame": false
   },
   {
@@ -2467,7 +2440,6 @@
       "name": "magnezone"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magneton.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/magneton?lang=en",
     "verifiedInGame": false
   },
   {
@@ -2560,7 +2532,6 @@
       "name": "onix"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magnezone.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/magnezone?lang=en",
     "verifiedInGame": false
   },
   {
@@ -2648,7 +2619,6 @@
       "name": "steelix"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/onix.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/onix?lang=en",
     "verifiedInGame": false
   },
   {
@@ -2736,7 +2706,6 @@
       "name": "cubone"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/steelix.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/steelix?lang=en",
     "verifiedInGame": false
   },
   {
@@ -2816,7 +2785,6 @@
       "name": "marowak"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cubone.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/cubone?lang=en",
     "verifiedInGame": false
   },
   {
@@ -2896,7 +2864,6 @@
       "name": "tyrogue"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/marowak.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/marowak?lang=en",
     "verifiedInGame": false
   },
   {
@@ -2976,7 +2943,6 @@
       "name": "hitmonlee"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tyrogue.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/tyrogue?lang=en",
     "verifiedInGame": false
   },
   {
@@ -3056,7 +3022,6 @@
       "name": "hitmonchan"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hitmonlee.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/hitmonlee?lang=en",
     "verifiedInGame": false
   },
   {
@@ -3136,7 +3101,6 @@
       "name": "hitmontop"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hitmonchan.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/hitmonchan?lang=en",
     "verifiedInGame": false
   },
   {
@@ -3216,7 +3180,6 @@
       "name": "koffing"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hitmontop.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/hitmontop?lang=en",
     "verifiedInGame": false
   },
   {
@@ -3292,7 +3255,6 @@
       "name": "weezing"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/koffing.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/koffing?lang=en",
     "verifiedInGame": false
   },
   {
@@ -3373,7 +3335,6 @@
       "name": "tangela"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/weezing.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/weezing?lang=en",
     "verifiedInGame": false
   },
   {
@@ -3453,7 +3414,6 @@
       "name": "tangrowth"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tangela.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/tangela?lang=en",
     "verifiedInGame": false
   },
   {
@@ -3537,7 +3497,6 @@
       "name": "scyther"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tangrowth.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/tangrowth?lang=en",
     "verifiedInGame": false
   },
   {
@@ -3617,7 +3576,6 @@
       "name": "scyther"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/professor-tangrowth.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/profesor-tangrowth?lang=en",
     "verifiedInGame": false
   },
   {
@@ -3701,7 +3659,6 @@
       "name": "scizor"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/scyther.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/scyther?lang=en",
     "verifiedInGame": false
   },
   {
@@ -3781,7 +3738,6 @@
       "name": "pinsir"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/scizor.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/scizor?lang=en",
     "verifiedInGame": false
   },
   {
@@ -3865,7 +3821,6 @@
       "name": "magikarp"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pinsir.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/pinsir?lang=en",
     "verifiedInGame": false
   },
   {
@@ -3940,7 +3895,6 @@
       "name": "gyarados"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magikarp.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/magikarp?lang=en",
     "verifiedInGame": false
   },
   {
@@ -4024,7 +3978,6 @@
       "name": "ditto"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gyarados.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/gyarados?lang=en",
     "verifiedInGame": false
   },
   {
@@ -4091,7 +4044,6 @@
       "name": "hoothoot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ditto.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/ditto?lang=en",
     "verifiedInGame": false
   },
   {
@@ -4189,7 +4141,6 @@
       "name": "noctowl"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hoothoot.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/hoothoot?lang=en",
     "verifiedInGame": false
   },
   {
@@ -4282,7 +4233,6 @@
       "name": "heracross"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/noctowl.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/noctowl?lang=en",
     "verifiedInGame": false
   },
   {
@@ -4370,7 +4320,6 @@
       "name": "volbeat"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/heracross.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/heracross?lang=en",
     "verifiedInGame": false
   },
   {
@@ -4450,7 +4399,6 @@
       "name": "illumise"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/volbeat.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/volbeat?lang=en",
     "verifiedInGame": false
   },
   {
@@ -4530,7 +4478,6 @@
       "name": "gulpin"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/illumise.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/illumise?lang=en",
     "verifiedInGame": false
   },
   {
@@ -4606,7 +4553,6 @@
       "name": "swalot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gulpin.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/gulpin?lang=en",
     "verifiedInGame": false
   },
   {
@@ -4686,7 +4632,6 @@
       "name": "cacnea"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/swalot.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/swalot?lang=en",
     "verifiedInGame": false
   },
   {
@@ -4770,7 +4715,6 @@
       "name": "cacturne"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cacnea.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/cacnea?lang=en",
     "verifiedInGame": false
   },
   {
@@ -4854,7 +4798,6 @@
       "name": "combee"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cacturne.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/cacturne?lang=en",
     "verifiedInGame": false
   },
   {
@@ -4938,7 +4881,6 @@
       "name": "vespiqueen"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/combee.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/combee?lang=en",
     "verifiedInGame": false
   },
   {
@@ -5026,7 +4968,6 @@
       "name": "shellos"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/vespiqueen.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/vespiqueen?lang=en",
     "verifiedInGame": false
   },
   {
@@ -5106,7 +5047,6 @@
       "name": "gastrodon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/shellos-east-sea.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/shellos-mar-este?lang=en",
     "verifiedInGame": false
   },
   {
@@ -5186,7 +5126,6 @@
       "name": "gastrodon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/shellos.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/shellos?lang=en",
     "verifiedInGame": false
   },
   {
@@ -5274,7 +5213,6 @@
       "name": "drifloon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gastrodon-east-sea.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/gastrodon-mar-este?lang=en",
     "verifiedInGame": false
   },
   {
@@ -5362,7 +5300,6 @@
       "name": "drifloon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gastrodon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/gastrodon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -5456,7 +5393,6 @@
       "name": "drifblim"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/drifloon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/drifloon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -5544,7 +5480,6 @@
       "name": "drilbur"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/drifblim.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/drifblim?lang=en",
     "verifiedInGame": false
   },
   {
@@ -5624,7 +5559,6 @@
       "name": "excadrill"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/drilbur.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/drilbur?lang=en",
     "verifiedInGame": false
   },
   {
@@ -5712,7 +5646,6 @@
       "name": "timburr"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/excadrill.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/excadrill?lang=en",
     "verifiedInGame": false
   },
   {
@@ -5792,7 +5725,6 @@
       "name": "gurdurr"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/timburr.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/timburr?lang=en",
     "verifiedInGame": false
   },
   {
@@ -5877,7 +5809,6 @@
       "name": "conkeldurr"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gurdurr.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/gurdurr?lang=en",
     "verifiedInGame": false
   },
   {
@@ -5961,7 +5892,6 @@
       "name": "litwick"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/conkeldurr.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/conkeldurr?lang=en",
     "verifiedInGame": false
   },
   {
@@ -6050,7 +5980,6 @@
       "name": "lampent"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/litwick.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/litwick?lang=en",
     "verifiedInGame": false
   },
   {
@@ -6139,7 +6068,6 @@
       "name": "chandelure"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lampent.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/lampent?lang=en",
     "verifiedInGame": false
   },
   {
@@ -6223,7 +6151,6 @@
       "name": "axew"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/chandelure.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/chandelure?lang=en",
     "verifiedInGame": false
   },
   {
@@ -6308,7 +6235,6 @@
       "name": "fraxure"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/axew.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/axew?lang=en",
     "verifiedInGame": false
   },
   {
@@ -6393,7 +6319,6 @@
       "name": "haxorus"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/fraxure.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/fraxure?lang=en",
     "verifiedInGame": false
   },
   {
@@ -6482,7 +6407,6 @@
       "name": "goomy"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/haxorus.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/haxorus?lang=en",
     "verifiedInGame": false
   },
   {
@@ -6572,7 +6496,6 @@
       "name": "sliggoo"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/goomy.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/goomy?lang=en",
     "verifiedInGame": false
   },
   {
@@ -6652,7 +6575,6 @@
       "name": "goodra"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sliggoo.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/sliggoo?lang=en",
     "verifiedInGame": false
   },
   {
@@ -6736,7 +6658,6 @@
       "name": "cramorant"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/goodra.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/goodra?lang=en",
     "verifiedInGame": false
   },
   {
@@ -6820,7 +6741,6 @@
       "name": "pichu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cramorant.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/cramorant?lang=en",
     "verifiedInGame": false
   },
   {
@@ -6900,7 +6820,6 @@
       "name": "pikachu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pichu.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/pichu?lang=en",
     "verifiedInGame": false
   },
   {
@@ -6980,7 +6899,6 @@
       "name": "raichu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/palidachu.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/palidachu?lang=en",
     "verifiedInGame": false
   },
   {
@@ -7056,7 +6974,6 @@
       "name": "raichu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pikachu.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/pikachu?lang=en",
     "verifiedInGame": false
   },
   {
@@ -7140,7 +7057,6 @@
       "name": "zubat"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/raichu.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/raichu?lang=en",
     "verifiedInGame": false
   },
   {
@@ -7229,7 +7145,6 @@
       "name": "golbat"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/zubat.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/zubat?lang=en",
     "verifiedInGame": false
   },
   {
@@ -7313,7 +7228,6 @@
       "name": "crobat"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/golbat.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/golbat?lang=en",
     "verifiedInGame": false
   },
   {
@@ -7406,7 +7320,6 @@
       "name": "meowth"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/crobat.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/crobat?lang=en",
     "verifiedInGame": false
   },
   {
@@ -7491,7 +7404,6 @@
       "name": "persian"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/meowth.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/meowth?lang=en",
     "verifiedInGame": false
   },
   {
@@ -7575,7 +7487,6 @@
       "name": "psyduck"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/persian.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/persian?lang=en",
     "verifiedInGame": false
   },
   {
@@ -7655,7 +7566,6 @@
       "name": "golduck"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/psyduck.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/psyduck?lang=en",
     "verifiedInGame": false
   },
   {
@@ -7735,7 +7645,6 @@
       "name": "growlithe"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/golduck.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/golduck?lang=en",
     "verifiedInGame": false
   },
   {
@@ -7824,7 +7733,6 @@
       "name": "arcanine"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/growlithe.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/growlithe?lang=en",
     "verifiedInGame": false
   },
   {
@@ -7913,7 +7821,6 @@
       "name": "farfetch-d"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/arcanine.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/arcanine?lang=en",
     "verifiedInGame": false
   },
   {
@@ -8001,7 +7908,6 @@
       "name": "grimer"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/farfetch-d.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/farfetch-d?lang=en",
     "verifiedInGame": false
   },
   {
@@ -8081,7 +7987,6 @@
       "name": "muk"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/grimer.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/grimer?lang=en",
     "verifiedInGame": false
   },
   {
@@ -8161,7 +8066,6 @@
       "name": "gastly"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/muk.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/muk?lang=en",
     "verifiedInGame": false
   },
   {
@@ -8249,7 +8153,6 @@
       "name": "haunter"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gastly.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/gastly?lang=en",
     "verifiedInGame": false
   },
   {
@@ -8342,7 +8245,6 @@
       "name": "gengar"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/haunter.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/haunter?lang=en",
     "verifiedInGame": false
   },
   {
@@ -8430,7 +8332,6 @@
       "name": "voltorb"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gengar.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/gengar?lang=en",
     "verifiedInGame": false
   },
   {
@@ -8519,7 +8420,6 @@
       "name": "electrode"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/voltorb.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/voltorb?lang=en",
     "verifiedInGame": false
   },
   {
@@ -8608,7 +8508,6 @@
       "name": "exeggcute"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/electrode.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/electrode?lang=en",
     "verifiedInGame": false
   },
   {
@@ -8701,7 +8600,6 @@
       "name": "exeggutor"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/exeggcute.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/exeggcute?lang=en",
     "verifiedInGame": false
   },
   {
@@ -8794,7 +8692,6 @@
       "name": "happiny"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/exeggutor.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/exeggutor?lang=en",
     "verifiedInGame": false
   },
   {
@@ -8879,7 +8776,6 @@
       "name": "chansey"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/happiny.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/happiny?lang=en",
     "verifiedInGame": false
   },
   {
@@ -8959,7 +8855,6 @@
       "name": "blissey"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/chansey.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/chansey?lang=en",
     "verifiedInGame": false
   },
   {
@@ -9043,7 +8938,6 @@
       "name": "elekid"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/blissey.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/blissey?lang=en",
     "verifiedInGame": false
   },
   {
@@ -9123,7 +9017,6 @@
       "name": "electabuzz"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/elekid.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/elekid?lang=en",
     "verifiedInGame": false
   },
   {
@@ -9208,7 +9101,6 @@
       "name": "electivire"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/electabuzz.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/electabuzz?lang=en",
     "verifiedInGame": false
   },
   {
@@ -9297,7 +9189,6 @@
       "name": "lapras"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/electivire.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/electivire?lang=en",
     "verifiedInGame": false
   },
   {
@@ -9381,7 +9272,6 @@
       "name": "munchlax"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lapras.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/lapras?lang=en",
     "verifiedInGame": false
   },
   {
@@ -9466,7 +9356,6 @@
       "name": "snorlax"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/munchlax.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/munchlax?lang=en",
     "verifiedInGame": false
   },
   {
@@ -9551,7 +9440,6 @@
       "name": "spinarak"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/snorlax.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/snorlax?lang=en",
     "verifiedInGame": false
   },
   {
@@ -9631,7 +9519,6 @@
       "name": "spinarak"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/musgorlax.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/musgorlax?lang=en",
     "verifiedInGame": false
   },
   {
@@ -9715,7 +9602,6 @@
       "name": "ariados"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/spinarak.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/spinarak?lang=en",
     "verifiedInGame": false
   },
   {
@@ -9799,7 +9685,6 @@
       "name": "mareep"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ariados.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/ariados?lang=en",
     "verifiedInGame": false
   },
   {
@@ -9888,7 +9773,6 @@
       "name": "flaaffy"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mareep.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/mareep?lang=en",
     "verifiedInGame": false
   },
   {
@@ -9977,7 +9861,6 @@
       "name": "ampharos"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/flaaffy.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/flaaffy?lang=en",
     "verifiedInGame": false
   },
   {
@@ -10061,7 +9944,6 @@
       "name": "azurill"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ampharos.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/ampharos?lang=en",
     "verifiedInGame": false
   },
   {
@@ -10154,7 +10036,6 @@
       "name": "marill"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/azurill.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/azurill?lang=en",
     "verifiedInGame": false
   },
   {
@@ -10247,7 +10128,6 @@
       "name": "azumarill"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/marill.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/marill?lang=en",
     "verifiedInGame": false
   },
   {
@@ -10335,7 +10215,6 @@
       "name": "wooper-de-paldea"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/azumarill.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/azumarill?lang=en",
     "verifiedInGame": false
   },
   {
@@ -10415,7 +10294,6 @@
       "name": "clodsire"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/paldean-wooper.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/wooper-de-paldea?lang=en",
     "verifiedInGame": false
   },
   {
@@ -10508,7 +10386,6 @@
       "name": "smeargle"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/clodsire.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/clodsire?lang=en",
     "verifiedInGame": false
   },
   {
@@ -10588,7 +10465,6 @@
       "name": "torchic"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/smeargle.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/smeargle?lang=en",
     "verifiedInGame": false
   },
   {
@@ -10673,7 +10549,6 @@
       "name": "combusken"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/torchic.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/torchic?lang=en",
     "verifiedInGame": false
   },
   {
@@ -10766,7 +10641,6 @@
       "name": "blaziken"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/combusken.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/combusken?lang=en",
     "verifiedInGame": false
   },
   {
@@ -10859,7 +10733,6 @@
       "name": "wingull"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/blaziken.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/blaziken?lang=en",
     "verifiedInGame": false
   },
   {
@@ -10952,7 +10825,6 @@
       "name": "pelipper"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wingull.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/wingull?lang=en",
     "verifiedInGame": false
   },
   {
@@ -11045,7 +10917,6 @@
       "name": "makuhita"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pelipper.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/pelipper?lang=en",
     "verifiedInGame": false
   },
   {
@@ -11134,7 +11005,6 @@
       "name": "hariyama"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/makuhita.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/makuhita?lang=en",
     "verifiedInGame": false
   },
   {
@@ -11223,7 +11093,6 @@
       "name": "absol"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hariyama.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/hariyama?lang=en",
     "verifiedInGame": false
   },
   {
@@ -11303,7 +11172,6 @@
       "name": "piplup"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/absol.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/absol?lang=en",
     "verifiedInGame": false
   },
   {
@@ -11383,7 +11251,6 @@
       "name": "prinplup"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/piplup.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/piplup?lang=en",
     "verifiedInGame": false
   },
   {
@@ -11472,7 +11339,6 @@
       "name": "empoleon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/prinplup.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/prinplup?lang=en",
     "verifiedInGame": false
   },
   {
@@ -11565,7 +11431,6 @@
       "name": "audino"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/empoleon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/empoleon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -11645,7 +11510,6 @@
       "name": "trubbish"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/audino.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/audino?lang=en",
     "verifiedInGame": false
   },
   {
@@ -11725,7 +11589,6 @@
       "name": "garbodor"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/trubbish.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/trubbish?lang=en",
     "verifiedInGame": false
   },
   {
@@ -11809,7 +11672,6 @@
       "name": "zorua"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/garbodor.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/garbodor?lang=en",
     "verifiedInGame": false
   },
   {
@@ -11889,7 +11751,6 @@
       "name": "zoroark"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/zorua.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/zorua?lang=en",
     "verifiedInGame": false
   },
   {
@@ -11978,7 +11839,6 @@
       "name": "minccino"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/zoroark.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/zoroark?lang=en",
     "verifiedInGame": false
   },
   {
@@ -12063,7 +11923,6 @@
       "name": "cinccino"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/minccino.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/minccino?lang=en",
     "verifiedInGame": false
   },
   {
@@ -12147,7 +12006,6 @@
       "name": "grubbin"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cinccino.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/cinccino?lang=en",
     "verifiedInGame": false
   },
   {
@@ -12232,7 +12090,6 @@
       "name": "charjabug"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/grubbin.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/grubbin?lang=en",
     "verifiedInGame": false
   },
   {
@@ -12320,7 +12177,6 @@
       "name": "vikavolt"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/charjabug.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/charjabug?lang=en",
     "verifiedInGame": false
   },
   {
@@ -12408,7 +12264,6 @@
       "name": "mimikyu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/vikavolt.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/vikavolt?lang=en",
     "verifiedInGame": false
   },
   {
@@ -12492,7 +12347,6 @@
       "name": "pawmi"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mimikyu.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/mimikyu?lang=en",
     "verifiedInGame": false
   },
   {
@@ -12577,7 +12431,6 @@
       "name": "pawmo"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pawmi.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/pawmi?lang=en",
     "verifiedInGame": false
   },
   {
@@ -12670,7 +12523,6 @@
       "name": "pawmot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pawmo.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/pawmo?lang=en",
     "verifiedInGame": false
   },
   {
@@ -12758,7 +12610,6 @@
       "name": "tatsugiri-forma-curvada"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pawmot.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/pawmot?lang=en",
     "verifiedInGame": false
   },
   {
@@ -12842,7 +12693,6 @@
       "name": "ekans"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tatsugiri-droopy-form.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/tatsugiri-forma-languida?lang=en",
     "verifiedInGame": false
   },
   {
@@ -12926,7 +12776,6 @@
       "name": "ekans"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tatsugiri-stretchy-form.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/tatsugiri-forma-recta?lang=en",
     "verifiedInGame": false
   },
   {
@@ -13010,7 +12859,6 @@
       "name": "ekans"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tatsugiri-curly-form.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/tatsugiri-forma-curvada?lang=en",
     "verifiedInGame": false
   },
   {
@@ -13090,7 +12938,6 @@
       "name": "arbok"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ekans.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/ekans?lang=en",
     "verifiedInGame": false
   },
   {
@@ -13170,7 +13017,6 @@
       "name": "cleffa"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/arbok.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/arbok?lang=en",
     "verifiedInGame": false
   },
   {
@@ -13250,7 +13096,6 @@
       "name": "clefairy"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cleffa.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/cleffa?lang=en",
     "verifiedInGame": false
   },
   {
@@ -13335,7 +13180,6 @@
       "name": "clefable"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/clefairy.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/clefairy?lang=en",
     "verifiedInGame": false
   },
   {
@@ -13424,7 +13268,6 @@
       "name": "igglypuff"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/clefable.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/clefable?lang=en",
     "verifiedInGame": false
   },
   {
@@ -13508,7 +13351,6 @@
       "name": "jigglypuff"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/igglypuff.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/igglypuff?lang=en",
     "verifiedInGame": false
   },
   {
@@ -13597,7 +13439,6 @@
       "name": "wigglytuff"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/jigglypuff.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/jigglypuff?lang=en",
     "verifiedInGame": false
   },
   {
@@ -13685,7 +13526,6 @@
       "name": "diglett"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wigglytuff.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/wigglytuff?lang=en",
     "verifiedInGame": false
   },
   {
@@ -13775,7 +13615,6 @@
       "name": "dugtrio"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/diglett.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/diglett?lang=en",
     "verifiedInGame": false
   },
   {
@@ -13859,7 +13698,6 @@
       "name": "machop"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dugtrio.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/dugtrio?lang=en",
     "verifiedInGame": false
   },
   {
@@ -13939,7 +13777,6 @@
       "name": "machoke"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/machop.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/machop?lang=en",
     "verifiedInGame": false
   },
   {
@@ -14028,7 +13865,6 @@
       "name": "machamp"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/machoke.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/machoke?lang=en",
     "verifiedInGame": false
   },
   {
@@ -14117,7 +13953,6 @@
       "name": "geodude"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/machamp.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/machamp?lang=en",
     "verifiedInGame": false
   },
   {
@@ -14197,7 +14032,6 @@
       "name": "graveler"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/geodude.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/geodude?lang=en",
     "verifiedInGame": false
   },
   {
@@ -14281,7 +14115,6 @@
       "name": "golem"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/graveler.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/graveler?lang=en",
     "verifiedInGame": false
   },
   {
@@ -14369,7 +14202,6 @@
       "name": "magby"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/golem.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/golem?lang=en",
     "verifiedInGame": false
   },
   {
@@ -14443,7 +14275,6 @@
       "name": "magmar"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magby.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/magby?lang=en",
     "verifiedInGame": false
   },
   {
@@ -14523,7 +14354,6 @@
       "name": "magmortar"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magmar.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/magmar?lang=en",
     "verifiedInGame": false
   },
   {
@@ -14607,7 +14437,6 @@
       "name": "bonsly"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/magmortar.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/magmortar?lang=en",
     "verifiedInGame": false
   },
   {
@@ -14687,7 +14516,6 @@
       "name": "sudowoodo"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/bonsly.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/bonsly?lang=en",
     "verifiedInGame": false
   },
   {
@@ -14772,7 +14600,6 @@
       "name": "murkrow"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sudowoodo.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/sudowoodo?lang=en",
     "verifiedInGame": false
   },
   {
@@ -14865,7 +14692,6 @@
       "name": "honchkrow"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/murkrow.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/murkrow?lang=en",
     "verifiedInGame": false
   },
   {
@@ -14958,7 +14784,6 @@
       "name": "larvitar"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/honchkrow.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/honchkrow?lang=en",
     "verifiedInGame": false
   },
   {
@@ -15046,7 +14871,6 @@
       "name": "pupitar"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/larvitar.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/larvitar?lang=en",
     "verifiedInGame": false
   },
   {
@@ -15134,7 +14958,6 @@
       "name": "tyranitar"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pupitar.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/pupitar?lang=en",
     "verifiedInGame": false
   },
   {
@@ -15227,7 +15050,6 @@
       "name": "lotad"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tyranitar.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/tyranitar?lang=en",
     "verifiedInGame": false
   },
   {
@@ -15321,7 +15143,6 @@
       "name": "lombre"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lotad.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/lotad?lang=en",
     "verifiedInGame": false
   },
   {
@@ -15410,7 +15231,6 @@
       "name": "ludicolo"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lombre.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/lombre?lang=en",
     "verifiedInGame": false
   },
   {
@@ -15498,7 +15318,6 @@
       "name": "mawile"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ludicolo.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/ludicolo?lang=en",
     "verifiedInGame": false
   },
   {
@@ -15582,7 +15401,6 @@
       "name": "torkoak"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mawile.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/mawile?lang=en",
     "verifiedInGame": false
   },
   {
@@ -15662,7 +15480,6 @@
       "name": "kricketot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/torkoak.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/torkoak?lang=en",
     "verifiedInGame": false
   },
   {
@@ -15747,7 +15564,6 @@
       "name": "kricketune"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kricketot.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/kricketot?lang=en",
     "verifiedInGame": false
   },
   {
@@ -15827,7 +15643,6 @@
       "name": "chatot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kricketune.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/kricketune?lang=en",
     "verifiedInGame": false
   },
   {
@@ -15920,7 +15735,6 @@
       "name": "riolu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/chatot.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/chatot?lang=en",
     "verifiedInGame": false
   },
   {
@@ -16005,7 +15819,6 @@
       "name": "lucario"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/riolu.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/riolu?lang=en",
     "verifiedInGame": false
   },
   {
@@ -16089,7 +15902,6 @@
       "name": "rotom"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lucario.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/lucario?lang=en",
     "verifiedInGame": false
   },
   {
@@ -16173,7 +15985,6 @@
       "name": "larvesta"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/rotom.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/rotom?lang=en",
     "verifiedInGame": false
   },
   {
@@ -16257,7 +16068,6 @@
       "name": "volcarona"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/larvesta.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/larvesta?lang=en",
     "verifiedInGame": false
   },
   {
@@ -16350,7 +16160,6 @@
       "name": "rowlet"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/volcarona.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/volcarona?lang=en",
     "verifiedInGame": false
   },
   {
@@ -16430,7 +16239,6 @@
       "name": "dartrix"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/rowlet.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/rowlet?lang=en",
     "verifiedInGame": false
   },
   {
@@ -16511,7 +16319,6 @@
       "name": "decidueye"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dartrix.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/dartrix?lang=en",
     "verifiedInGame": false
   },
   {
@@ -16604,7 +16411,6 @@
       "name": "scorbunny"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/decidueye.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/decidueye?lang=en",
     "verifiedInGame": false
   },
   {
@@ -16684,7 +16490,6 @@
       "name": "raboot"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/scorbunny.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/scorbunny?lang=en",
     "verifiedInGame": false
   },
   {
@@ -16769,7 +16574,6 @@
       "name": "cinderace"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/raboot.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/raboot?lang=en",
     "verifiedInGame": false
   },
   {
@@ -16858,7 +16662,6 @@
       "name": "skwovet"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cinderace.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/cinderace?lang=en",
     "verifiedInGame": false
   },
   {
@@ -16938,7 +16741,6 @@
       "name": "greedent"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/skwovet.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/skwovet?lang=en",
     "verifiedInGame": false
   },
   {
@@ -17018,7 +16820,6 @@
       "name": "rolycoly"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/greedent.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/greedent?lang=en",
     "verifiedInGame": false
   },
   {
@@ -17102,7 +16903,6 @@
       "name": "carkol"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/rolycoly.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/rolycoly?lang=en",
     "verifiedInGame": false
   },
   {
@@ -17190,7 +16990,6 @@
       "name": "coalossal"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/carkol.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/carkol?lang=en",
     "verifiedInGame": false
   },
   {
@@ -17283,7 +17082,6 @@
       "name": "toxel"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/coalossal.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/coalossal?lang=en",
     "verifiedInGame": false
   },
   {
@@ -17367,7 +17165,6 @@
       "name": "toxtricity-forma-aguda"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/toxel.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/toxel?lang=en",
     "verifiedInGame": false
   },
   {
@@ -17455,7 +17252,6 @@
       "name": "fidough"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/toxtricity-low-key-form.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/toxtricity-forma-grave?lang=en",
     "verifiedInGame": false
   },
   {
@@ -17543,7 +17339,6 @@
       "name": "fidough"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/toxtricity-amped-form.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/toxtricity-forma-aguda?lang=en",
     "verifiedInGame": false
   },
   {
@@ -17628,7 +17423,6 @@
       "name": "dachsbun"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/fidough.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/fidough?lang=en",
     "verifiedInGame": false
   },
   {
@@ -17717,7 +17511,6 @@
       "name": "charcadet"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dachsbun.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/dachsbun?lang=en",
     "verifiedInGame": false
   },
   {
@@ -17797,7 +17590,6 @@
       "name": "armarouge"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/charcadet.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/charcadet?lang=en",
     "verifiedInGame": false
   },
   {
@@ -17881,7 +17673,6 @@
       "name": "ceruledge"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/armarouge.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/armarouge?lang=en",
     "verifiedInGame": false
   },
   {
@@ -17965,7 +17756,6 @@
       "name": "glimmet"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ceruledge.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/ceruledge?lang=en",
     "verifiedInGame": false
   },
   {
@@ -18054,7 +17844,6 @@
       "name": "glimmora"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/glimmet.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/glimmet?lang=en",
     "verifiedInGame": false
   },
   {
@@ -18143,7 +17932,6 @@
       "name": "gimmighoul"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/glimmora.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/glimmora?lang=en",
     "verifiedInGame": false
   },
   {
@@ -18223,7 +18011,6 @@
       "name": "gholdengo"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gimmighoul.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/gimmighoul?lang=en",
     "verifiedInGame": false
   },
   {
@@ -18307,7 +18094,6 @@
       "name": "vulpix"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gholdengo.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/gholdengo?lang=en",
     "verifiedInGame": false
   },
   {
@@ -18387,7 +18173,6 @@
       "name": "ninetales"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/vulpix.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/vulpix?lang=en",
     "verifiedInGame": false
   },
   {
@@ -18472,7 +18257,6 @@
       "name": "poliwag"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ninetales.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/ninetales?lang=en",
     "verifiedInGame": false
   },
   {
@@ -18552,7 +18336,6 @@
       "name": "poliwhirl"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/poliwag.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/poliwag?lang=en",
     "verifiedInGame": false
   },
   {
@@ -18632,7 +18415,6 @@
       "name": "poliwrath"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/poliwhirl.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/poliwhirl?lang=en",
     "verifiedInGame": false
   },
   {
@@ -18725,7 +18507,6 @@
       "name": "politoed"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/poliwrath.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/poliwrath?lang=en",
     "verifiedInGame": false
   },
   {
@@ -18819,7 +18600,6 @@
       "name": "abra"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/politoed.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/politoed?lang=en",
     "verifiedInGame": false
   },
   {
@@ -18904,7 +18684,6 @@
       "name": "kadabra"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/abra.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/abra?lang=en",
     "verifiedInGame": false
   },
   {
@@ -18984,7 +18763,6 @@
       "name": "alakazam"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kadabra.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/kadabra?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19070,7 +18848,6 @@
     },
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/alakazam.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/alakazam?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19108,7 +18885,6 @@
       "name": "mr-mime"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mime-jr.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/mime-jr?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19150,7 +18926,6 @@
     },
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mr-mime.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/mr-mime?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19230,7 +19005,6 @@
       "name": "porygon2"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/porygon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/porygon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19310,7 +19084,6 @@
       "name": "porygon-z"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/porygon2.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/porygon2?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19390,7 +19163,6 @@
       "name": "dratini"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/porygon-z.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/porygon-z?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19475,7 +19247,6 @@
       "name": "dragonair"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dratini.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/dratini?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19560,7 +19331,6 @@
       "name": "dragonite"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dragonair.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/dragonair?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19648,7 +19418,6 @@
       "name": "cyndaquil"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dragonite.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/dragonite?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19728,7 +19497,6 @@
       "name": "quilava"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cyndaquil.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/cyndaquil?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19813,7 +19581,6 @@
       "name": "typhlosion"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/quilava.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/quilava?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19902,7 +19669,6 @@
       "name": "misdreavus"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/typhlosion.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/typhlosion?lang=en",
     "verifiedInGame": false
   },
   {
@@ -19987,7 +19753,6 @@
       "name": "mismagius"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/misdreavus.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/misdreavus?lang=en",
     "verifiedInGame": false
   },
   {
@@ -20081,7 +19846,6 @@
       "name": "girafarig"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mismagius.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/mismagius?lang=en",
     "verifiedInGame": false
   },
   {
@@ -20165,7 +19929,6 @@
       "name": "farigiraf"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/girafarig.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/girafarig?lang=en",
     "verifiedInGame": false
   },
   {
@@ -20253,7 +20016,6 @@
       "name": "ralts"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/farigiraf.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/farigiraf?lang=en",
     "verifiedInGame": false
   },
   {
@@ -20337,7 +20099,6 @@
       "name": "kirlia"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ralts.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/ralts?lang=en",
     "verifiedInGame": false
   },
   {
@@ -20426,7 +20187,6 @@
       "name": "gardevoir"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kirlia.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/kirlia?lang=en",
     "verifiedInGame": false
   },
   {
@@ -20519,7 +20279,6 @@
       "name": "gallade"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gardevoir.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/gardevoir?lang=en",
     "verifiedInGame": false
   },
   {
@@ -20607,7 +20366,6 @@
       "name": "plusle"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/gallade.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/gallade?lang=en",
     "verifiedInGame": false
   },
   {
@@ -20687,7 +20445,6 @@
       "name": "minun"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/plusle.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/plusle?lang=en",
     "verifiedInGame": false
   },
   {
@@ -20767,7 +20524,6 @@
       "name": "trapinch"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/minun.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/minun?lang=en",
     "verifiedInGame": false
   },
   {
@@ -20851,7 +20607,6 @@
       "name": "vibrava"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/trapinch.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/trapinch?lang=en",
     "verifiedInGame": false
   },
   {
@@ -20939,7 +20694,6 @@
       "name": "flygon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/vibrava.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/vibrava?lang=en",
     "verifiedInGame": false
   },
   {
@@ -21027,7 +20781,6 @@
       "name": "swablu"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/flygon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/flygon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -21111,7 +20864,6 @@
       "name": "altaria"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/swablu.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/swablu?lang=en",
     "verifiedInGame": false
   },
   {
@@ -21199,7 +20951,6 @@
       "name": "duskull"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/altaria.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/altaria?lang=en",
     "verifiedInGame": false
   },
   {
@@ -21279,7 +21030,6 @@
       "name": "dusclops"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/duskull.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/duskull?lang=en",
     "verifiedInGame": false
   },
   {
@@ -21359,7 +21109,6 @@
       "name": "dusknoir"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dusclops.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/dusclops?lang=en",
     "verifiedInGame": false
   },
   {
@@ -21443,7 +21192,6 @@
       "name": "beldum"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dusknoir.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/dusknoir?lang=en",
     "verifiedInGame": false
   },
   {
@@ -21527,7 +21275,6 @@
       "name": "metang"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/beldum.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/beldum?lang=en",
     "verifiedInGame": false
   },
   {
@@ -21611,7 +21358,6 @@
       "name": "metagross"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/metang.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/metang?lang=en",
     "verifiedInGame": false
   },
   {
@@ -21699,7 +21445,6 @@
       "name": "snivy"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/metagross.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/metagross?lang=en",
     "verifiedInGame": false
   },
   {
@@ -21779,7 +21524,6 @@
       "name": "servine"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/snivy.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/snivy?lang=en",
     "verifiedInGame": false
   },
   {
@@ -21863,7 +21607,6 @@
       "name": "serperior"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/servine.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/servine?lang=en",
     "verifiedInGame": false
   },
   {
@@ -21952,7 +21695,6 @@
       "name": "froakie"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/serperior.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/serperior?lang=en",
     "verifiedInGame": false
   },
   {
@@ -22032,7 +21774,6 @@
       "name": "frogadier"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/froakie.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/froakie?lang=en",
     "verifiedInGame": false
   },
   {
@@ -22117,7 +21858,6 @@
       "name": "greninja"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/frogadier.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/frogadier?lang=en",
     "verifiedInGame": false
   },
   {
@@ -22210,7 +21950,6 @@
       "name": "dedenne"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/greninja.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/greninja?lang=en",
     "verifiedInGame": false
   },
   {
@@ -22294,7 +22033,6 @@
       "name": "noibat"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dedenne.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/dedenne?lang=en",
     "verifiedInGame": false
   },
   {
@@ -22378,7 +22116,6 @@
       "name": "noivern"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/noibat.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/noibat?lang=en",
     "verifiedInGame": false
   },
   {
@@ -22466,7 +22203,6 @@
       "name": "rookidee"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/noivern.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/noivern?lang=en",
     "verifiedInGame": false
   },
   {
@@ -22546,7 +22282,6 @@
       "name": "corvisquire"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/rookidee.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/rookidee?lang=en",
     "verifiedInGame": false
   },
   {
@@ -22626,7 +22361,6 @@
       "name": "corviknight"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/corvisquire.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/corvisquire?lang=en",
     "verifiedInGame": false
   },
   {
@@ -22719,7 +22453,6 @@
       "name": "dreepy"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/corviknight.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/corviknight?lang=en",
     "verifiedInGame": false
   },
   {
@@ -22807,7 +22540,6 @@
       "name": "drakloak"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dreepy.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/dreepy?lang=en",
     "verifiedInGame": false
   },
   {
@@ -22895,7 +22627,6 @@
       "name": "dragapult"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/drakloak.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/drakloak?lang=en",
     "verifiedInGame": false
   },
   {
@@ -22988,7 +22719,6 @@
       "name": "sprigatito"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dragapult.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/dragapult?lang=en",
     "verifiedInGame": false
   },
   {
@@ -23073,7 +22803,6 @@
       "name": "floragato"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sprigatito.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/sprigatito?lang=en",
     "verifiedInGame": false
   },
   {
@@ -23153,7 +22882,6 @@
       "name": "meowscarada"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/floragato.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/floragato?lang=en",
     "verifiedInGame": false
   },
   {
@@ -23241,7 +22969,6 @@
       "name": "wattrel"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/meowscarada.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/meowscarada?lang=en",
     "verifiedInGame": false
   },
   {
@@ -23325,7 +23052,6 @@
       "name": "kilowattrel"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wattrel.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/wattrel?lang=en",
     "verifiedInGame": false
   },
   {
@@ -23413,7 +23139,6 @@
       "name": "tinkatink"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kilowattrel.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/kilowattrel?lang=en",
     "verifiedInGame": false
   },
   {
@@ -23507,7 +23232,6 @@
       "name": "tinkatuff"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tinkatink.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/tinkatink?lang=en",
     "verifiedInGame": false
   },
   {
@@ -23591,7 +23315,6 @@
       "name": "tinkaton"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tinkatuff.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/tinkatuff?lang=en",
     "verifiedInGame": false
   },
   {
@@ -23675,7 +23398,6 @@
       "name": "aerodactyl"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tinkaton.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/tinkaton?lang=en",
     "verifiedInGame": false
   },
   {
@@ -23759,7 +23481,6 @@
       "name": "cranidos"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/aerodactyl.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/aerodactyl?lang=en",
     "verifiedInGame": false
   },
   {
@@ -23839,7 +23560,6 @@
       "name": "rampardos"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cranidos.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/cranidos?lang=en",
     "verifiedInGame": false
   },
   {
@@ -23923,7 +23643,6 @@
       "name": "shieldon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/rampardos.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/rampardos?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24007,7 +23726,6 @@
       "name": "bastiodon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/shieldon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/shieldon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24095,7 +23813,6 @@
       "name": "tyrunt"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/bastiodon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/bastiodon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24179,7 +23896,6 @@
       "name": "tyrantrum"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tyrunt.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/tyrunt?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24267,7 +23983,6 @@
       "name": "amaura"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/tyrantrum.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/tyrantrum?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24351,7 +24066,6 @@
       "name": "aurorus"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/amaura.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/amaura?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24439,7 +24153,6 @@
       "name": "eevee"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/aurorus.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/aurorus?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24519,7 +24232,6 @@
       "name": "vaporeon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/eevee.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/eevee?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24595,7 +24307,6 @@
       "name": "jolteon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/vaporeon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/vaporeon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24671,7 +24382,6 @@
       "name": "flareon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/jolteon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/jolteon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24747,7 +24457,6 @@
       "name": "espeon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/flareon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/flareon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24823,7 +24532,6 @@
       "name": "umbreon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/espeon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/espeon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24899,7 +24607,6 @@
       "name": "leafeon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/umbreon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/umbreon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -24975,7 +24682,6 @@
       "name": "glaceon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/leafeon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/leafeon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25051,7 +24757,6 @@
       "name": "sylveon"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/glaceon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/glaceon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25127,7 +24832,6 @@
       "name": "kyogre"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sylveon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/sylveon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25189,7 +24893,6 @@
       "name": "raikou"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kyogre.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/kyogre?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25256,7 +24959,6 @@
       "name": "entei"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/raikou.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/raikou?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25323,7 +25025,6 @@
       "name": "suicune"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/entei.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/entei?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25390,7 +25091,6 @@
       "name": "volcanion"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/suicune.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/suicune?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25461,7 +25161,6 @@
       "name": "articuno"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/volcanion.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/volcanion?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25532,7 +25231,6 @@
       "name": "zapdos"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/articuno.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/articuno?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25603,7 +25301,6 @@
       "name": "moltres"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/zapdos.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/zapdos?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25674,7 +25371,6 @@
       "name": "lugia"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/moltres.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/moltres?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25740,7 +25436,6 @@
       "name": "ho-oh"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lugia.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/lugia?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25806,7 +25501,6 @@
       "name": "mewtwo"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/ho-oh.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/ho-oh?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25873,7 +25567,6 @@
       "name": "mew"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mewtwo.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/mewtwo?lang=en",
     "verifiedInGame": false
   },
   {
@@ -25937,7 +25630,6 @@
     },
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mew.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/mew?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26018,7 +25710,6 @@
       "name": "skiploom"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/hoppip.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/hoppip?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26107,7 +25798,6 @@
       "name": "jumpluff"
     },
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/skiploom.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/skiploom?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26197,7 +25887,6 @@
     },
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/jumpluff.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/jumpluff?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26280,7 +25969,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sableye.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/sableye?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26324,7 +26012,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/shellder.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/shellder?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26367,7 +26054,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/cloyster.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/cloyster?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26401,7 +26087,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/horsea.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/horsea?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26435,7 +26120,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/seadra.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/seadra?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26478,7 +26162,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/kingdra.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/kingdra?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26512,7 +26195,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/staryu.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/staryu?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26550,7 +26232,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/starmie.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/starmie?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26594,7 +26275,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/totodile.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/totodile?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26633,7 +26313,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/croconaw.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/croconaw?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26672,7 +26351,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/feraligatr.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/feraligatr?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26710,7 +26388,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/chinchou.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/chinchou?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26748,7 +26425,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lanturn.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/lanturn?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26791,7 +26467,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/corsola.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/corsola?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26830,7 +26505,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mudkip.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/mudkip?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26873,7 +26547,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/marshtomp.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/marshtomp?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26916,7 +26589,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/swampert.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/swampert?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26954,7 +26626,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/carvanha.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/carvanha?lang=en",
     "verifiedInGame": false
   },
   {
@@ -26997,7 +26668,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/sharpedo.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/sharpedo?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27045,7 +26715,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/barboach.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/barboach?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27083,7 +26752,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/whiscash.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/whiscash?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27122,7 +26790,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/corphish.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/corphish?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27160,7 +26827,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/crawdaunt.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/crawdaunt?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27204,7 +26870,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/luvdisc.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/luvdisc?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27243,7 +26908,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/buizel.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/buizel?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27277,7 +26941,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/floatzel.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/floatzel?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27316,7 +26979,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/finneon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/finneon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27355,7 +27017,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/lumineon.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/lumineon?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27398,7 +27059,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": null,
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/frillish?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27436,7 +27096,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": null,
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/jellicent?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27475,7 +27134,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/alomomola.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/alomomola?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27518,7 +27176,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/stunfisk.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/stunfisk?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27556,7 +27213,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/inkay.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/inkay?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27594,7 +27250,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/malamar.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/malamar?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27633,7 +27288,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/popplio.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/popplio?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27667,7 +27321,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/brionne.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/brionne?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27710,7 +27363,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/primarina.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/primarina?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27748,7 +27400,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/mareanie.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/mareanie?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27786,7 +27437,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/toxapex.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/toxapex?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27824,7 +27474,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wimpod.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/wimpod?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27867,7 +27516,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/golisopod.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/golisopod?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27905,7 +27553,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/bruxish.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/bruxish?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27943,7 +27590,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/dhelmise.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/dhelmise?lang=en",
     "verifiedInGame": false
   },
   {
@@ -27977,7 +27623,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/chewtle.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/chewtle?lang=en",
     "verifiedInGame": false
   },
   {
@@ -28015,7 +27660,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/drednaw.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/drednaw?lang=en",
     "verifiedInGame": false
   },
   {
@@ -28049,7 +27693,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/pincurchin.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/pincurchin?lang=en",
     "verifiedInGame": false
   },
   {
@@ -28083,7 +27726,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wiglett.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/wiglett?lang=en",
     "verifiedInGame": false
   },
   {
@@ -28117,7 +27759,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/wugtrio.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/wugtrio?lang=en",
     "verifiedInGame": false
   },
   {
@@ -28155,7 +27796,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/veluza.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/veluza?lang=en",
     "verifiedInGame": false
   },
   {
@@ -28183,7 +27823,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/phione.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/phione?lang=en",
     "verifiedInGame": false
   },
   {
@@ -28211,7 +27850,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": "https://cdn.pokopiapi.com/images/pokemon/manaphy.png",
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/manaphy?lang=en",
     "verifiedInGame": false
   },
   {
@@ -28252,7 +27890,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": null,
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/jirachi?lang=en",
     "verifiedInGame": false
   },
   {
@@ -28289,7 +27926,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": null,
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/feebas?lang=en",
     "verifiedInGame": false
   },
   {
@@ -28330,7 +27966,6 @@
     "previousEvolution": null,
     "nextEvolution": null,
     "imageUrl": null,
-    "sourceUrl": "https://pokopiapi.com/api/v1/pokemon/milotic?lang=en",
     "verifiedInGame": false
   }
 ]

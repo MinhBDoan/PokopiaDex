@@ -1,5 +1,6 @@
 import { access, mkdir, writeFile } from "node:fs/promises";
 import { setTimeout as pause } from "node:timers/promises";
+import { saveSnapshot } from "./source-records.mjs";
 
 const origin = "https://pokopiaworld.org";
 async function get(url) {
@@ -72,10 +73,8 @@ try {
     }
     await Promise.all(Array.from({ length: 4 }, () => downloadIcons()));
   }
-  await writeFile(new URL("../src/data/habitats.generated.json", import.meta.url),
-    JSON.stringify(normalized, null, 2) + "\n");
-  if (materials) await writeFile(new URL("../src/data/habitat-materials.generated.json", import.meta.url),
-    JSON.stringify(materials, null, 2) + "\n");
+  await saveSnapshot("habitats", normalized);
+  if (materials) await saveSnapshot("habitat-materials", materials);
 
   console.log(`Imported ${habitats.length} habitats`);
 } catch (error) {

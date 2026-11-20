@@ -1,4 +1,4 @@
-import { writeFile } from "node:fs/promises";
+import { saveSnapshot } from "./source-records.mjs";
 
 const fields = [
   "localNumber", "nationalNumber", "name", "slug", "types", "specialties",
@@ -79,8 +79,7 @@ try {
   const json = JSON.stringify(records, null, 2) + "\n";
   if (write) {
     // This file is a snapshot of the requested slugs. Corrections live separately.
-    const output = new URL("../src/data/pokopia.generated.json", import.meta.url);
-    await writeFile(output, json, "utf8");
+    await saveSnapshot("pokopia", records);
     console.log(`Wrote ${records.length} record(s) to src/data/pokopia.generated.json`);
   } else {
     process.stdout.write(json);
